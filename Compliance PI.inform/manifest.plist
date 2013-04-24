@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Graphics</key>
+        <dict>
+        </dict>
+        <key>Sounds</key>
+        <dict>
+            <key>3</key>
+            <string>Sounds\</string>
+            <key>4</key>
+            <string>Sounds\gated\gated revsnap2.ogg</string>
+            <key>5</key>
+            <string>Sounds\campfire below\campfire below edit.ogg</string>
+            <key>6</key>
+            <string>Sounds\musicloops\loop 2.ogg</string>
+            <key>7</key>
+            <string>Sounds\rhythmic patterns\p1 rtm.ogg</string>
+            <key>8</key>
+            <string>Sounds\rhythmic patterns\p2 rtm.ogg</string>
+            <key>9</key>
+            <string>Sounds\Track 1\Layer 1 Bass\bline a.ogg</string>
+            <key>10</key>
+            <string>Sounds\Track 1\Layer 1 Bass\bline b.ogg</string>
+            <key>11</key>
+            <string>Sounds\Track 1\Layer 1 Bass\bline c.ogg</string>
+            <key>12</key>
+            <string>Sounds\Track 1\Layer 1 Bass\bline d.ogg</string>
+            <key>13</key>
+            <string>Sounds\Track 1\Layer 2 Lead\lead a.ogg</string>
+            <key>14</key>
+            <string>Sounds\Track 1\Layer 2 Lead\lead b.ogg</string>
+            <key>15</key>
+            <string>Sounds\Track 1\Layer 2 Lead\lead c.ogg</string>
+            <key>16</key>
+            <string>Sounds\Track 1\Layer 2 Lead\lead d.ogg</string>
+            <key>17</key>
+            <string>Sounds\Track 1\Layer 3 Chords\chords a.ogg</string>
+            <key>18</key>
+            <string>Sounds\Track 1\Layer 3 Chords\chords b.ogg</string>
+            <key>19</key>
+            <string>Sounds\Track 1\Layer 3 Chords\chords c.ogg</string>
+            <key>20</key>
+            <string>Sounds\Track 1\Layer 3 Chords\chords d.ogg</string>
+            <key>21</key>
+            <string>Sounds\Track 1\Layer 4 Rhythm\ridm a.ogg</string>
+            <key>22</key>
+            <string>Sounds\Track 1\Layer 4 Rhythm\ridm b.ogg</string>
+            <key>23</key>
+            <string>Sounds\Track 1\Layer 4 Rhythm\ridm c.ogg</string>
+            <key>24</key>
+            <string>Sounds\Track 1\Layer 4 Rhythm\ridm d.ogg</string>
+            <key>25</key>
+            <string>Sounds\t2 ogg\track 1 c64 chord\t1a1.ogg</string>
+            <key>26</key>
+            <string>Sounds\t2 ogg\track 1 c64 chord\t1b1.ogg</string>
+            <key>27</key>
+            <string>Sounds\t2 ogg\track 1 c64 chord\t1c1.ogg</string>
+            <key>28</key>
+            <string>Sounds\t2 ogg\track 2 git\t2a1.ogg</string>
+            <key>29</key>
+            <string>Sounds\t2 ogg\track 2 git\t2a2.ogg</string>
+            <key>30</key>
+            <string>Sounds\t2 ogg\track 2 git\t2a3.ogg</string>
+            <key>31</key>
+            <string>Sounds\t2 ogg\track 2 git\t2b1.ogg</string>
+            <key>32</key>
+            <string>Sounds\t2 ogg\track 2 git\t2b2.ogg</string>
+            <key>33</key>
+            <string>Sounds\t2 ogg\track 2 git\t2b3.ogg</string>
+            <key>34</key>
+            <string>Sounds\t2 ogg\track 2 git\t2c1.ogg</string>
+            <key>35</key>
+            <string>Sounds\t2 ogg\track 2 git\t2c2.ogg</string>
+            <key>36</key>
+            <string>Sounds\t2 ogg\track 2 git\t2c3.ogg</string>
+            <key>37</key>
+            <string>Sounds\t2 ogg\track 3 tom\t3a1.ogg</string>
+            <key>38</key>
+            <string>Sounds\t2 ogg\track 3 tom\t3b1.ogg</string>
+            <key>39</key>
+            <string>Sounds\t2 ogg\track 3 tom\t3c1.ogg</string>
+            <key>40</key>
+            <string>Sounds\t2 ogg\track 4 noise\t4a1.ogg</string>
+            <key>41</key>
+            <string>Sounds\bounces 2\Track 1 Piano 1a.ogg</string>
+            <key>42</key>
+            <string>Sounds\bounces 2\Track 2 Epno 1a.ogg</string>
+            <key>43</key>
+            <string>Sounds\bounces 2\Track 2 Epno 2a.ogg</string>
+            <key>44</key>
+            <string>Sounds\bounces 2\Track 3 Bass 1a.ogg</string>
+            <key>45</key>
+            <string>Sounds\bounces 2\Track 3 Bass 2a.ogg</string>
+            <key>46</key>
+            <string>Sounds\bounces 2\Track 4 Drums 1a.ogg</string>
+            <key>47</key>
+            <string>Sounds\bounces 2\Track 4 Drums 1b.ogg</string>
+            <key>48</key>
+            <string>Sounds\bounces 2\Track 4 Drums 1c.ogg</string>
+            <key>49</key>
+            <string>Sounds\gated\drips.ogg</string>
+            <key>50</key>
+            <string>Sounds\noises\noise 1.ogg</string>
+            <key>51</key>
+            <string>Sounds\noises\noise 2.ogg</string>
+            <key>52</key>
+            <string>Sounds\noises\noise 3.ogg</string>
+            <key>53</key>
+            <string>Sounds\fx cues\f1.ogg</string>
+            <key>54</key>
+            <string>Sounds\fx cues\f2.ogg</string>
+            <key>55</key>
+            <string>Sounds\RECORDINGS\steps\step 1.ogg</string>
+            <key>56</key>
+            <string>Sounds\RECORDINGS\steps\step 2.ogg</string>
+            <key>57</key>
+            <string>Sounds\RECORDINGS\steps\step 3.ogg</string>
+            <key>58</key>
+            <string>Sounds\RECORDINGS\steps\step 4.ogg</string>
+            <key>59</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 1.ogg</string>
+            <key>60</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 2.ogg</string>
+            <key>61</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 3.ogg</string>
+            <key>62</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 4.ogg</string>
+            <key>63</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 5.ogg</string>
+            <key>64</key>
+            <string>Sounds\RECORDINGS\water\water3.ogg</string>
+            <key>65</key>
+            <string>Sounds\RECORDINGS\materials\glass 1.ogg</string>
+            <key>66</key>
+            <string>Sounds\RECORDINGS\materials\knock 1.ogg</string>
+            <key>67</key>
+            <string>Sounds\RECORDINGS\materials\knock 2.ogg</string>
+            <key>68</key>
+            <string>Sounds\RECORDINGS\materials\knock 3.ogg</string>
+            <key>69</key>
+            <string>Sounds\RECORDINGS\materials\knock 4.ogg</string>
+            <key>70</key>
+            <string>Sounds\RECORDINGS\materials\metal 2.ogg</string>
+            <key>71</key>
+            <string>Sounds\RECORDINGS\materials\metal 3.ogg</string>
+            <key>72</key>
+            <string>Sounds\RECORDINGS\materials\metal 4.ogg</string>
+            <key>73</key>
+            <string>Sounds\RECORDINGS\materials\metal 5.ogg</string>
+            <key>74</key>
+            <string>Sounds\RECORDINGS\materials\metal 6.ogg</string>
+            <key>75</key>
+            <string>Sounds\RECORDINGS\materials\metal 7.ogg</string>
+            <key>76</key>
+            <string>Sounds\RECORDINGS\materials\plastic 1.ogg</string>
+            <key>77</key>
+            <string>Sounds\RECORDINGS\materials\rolling 1.ogg</string>
+            <key>78</key>
+            <string>Sounds\RECORDINGS\materials\rolling 2.ogg</string>
+        </dict>
+    </dict>
+</plist>
