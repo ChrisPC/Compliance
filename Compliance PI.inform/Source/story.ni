@@ -3,6 +3,7 @@
 The story headline is "An Experiment in Sound". The story genre is "Horror".
 
 Use American dialect and the serial comma and no scoring.
+Use MAX_STATIC_DATA of 360000. [Having two various-various relations on sounds is expensive]
 
 Include Multiple Sounds by Massimo Stella.
 Include Glulx Entry Points by Emily Short.
@@ -22,7 +23,7 @@ Book One - Niceties
 
 Part 1 - Listiness
 
-To decide which K is a random entry from (L - list of values of kind K) but/except not/-- (J - a K):
+To decide which K is a random entry from (L - list of values of kind K) but/except not/for/-- (J - a K):
 	sort L in random order;
 	if entry 1 in L is J, rotate L;
 	[	we want to prevent repeats, but if one does occur, no need to randomize the list again]
@@ -203,10 +204,9 @@ To change the sounds volume to (N - a number):
 	set the raw foreground volume to SFX multiplier * N;
 	now the sounds volume is N.
 	
-To interrupt/stop all the/-- sounds:
-	repeat with MC running through music channels:
-		now the time remaining of MC is 0;
-	now time remaining of M3S channel is 0;
+To interrupt/stop all the/-- sounds/sound:
+	repeat with SC running through sound channels:
+		now the time remaining of SC is 0;
 	stop the foreground sound;
 	stop the midground 3 sound;
 	stop the midground 2 sound;
@@ -218,18 +218,20 @@ Chapter 2 - Music
 
 Section 2a - music specification
 
-Music-following relates various sound names to various sound names. The verb to follow (it follows, they follow, it followed, it is followed, it is following) implies the music-following relation. The verb to precede (it precedes, they precede, it preceded, it is preceded, it is preceding) implies the reversed music-following relation.
+Sample-following relates various sound names to various sound names. The verb to follow (it follows, they follow, it followed, it is followed, it is following) implies the sample-following relation. The verb to precede (it precedes, they precede, it preceded, it is preceded, it is preceding) implies the reversed sample-following relation.
 
-Definition: a sound name is unrestrictive if it precedes nothing.
+Definition: a sound name is fussy rather than lenient if it precedes a sound name.
 
-Music-requiring relates various sound names to one sound name. The verb to be played only during implies the music-requiring relation. The verb to allow (it allows, they allow, it allowed, it is allowed, it is allowing) implies the reversed music-requiring relation.
+Music-requiring relates various sound names to various sound names. The verb to be played only during implies the music-requiring relation. The verb to allow (it allows, they allow, it allowed, it is allowed, it is allowing) implies the reversed music-requiring relation.
 
-Definition: a sound name is lenient if it allows nothing.
+Definition: a sound name is controlled rather than free if a sound name allows it.
 
 Section 2b - channels
 
 A sound channel is a kind of thing. 
 	A sound channel has a sound name called the current sample. 	
+		Definition: a sound channel is silent rather than auditory if the current sample of it is sound of null.
+	A sound channel has a sound name called the last played sample. 	
 	A sound channel has a number called the adjustment. 
 	A sound channel has a number called the target.
 	A sound channel has a number called the time remaining.
@@ -238,12 +240,50 @@ A sound channel is a kind of thing.
 	
 A music channel is a kind of sound channel.
 	A music channel has a number called the beat length. 
-	[New samples can start playing only every (beat length / 2) seconds.]
+	[New samples can start playing only every (beat length) half-seconds.]
 	A music channel has a number called the beat offset.
-	[Starts playing offset half-seconds after the beat. For partial drum fills etc]
+	[Starts playing (beat offset) half-seconds after the beat. For partial drum fills etc]
 	A music channel has a music channel called the superior. 
 		The verb to be subordinate to implies the superior property.
 		Definition: a music channel is root if the superior of it is it.
+		
+To potentially play a new sample on (SC - a sound channel):
+	if the time remaining of SC is positive, decrement the time remaining of SC;
+	if SC can start playing:
+		if SC is a music channel:
+			now beat length of SC is 0;
+			now beat offset of SC is 0;
+		now the potential track list is the list of sound names produced by the sample selection rules of SC;
+		unless SC is silent, now the last played sample of SC is the current sample of SC;
+		now the current sample of SC is sound of null;
+		now the adjustment of SC is 0;
+		unless rule failed:
+			now the potential track list is the potential track list playable after the last played sample of SC;
+			now the potential track list is the potential track list possible for SC;
+			unless the potential track list is empty:
+				let the sound selection be a random entry from the potential track list except the last played sample of SC;
+				play the sound selection on SC;
+				
+To decide if (SC - a sound channel) can start playing:
+	if time remaining of SC is positive, no;
+	if SC is on-beat:
+		let A be the adjustment of SC;
+		let T be the target of SC;
+		if a random chance of A in (A plus (T squared)) succeeds:
+			decide yes;
+		otherwise: 
+			increment the adjustment of SC;
+			[channel was eligible to start but unlucky, so we can start tilting the scales]
+	now the current sample of SC is sound of null;
+	decide no.
+	
+To decide what list of sound names is (L - a list of sound names) playable after (S - a sound name):
+	unless S is lenient:
+		let temp be a list of sound names;
+		repeat with X running through L:
+			unless X follows S, add X to temp;
+		remove temp from L;
+	decide on L. 
 	
 To play (S - a sound name) on (SC - a sound channel):
 	if SC is:
@@ -252,6 +292,9 @@ To play (S - a sound name) on (SC - a sound channel):
 		-- M1M: play S in midground 1;
 		-- M2M: play S in midground 2;
 		-- M3S: play S in midground 3;
+		-- FGS: play S in foreground;
+	now the time remaining of SC is the length of S times two;
+	now the current sample of SC is S;
 		
 The BGM track selection rules is a rulebook producing a list of sound names.
 The MGM track selection rules is a rulebook producing a list of sound names.
@@ -293,40 +336,29 @@ A glulx timed activity rule:
 The first music playing rule:
 	if we won't play music, rule fails; 
 	repeat with MC running through music channels:
-		unless the current sample of MC is sound of null, increment the adjustment of MC.
+		unless the current sample of MC is sound of null and the adjustment of MC is 0, increment the adjustment of MC.
 
 A music playing rule:
 	repeat with MC running through music channels:
-		if the time remaining of MC is positive, decrement the time remaining of MC;
 		potentially play a new sample on MC;
-			
-To potentially play a new sample on (MC - a music channel):
-	if it's time to play on MC:
-		now beat length of MC is 0;
-		now beat offset of MC is 0;
-		now the potential track list is the list of sound names produced by the sample selection rules of MC;
-		let last sample be the current sample of MC;
-		now current sample of MC is sound of null;
-		unless rule failed:
-			now the potential track list is the current sample of the superior of MC applied to the potential track list;
-			unless the potential track list is empty:
-				now the adjustment of MC is 0;
-				let the music selection be a random entry from the potential track list except the last sample;
-				play the music selection on MC;
-				now the time remaining of MC is the length of the music selection times two;
-				now the current sample of MC is the music selection;
-				now the beat length of MC is the time remaining of MC;
-				now the beat offset of MC is the beat length of MC;
-				
-To decide if it's time to play on (MC - a music channel):
-	if time remaining of MC is positive, no;
-	let BL be beat length of MC;
-	let BO be beat offset of MC;
-	let TR be time remaining of the BGM channel;
-	if MC is BGM channel or BL is 0 or (MC is not BGM channel and BL divides (TR plus BO)):
-		let A be the adjustment of MC;
-		let T be the target of MC;
-		if a random chance of  A in (A plus (T squared)) succeeds, yes;
+		
+To decide what list of sound names is (L - a list of sound names) possible for (MC - a music channel):
+	[	strip the list of all superior-restricted tracks that *don't* play during superior's current track	]
+	let superior's sample be the current sample of the superior of MC;
+	let temp be a list of sound names;
+	repeat with X running through L:
+		unless X is free or the superior's sample allows X, add X to temp;
+	remove temp from L;
+	decide on L. 
+	
+To decide if (MC - a music channel) is on-beat:
+	[	BGM channel starts playing immediately;										 	]
+	[	for other channels, the sample plays when it fits into the BGM's beat				]
+	[	(or, if it has no beat length specified, with the next BGM sample (including offset)).	]
+	if MC is the BGM channel, yes;
+	let O be beat offset of MC;
+	let BA be adjustment of the BGM channel;
+	if BA is O or beat length of MC divides (BA minus O), yes;
 	no.
 	
 To decide whether (N - a number) divides (M - a number):
@@ -335,18 +367,12 @@ To decide whether (N - a number) divides (M - a number):
 		let M be M - N;
 	if M is 0, yes;
 	no.
-			
-To decide what list of sound names is the (P - a sound name) applied to (L - a list of sound names):
-	repeat with SN running through L:
-		unless P is lenient or P allows SN, remove SN from L;
-		unless P is unrestrictive or P precedes SN or P is SN, remove SN from L;
-	decide on L. 
 	
 Chapter 3 - Sound effects
 
 Section 3a - the ambiance list
 
-The ambiance list is a list of sound names that varies.
+[The ambiance list is a list of sound names that varies.]
 
 Ambient sound selection rules is a rulebook producing a list of sound names.
 The M3S channel is a sound channel, stocked by the ambient sound selection rules.
@@ -363,22 +389,17 @@ The first ambient SFX playing rule:
 	increment the adjustment of M3S channel;
 
 An ambient SFX playing rule:
-	if the time remaining of M3S channel is positive, decrement the time remaining of M3S channel;
-	if it's time to play ambiance:
-		now the ambiance list is the list of sound names produced by the sample selection rules of M3S channel;
-		unless the ambiance list is empty:
-			now the adjustment of M3S channel is 0;
-			let the sound event be a random entry from the ambiance list but not the current sample of M3S channel;
-			play the sound event on M3S channel;
-			now the time remaining of M3S channel is the length of the sound event times two;
-			now the current sample of M3S channel is the sound event.
+	potentially play a new sample on M3S channel;
+	
+To decide what list of sound names is (L - a list of sound names) possible for (SC - a sound channel):
+	if SC is M3S channel, decide on L. [Ambience has no plays-only-during restrictions.]
 			
-To decide if it's time to play ambiance:
-	if the time remaining of M3S channel is positive, no;
-	let A be adjustment of M3S channel;
-	let T be target of M3S channel;
-	if a random chance of A in (A plus (T squared)) succeeds, yes;
-	no.
+To decide if (SC - a sound channel) is on-beat:
+	if SC is M3S channel, yes. [No synchronization necessary for ambient sounds]
+	
+Section 3c - incidental sounds
+
+The FGS channel is a sound channel.
 
 VOLUME II - THE WORLD
 
@@ -1059,22 +1080,22 @@ An MGM track selection rule when in Intersection and tension is at least 2:
 	now target of MGM channel is 4 - tension;
 	rule succeeds with result {sound of P2T2 Epno A1, sound of P2T2 Epno A2}.
 	
-An M1M track selection rule when in Intersection and tension is at least 3 and tension is at most 4:
-	now target of M1M channel is 6 - tension;
-	now beat length of M1M channel is 12;
-	now beat offset of M1M channel is 9;
+An M2M track selection rule when in Intersection and tension is at least 3 and (tension is at most 4 or M1M channel is silent):
+	now target of M2M channel is 6 - tension;
+	now beat length of M2M channel is 12;
+[	now beat offset of M2M channel is 3;]
 	now sound of P2T4 Drums A2 precedes nothing;
 	now sound of P2T4 Drums A3 precedes nothing;
 	rule succeeds with result {sound of P2T4 Drums A2, sound of P2T4 Drums A3}.
 	
-An M2M track selection rule when in Intersection and tension is at least 4:
-	now target of M2M channel is 7 - tension;
+An M1M track selection rule when in Intersection and tension is at least 4:
+	now target of M1M channel is 7 - tension;
 	rule succeeds with result {sound of P2T3 Bass A1, sound of P2T3 Bass A2}.
 	
-An M1M track selection rule when in Intersection and tension is at least 5:
-	now target of M1M channel is 0;
-	now beat length of M1M channel is 6;
-	now beat offset of M1M channel is 3;
+An M2M track selection rule when in Intersection and tension is at least 5 and M1M channel is auditory:
+	now target of M2M channel is 0;
+	now beat length of M2M channel is 6;
+[	now beat offset of M2M channel is 3;]
 	now sound of P2T4 Drums A1 follows sound of P2T4 Drums A2;
 	now sound of P2T4 Drums A1 follows sound of P2T4 Drums A3;
 	now sound of P2T4 Drums A1 precedes sound of P2T4 Drums A2;
@@ -1123,11 +1144,10 @@ Carry out disabling sounds:
 	stop the foreground sound;
 	stop the midground 3 sound;
 	we won't play sounds;
-Report disabling sounds:	say "Sound effects disabled."
+Report disabling sounds: 	say "Sound effects disabled."
 	
 Enabling sounds is an action out of world, applying to nothing. Understand "sounds on" as enabling sounds.
-Carry out enabling sounds: 
-	we will play sounds;
+Carry out enabling sounds:	we will play sounds.
 Report enabling sounds:	say "Sound effects enabled."
 	
 Toggling sounds is an action out of world, applying to nothing. Understand "sounds" as toggling sounds.
@@ -1146,8 +1166,8 @@ Report disabling music:
 	say "Music disabled."
 	
 Enabling music is an action out of world, applying to nothing. Understand "music on" as enabling music.
-Carry out enabling music:  we will play music.
-Report enabling music: say "Music enabled."
+Carry out enabling music:	we will play music.
+Report enabling music:	say "Music enabled."
 	
 Toggling music is an action out of world, applying to nothing. Understand "music" as toggling music.
 Carry out toggling music: 
@@ -1207,17 +1227,20 @@ Part 2 - Tension Control
 
 Adjusting tension is an action applying to one visible thing. Understand "tense [a direction]" as adjusting tension. Understand the command "tension" as "tense".
 
-Carry out adjusting tension up: increment tension.
-Carry out adjusting tension down: decrement tension.
+Carry out adjusting tension up:	 increment tension.
+Carry out adjusting tension down:	 decrement tension.
+
+Report adjusting tension:	 say "Tension [tension]".
 
 Part 3 - Music Debug Notes
 	
 Every turn:
 	repeat with SC running through sound channels:
-		say "[SC]: [adjustment of SC] adj, [time remaining of SC] rem, [current sample of SC].";
+		say "[SC]:	 [adjustment of SC] adj,	 [time remaining of SC] rem,	 [if SC is auditory]now=[current sample of SC][otherwise]was=[last played sample of SC][end if].";
 	showme potential track list;
 	
 VOLUME THE LAST
 
 Test me with "sounds on / music on".
 Test more with "skipahead / e".
+Test tension with "test more / tense up / tense up / tense up / tense up / tense up".
