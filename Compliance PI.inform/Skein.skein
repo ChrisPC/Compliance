@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x02DFE9C0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x027EE390" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7 for Windows</generator>
-  <activeNode nodeId="node-0x08E41CF8"/>
-  <item nodeId="node-0x02DFE9C0">
+  <activeNode nodeId="node-0x027EE390"/>
+  <item nodeId="node-0x027EE390">
     <command xml:space="preserve">- start -</command>
-    <result xml:space="preserve">"I'm worried," she said.&#x000A;&#x000A;And "You have to get out of here."&#x000A;&#x000A;And "Please, Reg."&#x000A;&#x000A;You didn't listen, brushed her off. It's been two weeks since you've seen her.&#x000A;&#x000A;Since anyone has.&#x000A;&#x000A;Compliance&#x000A;An Experiment in Sound by Chris Conley&#x000A;Release 1 / Serial number 130429 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;Music and Sound Design by t.v.shit.&#x000A;&#x000A;This game is designed to be played with music and sound effects. For more details, type ABOUT.&#x000A;&#x000A;Sub-Basement&#x000A;Your search has brought you here, deep into the bowels of the Company. The floor echoes with every footstep. The walls are smooth, dark, cold. Water drips from old corroded pipes above. The door back up to the Main Levels stands shut to the west.&#x000A;&#x000A;The archives lie through an open dorway to the east.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">"I'm worried," she said.&#x000A;&#x000A;And "You have to get out of here."&#x000A;&#x000A;And "Please, Reg."&#x000A;&#x000A;You didn't listen, brushed her off. It's been two weeks since you've seen her.&#x000A;&#x000A;Since anyone has.&#x000A;&#x000A;Compliance&#x000A;An Experiment in Sound by Chris Conley&#x000A;Release 1 / Serial number 130618 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;Music and Sound Design by t.v.shit.&#x000A;&#x000A;This game is designed to be played with music and sound effects. For more details, type ABOUT.&#x000A;&#x000A;Sub-Basement&#x000A;Your search has brought you here, deep into the bowels of the Company. The floor echoes with every footstep. The walls are smooth, dark, cold. Water drips from old corroded pipes above. The door back up to the Main Levels stands shut to the west.&#x000A;&#x000A;The archives lie through an open dorway to the east.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">"I'm worried," she said.&#x000A;&#x000A;And "You have to get out of here."&#x000A;&#x000A;And "Please, Reg."&#x000A;&#x000A;You didn't listen, brushed her off. It's been two weeks since you've seen her.&#x000A;&#x000A;Since anyone has.&#x000A;&#x000A;Compliance&#x000A;An Experiment in Sound by Chris Conley&#x000A;Release 1 / Serial number 120716 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;Music and Sound Design by t.v.shit.&#x000A;&#x000A;This game is designed to be played with music and sound effects. For more details, type ABOUT.&#x000A;&#x000A;Sub-Basement&#x000A;Your search has brought you here, deep into the bowels of the Company. The floor echoes with every footstep. The walls are smooth, dark, cold. Water drips from old corroded pipes above. The door back up to the Main Levels stands shut to the west.&#x000A;&#x000A;The archives lie through an open dorway to the east.&#x000A;&#x000A;&gt;</commentary>
     <played>YES</played>
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E570C0"/>
-      <child nodeId="node-0x08E41CF8"/>
+      <child nodeId="node-0x027EE400"/>
+      <child nodeId="node-0x028471F0"/>
     </children>
   </item>
-  <item nodeId="node-0x02E570C0">
+  <item nodeId="node-0x027EE400">
     <command xml:space="preserve">e</command>
-    <result xml:space="preserve">As you cross the threshold, there is a sudden flash of green light -- your eyes start to burn -- you are unable to move -- of course! the checkpoint -- &#x000A;&#x000A; -- and it's over.&#x000A;&#x000A;Filing Hall&#x000A;You stand along one wall of the Company records repository, with the way to the main complex back to the west. The expansive records stretch in every direction, massive lengths of shelving full of boxes. You know the file you seek will be found somewhere in the north quadrant -- but you need a precise location.&#x000A;&#x000A;The checkpoint lies back through the dark hallway to the west.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">As you cross the threshold, there is a sudden flash of green light -- your eyes start to burn -- you are unable to move -- of course! the checkpoint -- &#x000A;&#x000A; -- and it's over.&#x000A;&#x000A;Filing Hall&#x000A;You stand along one wall of the Company records repository, with the way to the main complex back to the west. The expansive records stretch in every direction, massive lengths of shelving full of boxes. You know the file you seek will be found somewhere in the north quadrant -- but you need a precise location.&#x000A;&#x000A;The checkpoint lies back through the dark hallway to the west.&#x000A;&#x000A;BGM channel: 9 adj, 55 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 10 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 10 adj, 50 rem, now=sound of hiss knock.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">As you cross the threshold, there is a sudden flash of green light -- your eyes start to burn -- you are unable to move -- of course! the checkpoint -- &#x000A;&#x000A; -- and it's over.&#x000A;&#x000A;Filing Hall&#x000A;You stand along one wall of the Company records repository, with the way to the main complex back to the west. The expansive records stretch in every direction, massive lengths of shelving full of boxes. You know the file you seek will be found somewhere in the north quadrant -- but you need a precise location.&#x000A;&#x000A;The checkpoint lies back through the dark hallway to the west.&#x000A;&#x000A;&gt;</commentary>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E57130"/>
+      <child nodeId="node-0x027E1418"/>
+      <child nodeId="node-0x02847180"/>
     </children>
   </item>
-  <item nodeId="node-0x02E57130">
+  <item nodeId="node-0x027E1418">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Servo Port&#x000A;From a small alcove here at the south end of the archives, the servos depart on their errands. The floor has been cleared for several feet around the servo shaft, in stark contrast to the rest of the repository, where the clutter stretches back to the north and northeast. There is a constant mechanical hum coming from the hallway south. To the east, a peculiar metal capsule stands open.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Servo Port&#x000A;From a small alcove here at the south end of the archives, the servos depart on their errands. The floor has been cleared for several feet around the servo shaft, in stark contrast to the rest of the repository, where the clutter stretches back to the north and northeast. There is a constant mechanical hum coming from the hallway south. To the east, a peculiar metal capsule stands open.&#x000A;&#x000A;&gt;</commentary>
@@ -33,10 +34,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E571A0"/>
+      <child nodeId="node-0x0283CFD8"/>
     </children>
   </item>
-  <item nodeId="node-0x02E571A0">
+  <item nodeId="node-0x0283CFD8">
     <command xml:space="preserve">z</command>
     <result xml:space="preserve">Time passes.&#x000A;&#x000A;A servo automaton clambers onto the floor.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Time passes.&#x000A;&#x000A;A servo automaton clambers onto the floor.&#x000A;&#x000A;&gt;</commentary>
@@ -44,10 +45,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E600"/>
+      <child nodeId="node-0x0283FC90"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E600">
+  <item nodeId="node-0x0283FC90">
     <command xml:space="preserve">get wires</command>
     <result xml:space="preserve">You grab the lines with both hands. They're more resilient than they look.&#x000A;&#x000A;The automaton wavers uncertainly, nearly lifted off the ground.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">You grab the lines with both hands. They're more resilient than they look.&#x000A;&#x000A;The automaton wavers uncertainly, nearly lifted off the ground.&#x000A;&#x000A;&gt;</commentary>
@@ -55,10 +56,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E670"/>
+      <child nodeId="node-0x02840620"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E670">
+  <item nodeId="node-0x02840620">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">With a great deal of effort, you manage to pull the automaton along an appropriate track with you.&#x000A;&#x000A;Hydraulics Control&#x000A;The narrow passage to the north from which you entered terminates here: a wide, oval-shaped room. The view before you is dominated by a giant metallic pillar that drops from the ceiling to an enormously complex mechanism recessed into the floor. Spinning gears, rods, and thick wires fill nearly every open space here.&#x000A;&#x000A;The servo automaton is here, tugging on the wires in your hand.&#x000A;&#x000A;You can also see a closed lunch pail with a note attached here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">With a great deal of effort, you manage to pull the automaton along an appropriate track with you.&#x000A;&#x000A;Hydraulics Control&#x000A;The narrow passage to the north from which you entered terminates here: a wide, oval-shaped room. The view before you is dominated by a giant metallic pillar that drops from the ceiling to an enormously complex mechanism recessed into the floor. Spinning gears, rods, and thick wires fill nearly every open space here.&#x000A;&#x000A;The servo automaton is here, tugging on the wires in your hand.&#x000A;&#x000A;You can also see a closed lunch pail with a note attached here.&#x000A;&#x000A;&gt;</commentary>
@@ -66,10 +67,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E6E0"/>
+      <child nodeId="node-0x02840B40"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E6E0">
+  <item nodeId="node-0x02840B40">
     <command xml:space="preserve">put wires in gear</command>
     <result xml:space="preserve">(the handful of wires in the gears)&#x000A;You carefully wedge the wires between the teeth of two large horizontal gears. There is a terrible grinding noise, the entire mechanism shudders and the gears nearly stop -- then resume turning just as before.&#x000A;&#x000A;The servo collapses to the ground.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">(the handful of wires in the gears)&#x000A;You carefully wedge the wires between the teeth of two large horizontal gears. There is a terrible grinding noise, the entire mechanism shudders and the gears nearly stop -- then resume turning just as before.&#x000A;&#x000A;The servo collapses to the ground.&#x000A;&#x000A;&gt;</commentary>
@@ -77,10 +78,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E750"/>
+      <child nodeId="node-0x02840BB0"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E750">
+  <item nodeId="node-0x02840BB0">
     <command xml:space="preserve">push mech n</command>
     <result xml:space="preserve">The bot clatters as you push it ahead of you.&#x000A;&#x000A;Servo Port&#x000A;From a small alcove here at the south end of the archives, the servos depart on their errands. The floor has been cleared for several feet around the servo shaft, in stark contrast to the rest of the repository, where the clutter stretches back to the north and northeast. There is a constant mechanical hum coming from the hallway south. To the east, a peculiar metal capsule stands open.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">The bot clatters as you push it ahead of you.&#x000A;&#x000A;Servo Port&#x000A;From a small alcove here at the south end of the archives, the servos depart on their errands. The floor has been cleared for several feet around the servo shaft, in stark contrast to the rest of the repository, where the clutter stretches back to the north and northeast. There is a constant mechanical hum coming from the hallway south. To the east, a peculiar metal capsule stands open.&#x000A;&#x000A;&gt;</commentary>
@@ -88,10 +89,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E7C0"/>
+      <child nodeId="node-0x02840C20"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E7C0">
+  <item nodeId="node-0x02840C20">
     <command xml:space="preserve">push mech e</command>
     <result xml:space="preserve">The servo clatters as you push it ahead of you.&#x000A;&#x000A;Containment Area&#x000A;A small, cylindrical room of brushed smooth silver metal. Entirely spotless and brightly lit. Two air-sealed doors lead east and north back into the main part of the Filing Hall.&#x000A;&#x000A;A glass rack is attached low on the wall across from one door.&#x000A;&#x000A;On the low glass rack are some sealed dishes.&#x000A;&#x000A;There's movement from a window in the other part of the wall.&#x000A;&#x000A;A small hazmat chest sits against the wall between the two doors.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">The servo clatters as you push it ahead of you.&#x000A;&#x000A;Containment Area&#x000A;A small, cylindrical room of brushed smooth silver metal. Entirely spotless and brightly lit. Two air-sealed doors lead east and north back into the main part of the Filing Hall.&#x000A;&#x000A;A glass rack is attached low on the wall across from one door.&#x000A;&#x000A;On the low glass rack are some sealed dishes.&#x000A;&#x000A;There's movement from a window in the other part of the wall.&#x000A;&#x000A;A small hazmat chest sits against the wall between the two doors.&#x000A;&#x000A;&gt;</commentary>
@@ -99,10 +100,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E830"/>
+      <child nodeId="node-0x02840C90"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E830">
+  <item nodeId="node-0x02840C90">
     <command xml:space="preserve">break dish</command>
     <result xml:space="preserve">Using the servo tools, you manage to crack one of the dishes with a satisfying CRUNCH. An alarm blares.&#x000A;&#x000A;A loud click comes from the chest.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Using the servo tools, you manage to crack one of the dishes with a satisfying CRUNCH. An alarm blares.&#x000A;&#x000A;A loud click comes from the chest.&#x000A;&#x000A;&gt;</commentary>
@@ -110,10 +111,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E8A0"/>
+      <child nodeId="node-0x02843758"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E8A0">
+  <item nodeId="node-0x02843758">
     <command xml:space="preserve">open chest</command>
     <result xml:space="preserve">You open the hazmat chest, revealing a hazmat suit.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">You open the hazmat chest, revealing a hazmat suit.&#x000A;&#x000A;&gt;</commentary>
@@ -121,10 +122,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E910"/>
+      <child nodeId="node-0x02843938"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E910">
+  <item nodeId="node-0x02843938">
     <command xml:space="preserve">wear suit</command>
     <result xml:space="preserve">(the hazmat suit)&#x000A;(first taking the hazmat suit)&#x000A;You put on the hazmat suit.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">(the hazmat suit)&#x000A;(first taking the hazmat suit)&#x000A;You put on the hazmat suit.&#x000A;&#x000A;&gt;</commentary>
@@ -132,10 +133,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E980"/>
+      <child nodeId="node-0x02844368"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E980">
+  <item nodeId="node-0x02844368">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Dumb Terminals&#x000A;It seems this part of the Archives have been set aside for storing the ancient machines of the Company. Edifices the size of your living unit line the wall, some with chairs built in, some covered in dials, knobs, levers, switches...&#x000A;&#x000A;The storage area extends in every direction to the west, including the Hardcopy Storage area to the northwest. Thick bundles of cables run from the side or back of each device, along the ceiling and down a dimly-lit hallway to the north. At the far southern end of the array stands a strange metal capsule.&#x000A;&#x000A;The viewscreen on one of the machines is active.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Dumb Terminals&#x000A;It seems this part of the Archives have been set aside for storing the ancient machines of the Company. Edifices the size of your living unit line the wall, some with chairs built in, some covered in dials, knobs, levers, switches...&#x000A;&#x000A;The storage area extends in every direction to the west, including the Hardcopy Storage area to the northwest. Thick bundles of cables run from the side or back of each device, along the ceiling and down a dimly-lit hallway to the north. At the far southern end of the array stands a strange metal capsule.&#x000A;&#x000A;The viewscreen on one of the machines is active.&#x000A;&#x000A;&gt;</commentary>
@@ -143,10 +144,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0E9F0"/>
+      <child nodeId="node-0x028448E8"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0E9F0">
+  <item nodeId="node-0x028448E8">
     <command xml:space="preserve">sit</command>
     <result xml:space="preserve">(at the active machine)&#x000A;You sit at the console, activate the search routine. This machine is actually old enough to contain the index of the hardcopy records. It's years out of date, of course, but just maybe...&#x000A;&#x000A;There! Leadhammer! You carefully note the location of the files, deep within Hardcopy Storage.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">(at the active machine)&#x000A;You sit at the console, activate the search routine. This machine is actually old enough to contain the index of the hardcopy records. It's years out of date, of course, but just maybe...&#x000A;&#x000A;There! Leadhammer! You carefully note the location of the files, deep within Hardcopy Storage.&#x000A;&#x000A;&gt;</commentary>
@@ -154,10 +155,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EA60"/>
+      <child nodeId="node-0x0283C648"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EA60">
+  <item nodeId="node-0x0283C648">
     <command xml:space="preserve">nw</command>
     <result xml:space="preserve">Hardcopy Storage, Leadhammer&#x000A;After a brief search in this dusty, poorly-lit, forgotten corner of the Archives, you've at last found the right spot. It's a dark, grimy alcove tucked away in the depths of Hardcopy Storage. If you didn't know to look for this exact shelf, you could have easily overlooked it.&#x000A;&#x000A;And yet, a clear line of footprints leads right up to and away from the the shelf.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Hardcopy Storage, Leadhammer&#x000A;After a brief search in this dusty, poorly-lit, forgotten corner of the Archives, you've at last found the right spot. It's a dark, grimy alcove tucked away in the depths of Hardcopy Storage. If you didn't know to look for this exact shelf, you could have easily overlooked it.&#x000A;&#x000A;And yet, a clear line of footprints leads right up to and away from the the shelf.&#x000A;&#x000A;&gt;</commentary>
@@ -165,10 +166,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EAD0"/>
+      <child nodeId="node-0x0283C6B8"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EAD0">
+  <item nodeId="node-0x0283C6B8">
     <command xml:space="preserve">x shelf</command>
     <result xml:space="preserve">A simple, thin metal shelving unit, packed full of folders and crates, just like all the others in here.&#x000A;&#x000A;On the shelving unit is a crate labelled 'LEADHAMMER' (closed).&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">A simple, thin metal shelving unit, packed full of folders and crates, just like all the others in here.&#x000A;&#x000A;On the shelving unit is a crate labelled 'LEADHAMMER' (closed).&#x000A;&#x000A;&gt;</commentary>
@@ -176,10 +177,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EB40"/>
+      <child nodeId="node-0x0283C728"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EB40">
+  <item nodeId="node-0x0283C728">
     <command xml:space="preserve">get crate</command>
     <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</commentary>
@@ -187,10 +188,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EBB0"/>
+      <child nodeId="node-0x0283C798"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EBB0">
+  <item nodeId="node-0x0283C798">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can't leave without knowing what's in those files!&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">You can't leave without knowing what's in those files!&#x000A;&#x000A;&gt;</commentary>
@@ -198,10 +199,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EC20"/>
+      <child nodeId="node-0x0283C808"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EC20">
+  <item nodeId="node-0x0283C808">
     <command xml:space="preserve">open crate</command>
     <result xml:space="preserve">You open the crate labelled 'LEADHAMMER', revealing some file folders.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">You open the crate labelled 'LEADHAMMER', revealing some file folders.&#x000A;&#x000A;&gt;</commentary>
@@ -209,10 +210,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EC90"/>
+      <child nodeId="node-0x0283C878"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EC90">
+  <item nodeId="node-0x0283C878">
     <command xml:space="preserve">read folders</command>
     <result xml:space="preserve">(first taking the file folders)&#x000A;You peruse the folders. Nothing particularly interesting, at first -- and then you read the name of one of the authors.&#x000A;&#x000A;She wrote this report. Years ago. And you've never even heard of it.&#x000A;&#x000A;Suddenly there's a loud crash from a nearby aisle, and you have the feeling that you're being watched.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">(first taking the file folders)&#x000A;You peruse the folders. Nothing particularly interesting, at first -- and then you read the name of one of the authors.&#x000A;&#x000A;She wrote this report. Years ago. And you've never even heard of it.&#x000A;&#x000A;Suddenly there's a loud crash from a nearby aisle, and you have the feeling that you're being watched.&#x000A;&#x000A;&gt;</commentary>
@@ -220,10 +221,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0ED00"/>
+      <child nodeId="node-0x0283C8E8"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0ED00">
+  <item nodeId="node-0x0283C8E8">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Hardcopy Storage&#x000A;Files, supply shelves and other stored physical materials stretch in all directions.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Hardcopy Storage&#x000A;Files, supply shelves and other stored physical materials stretch in all directions.&#x000A;&#x000A;&gt;</commentary>
@@ -231,10 +232,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0ED70"/>
+      <child nodeId="node-0x0283C958"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0ED70">
+  <item nodeId="node-0x0283C958">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Dumb Terminals&#x000A;It seems this part of the Archives have been set aside for storing the ancient machines of the Company. Edifices the size of your living unit line the wall, some with chairs built in, some covered in dials, knobs, levers, switches...&#x000A;&#x000A;The storage area extends in every direction to the west, including the Hardcopy Storage area to the northwest. Thick bundles of cables run from the side or back of each device, along the ceiling and down a dimly-lit hallway to the north. At the far southern end of the array stands a strange metal capsule.&#x000A;&#x000A;The viewscreen on one of the machines is active.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Dumb Terminals&#x000A;It seems this part of the Archives have been set aside for storing the ancient machines of the Company. Edifices the size of your living unit line the wall, some with chairs built in, some covered in dials, knobs, levers, switches...&#x000A;&#x000A;The storage area extends in every direction to the west, including the Hardcopy Storage area to the northwest. Thick bundles of cables run from the side or back of each device, along the ceiling and down a dimly-lit hallway to the north. At the far southern end of the array stands a strange metal capsule.&#x000A;&#x000A;The viewscreen on one of the machines is active.&#x000A;&#x000A;&gt;</commentary>
@@ -242,10 +243,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EDE0"/>
+      <child nodeId="node-0x02846F50"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EDE0">
+  <item nodeId="node-0x02846F50">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Power Supply&#x000A;You are on a rickety catwalk running east and west, attached to a sheer cliff face. A hot wind buffets you from below, forcing you to hang onto the railing. To the east, the catwalk wends into a cleft in the rock. The Headquarters basement is back in through an access passageway to the south.&#x000A;&#x000A;The power cable runs directly down the cliff side. At ground level, far below, eight massive turbines spin constantly beside a few outbuildings, venting steam directly into the night sky. You must have traveled all the way through headquarters underground.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Power Supply&#x000A;You are on a rickety catwalk running east and west, attached to a sheer cliff face. A hot wind buffets you from below, forcing you to hang onto the railing. To the east, the catwalk wends into a cleft in the rock. The Headquarters basement is back in through an access passageway to the south.&#x000A;&#x000A;The power cable runs directly down the cliff side. At ground level, far below, eight massive turbines spin constantly beside a few outbuildings, venting steam directly into the night sky. You must have traveled all the way through headquarters underground.&#x000A;&#x000A;&gt;</commentary>
@@ -253,10 +254,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EE50"/>
+      <child nodeId="node-0x02846FC0"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EE50">
+  <item nodeId="node-0x02846FC0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Waste Handling&#x000A;You find yourself back within the Headquarters complex proper, or at least an adjoining -- and clearly associated -- cavern. You are walking along a narrow concrete walkway that runs along a river of sewage and waste products being readied for treatment. To the north, an access staircase leads out of the complex. &#x000A;&#x000A;But you nearly run straight into a sanitation worker as you round the corner.&#x000A;&#x000A;The sanitation worker is occupied with the waste flow.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">Waste Handling&#x000A;You find yourself back within the Headquarters complex proper, or at least an adjoining -- and clearly associated -- cavern. You are walking along a narrow concrete walkway that runs along a river of sewage and waste products being readied for treatment. To the north, an access staircase leads out of the complex. &#x000A;&#x000A;But you nearly run straight into a sanitation worker as you round the corner.&#x000A;&#x000A;The sanitation worker is occupied with the waste flow.&#x000A;&#x000A;&gt;</commentary>
@@ -264,10 +265,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EEC0"/>
+      <child nodeId="node-0x02847030"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EEC0">
+  <item nodeId="node-0x02847030">
     <command xml:space="preserve">attack worker</command>
     <result xml:space="preserve">The worker is certain to call for help. With escape so close, do you really want to risk a general alarm?&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">The worker is certain to call for help. With escape so close, do you really want to risk a general alarm?&#x000A;&#x000A;&gt;</commentary>
@@ -275,10 +276,10 @@
     <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EF30"/>
+      <child nodeId="node-0x028470A0"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EF30">
+  <item nodeId="node-0x028470A0">
     <command xml:space="preserve">x worker</command>
     <result xml:space="preserve">The worker apparently hasn't noticed you yet. It's hard to recognize through the hazmat suit. But then again, so are you. You should have nothing to worry about, wearing one yourself.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve">The worker apparently hasn't noticed you yet. It's hard to recognize through the hazmat suit. But then again, so are you. You should have nothing to worry about, wearing one yourself.&#x000A;&#x000A;&gt;</commentary>
@@ -286,10 +287,10 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x02E0EFA0"/>
+      <child nodeId="node-0x02847110"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0EFA0">
+  <item nodeId="node-0x02847110">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">The worker nods at you as you pass.&#x000A;&#x000A;You make your way down the access stairs, until finally you reach the exit.  It seems you've safely escaped the complex with the folders. Pushing the door open, you step outside--&#x000A;&#x000A;&#x000A;    *** To be continued ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?&#x000A;&gt;</result>
     <commentary xml:space="preserve">The worker nods at you as you pass.&#x000A;&#x000A;You make your way down the access stairs, until finally you reach the exit.  It seems you've safely escaped the complex with the folders. Pushing the door open, you step outside--&#x000A;&#x000A;&#x000A;    *** To be continued ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?&#x000A;&gt;</commentary>
@@ -297,7 +298,15 @@
     <changed>NO</changed>
     <temporary score="0">NO</temporary>
   </item>
-  <item nodeId="node-0x08E41CF8">
+  <item nodeId="node-0x02847180">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Hardcopy Storage&#x000A;Files, supply shelves and other stored physical materials stretch in all directions. But you have no idea where exactly to look to find the file you seek. If only there were an indexing machine...&#x000A;&#x000A;BGM channel: 12 adj, 52 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 13 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 13 adj, 47 rem, now=sound of hiss knock.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x028471F0">
     <command xml:space="preserve">test tension</command>
     <result xml:space="preserve">(Testing.)&#x000A;&#x000A;&gt;[1] test more&#x000A;(Testing.)&#x000A;&#x000A;&gt;[2] skipahead&#x000A;Roadside&#x000A;A dark dusty road.&#x000A;&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;[3] e&#x000A;&#x000A;Intersection&#x000A;The road here splits. West to your old company building. East to a lake. North to the HQ.&#x000A;&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;[4] tense up&#x000A;Tension 1&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;[5] tense up&#x000A;Tension 2&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;[6] tense up&#x000A;Tension 3&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;[7] tense up&#x000A;Tension 4&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;[8] tense up&#x000A;Tension 5&#x000A;BGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -305,76 +314,78 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x08E41748"/>
+      <child nodeId="node-0x02847260"/>
+      <child nodeId="node-0x028475E0"/>
     </children>
   </item>
-  <item nodeId="node-0x08E41748">
+  <item nodeId="node-0x02847260">
     <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 9 adj, 15 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 9 adj, 15 rem, now=sound of P2T2 Epno A2.&#x000A;M1M channel: 10 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 9 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 10 adj, 38 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 21 adj, 43 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 22 adj, 58 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x08E413C8"/>
+      <child nodeId="node-0x028472D0"/>
     </children>
   </item>
-  <item nodeId="node-0x08E413C8">
+  <item nodeId="node-0x028472D0">
     <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 10 adj, 14 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 10 adj, 14 rem, now=sound of P2T2 Epno A2.&#x000A;M1M channel: 11 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 10 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 11 adj, 37 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 23 adj, 41 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 24 adj, 56 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x08E42078"/>
+      <child nodeId="node-0x02847340"/>
     </children>
   </item>
-  <item nodeId="node-0x08E42078">
+  <item nodeId="node-0x02847340">
     <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 12 adj, 12 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 12 adj, 12 rem, now=sound of P2T2 Epno A2.&#x000A;M1M channel: 13 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 6 rem, now=sound of P2T4 Drums A2.&#x000A;M3S channel: 13 adj, 35 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 24 adj, 40 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 25 adj, 55 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x08E41C88"/>
+      <child nodeId="node-0x028473B0"/>
     </children>
   </item>
-  <item nodeId="node-0x08E41C88">
+  <item nodeId="node-0x028473B0">
     <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 14 adj, 10 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 14 adj, 10 rem, now=sound of P2T2 Epno A2.&#x000A;M1M channel: 15 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 2 adj, 4 rem, now=sound of P2T4 Drums A2.&#x000A;M3S channel: 15 adj, 33 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 26 adj, 38 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 27 adj, 53 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x08E420E8"/>
+      <child nodeId="node-0x02847420"/>
     </children>
   </item>
-  <item nodeId="node-0x08E420E8">
+  <item nodeId="node-0x02847420">
     <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 15 adj, 9 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 15 adj, 9 rem, now=sound of P2T2 Epno A2.&#x000A;M1M channel: 16 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 3 adj, 3 rem, now=sound of P2T4 Drums A2.&#x000A;M3S channel: 16 adj, 32 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 27 adj, 37 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 28 adj, 52 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x02E56FE0"/>
+      <child nodeId="node-0x02847490"/>
     </children>
   </item>
-  <item nodeId="node-0x02E56FE0">
+  <item nodeId="node-0x02847490">
     <command xml:space="preserve">z</command>
-    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 11 adj, 13 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 11 adj, 13 rem, now=sound of P2T2 Epno A1.&#x000A;M1M channel: 36 adj, 0 rem, was=sound of P2T3 Bass A1.&#x000A;M2M channel: 11 adj, 0 rem, was=sound of P2T4 Drums A1.&#x000A;M3S channel: 121 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 28 adj, 36 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 29 adj, 51 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x02E563A0"/>
+      <child nodeId="node-0x02847500"/>
+      <child nodeId="node-0x058E1F10"/>
     </children>
   </item>
-  <item nodeId="node-0x02E563A0">
+  <item nodeId="node-0x02847500">
     <command xml:space="preserve">tense up</command>
     <result xml:space="preserve">Tension 6&#x000A;BGM channel: 16 adj, 8 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 16 adj, 8 rem, now=sound of P2T2 Epno A1.&#x000A;M1M channel: 41 adj, 0 rem, was=sound of P2T3 Bass A1.&#x000A;M2M channel: 4 adj, 2 rem, now=sound of P2T4 Drums A3.&#x000A;M3S channel: 227 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -382,15 +393,999 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x02E0F240"/>
+      <child nodeId="node-0x02847570"/>
     </children>
   </item>
-  <item nodeId="node-0x02E0F240">
+  <item nodeId="node-0x02847570">
     <command xml:space="preserve">tense down</command>
     <result xml:space="preserve">Tension 5&#x000A;BGM channel: 5 adj, 19 rem, now=sound of P2T1 Piano A1.&#x000A;MGM channel: 5 adj, 19 rem, now=sound of P2T2 Epno A2.&#x000A;M1M channel: 5 adj, 19 rem, now=sound of P2T3 Bass A2.&#x000A;M2M channel: 5 adj, 1 rem, now=sound of P2T4 Drums A2.&#x000A;M3S channel: 187 adj, 0 rem, was=sound of null.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Drums A2, sound of P2T4 Drums A3}&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
     <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x058E1F10">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 30 adj, 34 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 31 adj, 49 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x058E1E30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x058E1E30">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 31 adj, 33 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 32 adj, 48 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x059A5E68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x059A5E68">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 32 adj, 32 rem, now=sound of P1T1 Bass A.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 33 adj, 47 rem, now=sound of water trickle.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x028475E0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Lake Shore&#x000A;Waves here wash lazily over a rocky shore.&#x000A;&#x000A;BGM channel: 1 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 48 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Noise}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02847650"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02847650">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 0 rem, was=sound of null.&#x000A;MGM channel: 0 adj, 0 rem, was=sound of null.&#x000A;M1M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 0 adj, 48 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T4 Noise}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028476C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028476C0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 0 adj, 18 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 0 adj, 18 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 0 adj, 18 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 1 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 1 adj, 47 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F5DA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F5DA8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 17 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 1 adj, 17 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 1 adj, 17 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 2 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 2 adj, 46 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F5E18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F5E18">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 17 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 1 adj, 17 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 1 adj, 17 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 2 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 2 adj, 46 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F5E88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F5E88">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 2 adj, 16 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 2 adj, 16 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 2 adj, 16 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 3 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 3 adj, 45 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F5EF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F5EF8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 2 adj, 16 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 2 adj, 16 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 2 adj, 16 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 3 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 3 adj, 45 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F5F68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F5F68">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 3 adj, 15 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 3 adj, 15 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 3 adj, 15 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 4 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 4 adj, 44 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F5FD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F5FD8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 3 adj, 15 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 3 adj, 15 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 3 adj, 15 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 4 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 4 adj, 44 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6048"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6048">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 3 adj, 15 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 3 adj, 15 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 3 adj, 15 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 4 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 4 adj, 44 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F60B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F60B8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 4 adj, 14 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 4 adj, 14 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 4 adj, 14 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 5 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 5 adj, 43 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6128"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6128">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 4 adj, 14 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 4 adj, 14 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 4 adj, 14 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 5 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 5 adj, 43 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6198"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6198">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 5 adj, 13 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 5 adj, 13 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 5 adj, 13 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 6 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 6 adj, 42 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6208"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6208">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 5 adj, 13 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 5 adj, 13 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 5 adj, 13 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 6 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 6 adj, 42 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6278"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6278">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 6 adj, 12 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 6 adj, 12 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 6 adj, 12 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 7 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 7 adj, 41 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F62E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F62E8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 6 adj, 12 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 6 adj, 12 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 6 adj, 12 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 7 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 7 adj, 41 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6358"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6358">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 7 adj, 11 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 7 adj, 11 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 7 adj, 11 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 8 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 8 adj, 40 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F63C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F63C8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 7 adj, 11 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 7 adj, 11 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 7 adj, 11 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 8 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 8 adj, 40 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6438"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6438">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 7 adj, 11 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 7 adj, 11 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 7 adj, 11 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 8 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 8 adj, 40 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F64A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F64A8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 8 adj, 10 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 8 adj, 10 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 8 adj, 10 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 9 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 9 adj, 39 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027F6518"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027F6518">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 8 adj, 10 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 8 adj, 10 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 8 adj, 10 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 9 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 9 adj, 39 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAC40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAC40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 9 adj, 9 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 9 adj, 9 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 9 adj, 9 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 10 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 10 adj, 38 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FACB0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FACB0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 9 adj, 9 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 9 adj, 9 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 9 adj, 9 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 10 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 10 adj, 38 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAD20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAD20">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 10 adj, 8 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 10 adj, 8 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 10 adj, 8 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 11 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 11 adj, 37 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAD90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAD90">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 10 adj, 8 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 10 adj, 8 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 10 adj, 8 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 11 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 11 adj, 37 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAE00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAE00">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 11 adj, 7 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 11 adj, 7 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 11 adj, 7 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 12 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 12 adj, 36 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAE70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAE70">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 11 adj, 7 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 11 adj, 7 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 11 adj, 7 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 12 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 12 adj, 36 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAEE0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAEE0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 12 adj, 6 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 12 adj, 6 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 12 adj, 6 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 13 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 13 adj, 35 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAF50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAF50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 12 adj, 6 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 12 adj, 6 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 12 adj, 6 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 13 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 13 adj, 35 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FAFC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FAFC0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 13 adj, 5 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 13 adj, 5 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 13 adj, 5 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 14 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 14 adj, 34 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB030"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB030">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 13 adj, 5 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 13 adj, 5 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 13 adj, 5 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 14 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 14 adj, 34 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB0A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB0A0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 14 adj, 4 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 14 adj, 4 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 14 adj, 4 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 15 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 15 adj, 33 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB110">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 14 adj, 4 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 14 adj, 4 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 14 adj, 4 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 15 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 15 adj, 33 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB180">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 14 adj, 4 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 14 adj, 4 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 14 adj, 4 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 15 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 15 adj, 33 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB1F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB1F0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 15 adj, 3 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 15 adj, 3 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 15 adj, 3 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 16 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 16 adj, 32 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB260"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB260">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 15 adj, 3 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 15 adj, 3 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 15 adj, 3 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 16 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 16 adj, 32 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB2D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB2D0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 16 adj, 2 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 16 adj, 2 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 16 adj, 2 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 17 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 17 adj, 31 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB340"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB340">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 16 adj, 2 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 16 adj, 2 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 16 adj, 2 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 17 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 17 adj, 31 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x027FB3B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x027FB3B0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 17 adj, 1 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 17 adj, 1 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 17 adj, 1 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 18 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 18 adj, 30 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800708"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800708">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 17 adj, 1 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 17 adj, 1 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 17 adj, 1 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 18 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 18 adj, 30 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800778"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800778">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 17 adj, 1 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 17 adj, 1 rem, now=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 17 adj, 1 rem, now=sound of P2T3 drums A2.&#x000A;M2M channel: 18 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 18 adj, 30 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028007E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028007E8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 0 adj, 18 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 18 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 0 adj, 18 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 19 adj, 29 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800858"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800858">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 0 adj, 18 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 18 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 0 adj, 18 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 19 adj, 29 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028008C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028008C8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 17 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 19 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 1 adj, 17 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 20 adj, 28 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800938"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800938">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 17 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 19 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 1 adj, 17 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 20 adj, 28 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028009A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028009A8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 2 adj, 16 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 20 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 2 adj, 16 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 21 adj, 27 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800A18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800A18">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 2 adj, 16 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 20 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 2 adj, 16 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 21 adj, 27 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800A88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800A88">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 3 adj, 15 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 22 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 3 adj, 15 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 22 adj, 26 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800AF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800AF8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 3 adj, 15 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 22 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 3 adj, 15 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 22 adj, 26 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800B68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800B68">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 3 adj, 15 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 22 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 3 adj, 15 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 22 adj, 26 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800BD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800BD8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 4 adj, 14 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 23 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 4 adj, 14 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 23 adj, 25 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800C48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800C48">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 4 adj, 14 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 23 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 4 adj, 14 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 23 adj, 25 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800CB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800CB8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 5 adj, 13 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 24 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 5 adj, 13 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 24 adj, 24 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800D28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800D28">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 5 adj, 13 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 24 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 5 adj, 13 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 24 adj, 24 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800D98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800D98">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 6 adj, 12 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 25 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 6 adj, 12 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 25 adj, 23 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800E08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800E08">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 6 adj, 12 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 25 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 6 adj, 12 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 25 adj, 23 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02800E78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02800E78">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 6 adj, 12 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 25 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 6 adj, 12 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 25 adj, 23 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805B60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805B60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 7 adj, 11 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 26 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 7 adj, 11 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 26 adj, 22 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805BD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805BD0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 7 adj, 11 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 26 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 7 adj, 11 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 26 adj, 22 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805C40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805C40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 8 adj, 10 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 27 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 8 adj, 10 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 27 adj, 21 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805CB0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805CB0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 8 adj, 10 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 27 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 8 adj, 10 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 27 adj, 21 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805D20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805D20">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 9 adj, 9 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 28 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 9 adj, 9 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 28 adj, 20 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805D90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805D90">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 9 adj, 9 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 28 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 9 adj, 9 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 28 adj, 20 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805E00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805E00">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 10 adj, 8 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 29 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 10 adj, 8 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 29 adj, 19 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805E70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805E70">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 10 adj, 8 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 29 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 10 adj, 8 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 29 adj, 19 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805EE0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805EE0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 11 adj, 7 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 30 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 11 adj, 7 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 30 adj, 18 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805F50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805F50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 11 adj, 7 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 30 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 11 adj, 7 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 30 adj, 18 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02805FC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02805FC0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 12 adj, 6 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 31 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 12 adj, 6 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 31 adj, 17 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02806030"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02806030">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 12 adj, 6 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 31 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 12 adj, 6 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 31 adj, 17 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028060A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028060A0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 13 adj, 5 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 32 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 13 adj, 5 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 32 adj, 16 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02806110"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02806110">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 13 adj, 5 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 32 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 13 adj, 5 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 32 adj, 16 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02806180"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02806180">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 13 adj, 5 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 32 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 13 adj, 5 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 32 adj, 16 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028061F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028061F0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 14 adj, 4 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 33 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 14 adj, 4 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 33 adj, 15 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02806260"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02806260">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 14 adj, 4 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 33 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 14 adj, 4 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 33 adj, 15 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x028062D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x028062D0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 15 adj, 3 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 34 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 15 adj, 3 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 34 adj, 14 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280AF60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280AF60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 15 adj, 3 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 34 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 15 adj, 3 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 34 adj, 14 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280AFD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280AFD0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 16 adj, 2 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 35 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 16 adj, 2 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 35 adj, 13 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B040"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B040">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 16 adj, 2 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 35 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 16 adj, 2 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 35 adj, 13 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B0B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B0B0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 16 adj, 2 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 35 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 16 adj, 2 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 35 adj, 13 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B120"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B120">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 17 adj, 1 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 36 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 17 adj, 1 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 36 adj, 12 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B190">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 17 adj, 1 rem, now=sound of P2T2 synth A2.&#x000A;MGM channel: 36 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 17 adj, 1 rem, now=sound of P2T3 drums A1.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 36 adj, 12 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B200"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B200">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 0 adj, 18 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 37 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 0 adj, 18 rem, now=sound of P2T3 drums A3.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 37 adj, 11 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B270"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B270">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 0 adj, 18 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 37 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 0 adj, 18 rem, now=sound of P2T3 drums A3.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 37 adj, 11 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B2E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B2E0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 17 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 38 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 1 adj, 17 rem, now=sound of P2T3 drums A3.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 38 adj, 10 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B350"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B350">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 1 adj, 17 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 38 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 1 adj, 17 rem, now=sound of P2T3 drums A3.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 38 adj, 10 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B3C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B3C0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 2 adj, 16 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 39 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 2 adj, 16 rem, now=sound of P2T3 drums A3.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 39 adj, 9 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0280B430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0280B430">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.&#x000A;&#x000A;BGM channel: 2 adj, 16 rem, now=sound of P2T2 synth A8.&#x000A;MGM channel: 39 adj, 0 rem, was=sound of P2T1 Rhodes A8.&#x000A;M1M channel: 2 adj, 16 rem, now=sound of P2T3 drums A3.&#x000A;M2M channel: 0 adj, 0 rem, was=sound of null.&#x000A;M3S channel: 39 adj, 9 rem, now=sound of P2T4 Noise.&#x000A;FGS channel: 0 adj, 0 rem, was=sound of null.&#x000A;"potential track list" = list of sound names: {}&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
     <temporary score="0">YES</temporary>
   </item>
 </Skein>

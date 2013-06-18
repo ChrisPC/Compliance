@@ -100,64 +100,128 @@
             <key>48</key>
             <string>Sounds\bounces 2\Track 4 Drums 1c.ogg</string>
             <key>49</key>
-            <string>Sounds\gated\drips.ogg</string>
+            <string>Sounds\coworker\ch1a.ogg</string>
             <key>50</key>
-            <string>Sounds\noises\noise 1.ogg</string>
+            <string>Sounds\coworker\ch1b.ogg</string>
             <key>51</key>
-            <string>Sounds\noises\noise 2.ogg</string>
+            <string>Sounds\coworker\ch1c.ogg</string>
             <key>52</key>
-            <string>Sounds\noises\noise 3.ogg</string>
+            <string>Sounds\coworker\ch1d.ogg</string>
             <key>53</key>
-            <string>Sounds\fx cues\f1.ogg</string>
+            <string>Sounds\coworker\ch1e.ogg</string>
             <key>54</key>
-            <string>Sounds\fx cues\f2.ogg</string>
+            <string>Sounds\coworker\ch1f.ogg</string>
             <key>55</key>
-            <string>Sounds\RECORDINGS\steps\step 1.ogg</string>
+            <string>Sounds\coworker\ch1g.ogg</string>
             <key>56</key>
-            <string>Sounds\RECORDINGS\steps\step 2.ogg</string>
+            <string>Sounds\coworker\ch1h.ogg</string>
             <key>57</key>
-            <string>Sounds\RECORDINGS\steps\step 3.ogg</string>
+            <string>Sounds\coworker\ch2a.ogg</string>
             <key>58</key>
-            <string>Sounds\RECORDINGS\steps\step 4.ogg</string>
+            <string>Sounds\coworker\ch2b.ogg</string>
             <key>59</key>
-            <string>Sounds\RECORDINGS\scrape\scrape 1.ogg</string>
+            <string>Sounds\coworker\ch2c.ogg</string>
             <key>60</key>
-            <string>Sounds\RECORDINGS\scrape\scrape 2.ogg</string>
+            <string>Sounds\coworker\ch2d.ogg</string>
             <key>61</key>
-            <string>Sounds\RECORDINGS\scrape\scrape 3.ogg</string>
+            <string>Sounds\coworker\ch2e.ogg</string>
             <key>62</key>
-            <string>Sounds\RECORDINGS\scrape\scrape 4.ogg</string>
+            <string>Sounds\coworker\ch2f.ogg</string>
             <key>63</key>
-            <string>Sounds\RECORDINGS\scrape\scrape 5.ogg</string>
+            <string>Sounds\coworker\ch2g.ogg</string>
             <key>64</key>
-            <string>Sounds\RECORDINGS\water\water3.ogg</string>
+            <string>Sounds\coworker\ch2h.ogg</string>
             <key>65</key>
-            <string>Sounds\RECORDINGS\materials\glass 1.ogg</string>
+            <string>Sounds\coworker\ch3a.ogg</string>
             <key>66</key>
-            <string>Sounds\RECORDINGS\materials\knock 1.ogg</string>
+            <string>Sounds\coworker\ch3b.ogg</string>
             <key>67</key>
-            <string>Sounds\RECORDINGS\materials\knock 2.ogg</string>
+            <string>Sounds\coworker\ch3c.ogg</string>
             <key>68</key>
-            <string>Sounds\RECORDINGS\materials\knock 3.ogg</string>
+            <string>Sounds\p2 theme ogg\Keys A.ogg</string>
             <key>69</key>
-            <string>Sounds\RECORDINGS\materials\knock 4.ogg</string>
+            <string>Sounds\p2 theme ogg\Keys B.ogg</string>
             <key>70</key>
-            <string>Sounds\RECORDINGS\materials\metal 2.ogg</string>
+            <string>Sounds\p2 theme ogg\Keys D.ogg</string>
             <key>71</key>
-            <string>Sounds\RECORDINGS\materials\metal 3.ogg</string>
+            <string>Sounds\p2 theme ogg\Bass A.ogg</string>
             <key>72</key>
-            <string>Sounds\RECORDINGS\materials\metal 4.ogg</string>
+            <string>Sounds\p2 theme ogg\Bass B.ogg</string>
             <key>73</key>
-            <string>Sounds\RECORDINGS\materials\metal 5.ogg</string>
+            <string>Sounds\p2 theme ogg\Bass D.ogg</string>
             <key>74</key>
-            <string>Sounds\RECORDINGS\materials\metal 6.ogg</string>
+            <string>Sounds\p2 theme ogg\Pad A.ogg</string>
             <key>75</key>
-            <string>Sounds\RECORDINGS\materials\metal 7.ogg</string>
+            <string>Sounds\p2 theme ogg\Pad B.ogg</string>
             <key>76</key>
-            <string>Sounds\RECORDINGS\materials\plastic 1.ogg</string>
+            <string>Sounds\p2 theme ogg\Pad D.ogg</string>
             <key>77</key>
-            <string>Sounds\RECORDINGS\materials\rolling 1.ogg</string>
+            <string>Sounds\p2 theme ogg\Lead 2 A.ogg</string>
             <key>78</key>
+            <string>Sounds\p2 theme ogg\Lead 2 B.ogg</string>
+            <key>79</key>
+            <string>Sounds\p2 theme ogg\Lead 2 C.ogg</string>
+            <key>80</key>
+            <string>Sounds\p2 theme ogg\Lead 2 D.ogg</string>
+            <key>81</key>
+            <string>Sounds\gated\drips.ogg</string>
+            <key>82</key>
+            <string>Sounds\noises\noise 1.ogg</string>
+            <key>83</key>
+            <string>Sounds\noises\noise 2.ogg</string>
+            <key>84</key>
+            <string>Sounds\noises\noise 3.ogg</string>
+            <key>85</key>
+            <string>Sounds\fx cues\f1.ogg</string>
+            <key>86</key>
+            <string>Sounds\fx cues\f2.ogg</string>
+            <key>87</key>
+            <string>Sounds\RECORDINGS\steps\step 1.ogg</string>
+            <key>88</key>
+            <string>Sounds\RECORDINGS\steps\step 2.ogg</string>
+            <key>89</key>
+            <string>Sounds\RECORDINGS\steps\step 3.ogg</string>
+            <key>90</key>
+            <string>Sounds\RECORDINGS\steps\step 4.ogg</string>
+            <key>91</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 1.ogg</string>
+            <key>92</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 2.ogg</string>
+            <key>93</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 3.ogg</string>
+            <key>94</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 4.ogg</string>
+            <key>95</key>
+            <string>Sounds\RECORDINGS\scrape\scrape 5.ogg</string>
+            <key>96</key>
+            <string>Sounds\RECORDINGS\water\water3.ogg</string>
+            <key>97</key>
+            <string>Sounds\RECORDINGS\materials\glass 1.ogg</string>
+            <key>98</key>
+            <string>Sounds\RECORDINGS\materials\knock 1.ogg</string>
+            <key>99</key>
+            <string>Sounds\RECORDINGS\materials\knock 2.ogg</string>
+            <key>100</key>
+            <string>Sounds\RECORDINGS\materials\knock 3.ogg</string>
+            <key>101</key>
+            <string>Sounds\RECORDINGS\materials\knock 4.ogg</string>
+            <key>102</key>
+            <string>Sounds\RECORDINGS\materials\metal 2.ogg</string>
+            <key>103</key>
+            <string>Sounds\RECORDINGS\materials\metal 3.ogg</string>
+            <key>104</key>
+            <string>Sounds\RECORDINGS\materials\metal 4.ogg</string>
+            <key>105</key>
+            <string>Sounds\RECORDINGS\materials\metal 5.ogg</string>
+            <key>106</key>
+            <string>Sounds\RECORDINGS\materials\metal 6.ogg</string>
+            <key>107</key>
+            <string>Sounds\RECORDINGS\materials\metal 7.ogg</string>
+            <key>108</key>
+            <string>Sounds\RECORDINGS\materials\plastic 1.ogg</string>
+            <key>109</key>
+            <string>Sounds\RECORDINGS\materials\rolling 1.ogg</string>
+            <key>110</key>
             <string>Sounds\RECORDINGS\materials\rolling 2.ogg</string>
         </dict>
     </dict>
