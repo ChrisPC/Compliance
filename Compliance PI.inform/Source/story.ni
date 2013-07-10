@@ -21,17 +21,17 @@ VOLUME I - ENHANCEMENTS
 
 Book One - Niceties
 
-Part 1 - Listiness
+Part A - Listiness
 
 To decide which K is a random entry from (L - list of values of kind K) but/except not/for/-- (J - a K):
 	sort L in random order;
 	if entry 1 in L is J, rotate L;
-	[	we want to prevent repeats, but if one does occur, no need to randomize the list again]
-	[	we just shuffled it, so the last position is just as random as the first					]
-	[	side effect: when length = 1, J will be selected again, no special-case code required	]
+	[	we want to prevent repeats, but if one does occur, no need to randomize the list again	]
+	[	we just shuffled it, so the last position is just as random as the first	]
+	[	happy side effect: when length = 1, J will be selected again; no special-case code required	]
 	decide on entry 1 in L.
 	
-Part 2 - Descriptions
+Part B - Descriptions
 
 The verb to be described implies the description property.
 
@@ -39,7 +39,7 @@ Book Two - Audio
 
 A sound name has a number called the length. The verb to last (it lasts, they last, it lasted, it is lasting) implies the length property.
 
-Part 1 - Audio Definitions
+Part A - Audio Definitions
 
 sound of null is the file "". sound of null lasts 0.
 
@@ -96,9 +96,6 @@ sound of P2T2 Git C3 is the file "t2 ogg\track 2 git\t2c3.ogg".  sound of P2T2 G
 sound of P2T3 Tom A1 is the file "t2 ogg\track 3 tom\t3a1.ogg".  sound of P2T3 Tom A1 lasts 24.
 sound of P2T3 Tom A2 is the file "t2 ogg\track 3 tom\t3b1.ogg".  sound of P2T3 Tom A2 lasts 24.
 sound of P2T3 Tom A3 is the file "t2 ogg\track 3 tom\t3c1.ogg".  sound of P2T3 Tom A3 lasts 24.
-
-[wind-y noise]
-sound of P2T4 Noise is the file "t2 ogg\track 4 noise\t4a1.ogg". sound of P2T4 Noise lasts 24.
 
 [--building tension--]
 
@@ -168,6 +165,60 @@ sound of P2T4 lead A2 is the file "p2 theme ogg\Lead 2 B.ogg". sound of P2T4 lea
 sound of P2T4 lead A3 is the file "p2 theme ogg\Lead 2 C.ogg". sound of P2T4 lead A3 lasts 14.
 sound of P2T4 lead A4 is the file "p2 theme ogg\Lead 2 D.ogg". sound of P2T4 lead A4 lasts 14.
 
+[--cabin theme var2 - warm--]
+
+[guitar + piano combo]
+sound of P2T1 mello A1 is the file "Theme June 23 ogg\Mellotron\A.ogg". sound of P2T1 mello A1 lasts 11.
+sound of P2T1 mello A2 is the file "Theme June 23 ogg\Mellotron\B.ogg". sound of P2T1 mello A2 lasts 11.
+sound of P2T1 mello A3a is the file "Theme June 23 ogg\Mellotron\C a.ogg". sound of P2T1 mello A3a lasts 11.
+sound of P2T1 mello A3b is the file "Theme June 23 ogg\Mellotron\C b.ogg". sound of P2T1 mello A3b lasts 11.
+sound of P2T1 mello A4 is the file "Theme June 23 ogg\Mellotron\D.ogg". sound of P2T1 mello A4 lasts 11.
+sound of P2T1 mello A5 is the file "Theme June 23 ogg\Mellotron\E.ogg". sound of P2T1 mello A5 lasts 11.
+sound of P2T1 mello A6 is the file "Theme June 23 ogg\Mellotron\F.ogg". sound of P2T1 mello A6 lasts 11.
+
+[Vangelis/Toto 80s synth]
+sound of P2T2 synthpad A1a is the file "Theme June 23 ogg\synthpad\A a.ogg". sound of P2T2 synthpad A1a lasts 11.
+sound of P2T2 synthpad A1b is the file "Theme June 23 ogg\synthpad\A b.ogg". sound of P2T2 synthpad A1b lasts 11.
+sound of P2T2 synthpad A1c is the file "Theme June 23 ogg\synthpad\A c.ogg". sound of P2T2 synthpad A1c lasts 11.
+sound of P2T2 synthpad A1d is the file "Theme June 23 ogg\synthpad\A d.ogg". sound of P2T2 synthpad A1d lasts 11.
+sound of P2T2 synthpad A2a is the file "Theme June 23 ogg\synthpad\B a.ogg". sound of P2T2 synthpad A2a lasts 11.
+sound of P2T2 synthpad A2b is the file "Theme June 23 ogg\synthpad\B b.ogg". sound of P2T2 synthpad A2b lasts 11.
+sound of P2T2 synthpad A2c is the file "Theme June 23 ogg\synthpad\B c.ogg". sound of P2T2 synthpad A2c lasts 11.
+sound of P2T2 synthpad A2d is the file "Theme June 23 ogg\synthpad\B d.ogg". sound of P2T2 synthpad A2d lasts 11.
+sound of P2T2 synthpad A3a is the file "Theme June 23 ogg\synthpad\C a.ogg". sound of P2T2 synthpad A3a lasts 11.
+sound of P2T2 synthpad A3b is the file "Theme June 23 ogg\synthpad\C b.ogg". sound of P2T2 synthpad A3b lasts 11.
+sound of P2T2 synthpad A3c is the file "Theme June 23 ogg\synthpad\C c.ogg". sound of P2T2 synthpad A3c lasts 11.
+sound of P2T2 synthpad A3d is the file "Theme June 23 ogg\synthpad\C d.ogg". sound of P2T2 synthpad A3d lasts 11.
+sound of P2T2 synthpad A3e is the file "Theme June 23 ogg\synthpad\C e.ogg". sound of P2T2 synthpad A3e lasts 11.
+sound of P2T2 synthpad A3f is the file "Theme June 23 ogg\synthpad\C f.ogg". sound of P2T2 synthpad A3f lasts 11.
+sound of P2T2 synthpad A4a is the file "Theme June 23 ogg\synthpad\D a.ogg". sound of P2T2 synthpad A4a lasts 11.
+sound of P2T2 synthpad A4b is the file "Theme June 23 ogg\synthpad\D b.ogg". sound of P2T2 synthpad A4b lasts 11.
+sound of P2T2 synthpad A4c is the file "Theme June 23 ogg\synthpad\D c.ogg". sound of P2T2 synthpad A4c lasts 11.
+sound of P2T2 synthpad A4d is the file "Theme June 23 ogg\synthpad\D d.ogg". sound of P2T2 synthpad A4d lasts 11.
+sound of P2T2 synthpad A5a is the file "Theme June 23 ogg\synthpad\E a.ogg". sound of P2T2 synthpad A5a lasts 11.
+sound of P2T2 synthpad A5b is the file "Theme June 23 ogg\synthpad\E b.ogg". sound of P2T2 synthpad A5b lasts 11.
+sound of P2T2 synthpad A5c is the file "Theme June 23 ogg\synthpad\E c.ogg". sound of P2T2 synthpad A5c lasts 11.
+sound of P2T2 synthpad A5d is the file "Theme June 23 ogg\synthpad\E d.ogg". sound of P2T2 synthpad A5d lasts 11.
+sound of P2T2 synthpad A6a is the file "Theme June 23 ogg\synthpad\F a.ogg". sound of P2T2 synthpad A6a lasts 11.
+sound of P2T2 synthpad A6b is the file "Theme June 23 ogg\synthpad\F b.ogg". sound of P2T2 synthpad A6b lasts 11.
+sound of P2T2 synthpad A6c is the file "Theme June 23 ogg\synthpad\F c.ogg". sound of P2T2 synthpad A6c lasts 11.
+sound of P2T2 synthpad A6d is the file "Theme June 23 ogg\synthpad\F d.ogg". sound of P2T2 synthpad A6d lasts 11.
+
+[drum machine + Moonish vibrasynth]
+sound of P2T3 drumkit A1 is the file "Theme June 23 ogg\drum + perkloop\A.ogg". sound of P2T3 drumkit A1 lasts 11.
+sound of P2T3 drumkit A2 is the file "Theme June 23 ogg\drum + perkloop\hats synco.ogg". sound of P2T3 drumkit A2 lasts 11.
+sound of P2T3 drumkit A3 is the file "Theme June 23 ogg\drum + perkloop\no bass variant.ogg". sound of P2T3 drumkit A3 lasts 11.
+sound of P2T3 drumkit A4 is the file "Theme June 23 ogg\drum + perkloop\variation.ogg". sound of P2T3 drumkit A4 lasts 11.
+[drum machine only]
+sound of P2T3 drumkit B1 is the file "Theme June 23 ogg\drumkit\A.ogg". sound of P2T3 drumkit B1 lasts 11.
+sound of P2T3 drumkit B2 is the file "Theme June 23 ogg\drumkit\hats synco.ogg". sound of P2T3 drumkit B2 lasts 11.
+sound of P2T3 drumkit B3 is the file "Theme June 23 ogg\drumkit\variant no bass.ogg". sound of P2T3 drumkit B3 lasts 11.
+sound of P2T3 drumkit B4 is the file "Theme June 23 ogg\drumkit\basic variant.ogg". sound of P2T3 drumkit B4 lasts 11.
+sound of P2T3 drumkit B5 is the file "Theme June 23 ogg\drumkit\ambient.ogg". sound of P2T3 drumkit B5 lasts 11.
+sound of P2T3 drumkit B6 is the file "Theme June 23 ogg\drumkit\hats ridim.ogg". sound of P2T3 drumkit B6 lasts 11.
+sound of P2T3 drumkit B7 is the file "Theme June 23 ogg\drumkit\tom big break.ogg". sound of P2T3 drumkit B7 lasts 11.
+sound of P2T3 drumkit B8 is the file "Theme June 23 ogg\drumkit\tom break.ogg". sound of P2T3 drumkit B8 lasts 11.
+
 Chapter 2 - Sound effects
 
 Section 2a - intro
@@ -211,7 +262,58 @@ sound of clicking is the file "RECORDINGS\materials\plastic 1.ogg". sound of cli
 sound of metal rolling is the file "RECORDINGS\materials\rolling 1.ogg". sound of metal rolling lasts 40.[]
 sound of ribbed rolling is the file "RECORDINGS\materials\rolling 2.ogg". sound of ribbed rolling lasts 24.[]
 
-Part 2 - Basic Music Functions
+Section 2b - ambiance
+
+[--wind--]
+sound of wind noise is the file "t2 ogg\track 4 noise\t4a1.ogg". sound of wind noise lasts 24.
+sound of bird trees 1 is the file "ambient sounds\trees wind\17383__homejrande__wind-trees1.ogg". sound of bird trees 1 lasts 8.
+sound of bird trees 2 is the file "ambient sounds\trees wind\17383__homejrande__wind-trees5.ogg". sound of bird trees 2 lasts 5.
+sound of bird trees 3 is the file "ambient sounds\trees wind\17383__homejrande__wind-trees7.ogg". sound of bird trees 3 lasts 3.
+sound of wind trees 2 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves2.ogg". sound of wind trees 2 lasts 16. 
+sound of wind trees 3 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves3.ogg". sound of wind trees 3 lasts 28. 
+sound of wind trees 4 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves4.ogg". sound of wind trees 4 lasts 9. 
+sound of wind trees 5 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves5.ogg". sound of wind trees 5 lasts 33. 
+sound of wind trees 6 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves6.ogg". sound of wind trees 6 lasts 20. 
+sound of wind trees 7 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves7.ogg". sound of wind trees 7 lasts 12. 
+sound of wind trees 8 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves8.ogg". sound of wind trees 8 lasts 20. 
+sound of wind trees 9 is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves9.ogg". sound of wind trees 9 lasts 10. 
+sound of wind birch 2 is the file "ambient sounds\trees wind\131032__klankbeeld__wind-in-tree-white-birch-02.ogg". sound of wind birch 2 lasts 18.  
+sound of wind birch 3 is the file "ambient sounds\trees wind\131032__klankbeeld__wind-in-tree-white-birch-03.ogg". sound of wind birch 3 lasts 25.
+sound of wind birch 4 is the file "ambient sounds\trees wind\131032__klankbeeld__wind-in-tree-white-birch-04.ogg". sound of wind birch 4 lasts 24.
+sound of wind leaves is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves1.ogg". sound of wind leaves lasts 10.
+
+[--lake--]
+sound of bird lake 1 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren1.ogg". sound of bird lake 1 lasts 17.
+sound of bird lake 2 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren2.ogg". sound of bird lake 2 lasts 17.
+sound of bird lake 3 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren3.ogg". sound of bird lake 3 lasts 20.
+sound of bird lake 4 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren4.ogg". sound of bird lake 4 lasts 14.
+sound of bird lake 5 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren5.ogg". sound of bird lake 5 lasts 21.
+sound of bird lake 6 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren6.ogg". sound of bird lake 6 lasts 14.
+
+[--aircraft--]
+sound of airplane is the file "ambient sounds\avionics\74361__zolopher__airplane-pass.ogg". sound of airplane lasts 37.
+sound of portbot is the file "ambient sounds\avionics\176307__portbot__5.ogg". sound of portbot lasts 20.
+
+[--cabin--]
+sound of cabin creak 1 is the file "ambient sounds\cabin\177779__dheming__wood-creak-021.ogg". sound of cabin creak 1 lasts 6.
+sound of cabin creak 2 is the file "ambient sounds\cabin\177779__dheming__wood-creak-022.ogg". sound of cabin creak 2 lasts 6.
+sound of cabin creak 3 is the file "ambient sounds\cabin\177779__dheming__wood-creak-023.ogg". sound of cabin creak 3 lasts 5.
+sound of cabin creak 4 is the file "ambient sounds\cabin\177779__dheming__wood-creak-024.ogg". sound of cabin creak 4 lasts 6.
+sound of cabin creak 5 is the file "ambient sounds\cabin\177779__dheming__wood-creak-025.ogg". sound of cabin creak 5 lasts 6.
+sound of cabin creak 6 is the file "ambient sounds\cabin\177779__dheming__wood-creak-026.ogg". sound of cabin creak 6 lasts 5.
+sound of cabin creak 7 is the file "ambient sounds\cabin\177779__dheming__wood-creak-027.ogg". sound of cabin creak 7 lasts 5.
+
+Section 2c - incidentals
+
+[--siren--]
+sound of siren 1 is the file "ambient sounds\siren\72688__djscrizzle__550at-3x1m1b.ogg". sound of siren 1 lasts 25.
+sound of siren 2 is the file "ambient sounds\siren\72688__djscrizzle__550at-3x1m2b.ogg". sound of siren 2 lasts 16.
+sound of siren 3 is the file "ambient sounds\siren\72688__djscrizzle__550at-3x1m3b.ogg". sound of siren 3 lasts 19.
+
+[--hovercraft--]
+sound of hover arrive is the file "ambient sounds\avionics\124009__setuniman__airplane-fly-by-m-23-c3.ogg". sound of hover arrive lasts 30.
+
+Part B - Basic Sound Functions
 
 To set the glulx timer to (N - a number) ms:
 		(- glk_request_timer_events( {N} ); -)
@@ -219,7 +321,7 @@ To set the glulx timer to (N - a number) ms:
 To decide what number is (N - a number) squared:
 	decide on N times N.
 	 
-Part 3 - Music System
+Part C - Music System
 
 play music is a truth state that varies.
 play sounds is a truth state that varies.
@@ -283,10 +385,11 @@ Definition: a sound name is controlled rather than free if a sound name allows i
 Section 2b - music channels
 
 A sound channel is a kind of thing. 
-	A sound channel has a sound name called the current sample. 	
+	A sound channel has a sound name called the current sample. 
 		Definition: a sound channel is silent rather than auditory if the current sample of it is sound of null.
-	A sound channel has a sound name called the last played sample. 	
+	A sound channel has a sound name called the last played sample. 
 	A sound channel has a number called the adjustment. 
+		Definition: a sound channel is unqueued rather than queued if it is silent and the adjustment of it is 0.
 	A sound channel has a number called the target.
 	A sound channel has a number called the time remaining.
 	A sound channel has a rulebook producing a list of sound names called the sample selection rules. 
@@ -295,10 +398,12 @@ A sound channel is a kind of thing.
 A music channel is a kind of sound channel.
 	A music channel has a number called the beat length. 
 	[	New tracks can start playing only every (beat length) half-seconds.	]
-	[	NOTE: when beat length = 0, this channel can start ONLY when	]
-	[	BGM channel starts playing a new track!							]
+	[		]
+	[	NOTE: if beat length = 0, this channel can start *only* when BGM	]
+	[	channel starts playing a new track! So if their bl = 0, a higher target	]
+	[	number affects lower channels *much* more than BGM channel!	]
 	A music channel has a number called the beat offset.
-	[	Can start playing every (beat offset) half-seconds after the beat. For partial drum fills, etc.	]
+	[	An MC can start playing every (beat offset) half-seconds after the beat. For partial drum fills, etc.	]
 	A music channel has a music channel called the superior. 
 		The verb to be subordinate to implies the superior property.
 		Definition: a music channel is root if the superior of it is it.
@@ -312,12 +417,18 @@ To potentially play a new sample on (SC - a sound channel):
 			now beat offset of SC is 0;
 		now the potential track list is the list of sound names produced by the sample selection rules of SC;
 		now the current sample of SC is sound of null;
-		now the adjustment of SC is 0;
-		unless rule failed:
+		if rule failed: [SC is not active in this regime, so... ]
+			now the adjustment of SC is 0; [...stop counting up...]
+			now the last played sample of SC is sound of null; 
+			[	...and later tracks aren't limited to what should follow the last played track, in the previous regime.	]
+		otherwise:
 			now the potential track list is the potential track list playable after the last played sample of SC;
 			now the potential track list is the potential track list possible for SC;
-			unless the potential track list is empty:
+			if  the potential track list is empty:
+				now the last played sample of SC is sound of null;  [again, reset last played sample, for music-following purposes]
+			otherwise:
 				let the sound selection be a random entry from the potential track list except the last played sample of SC;
+				now the adjustment of SC is 0;
 				play the sound selection on SC;
 				
 To decide if (SC - a sound channel) can start playing:
@@ -328,8 +439,9 @@ To decide if (SC - a sound channel) can start playing:
 		if a random chance of A in (A plus (T squared)) succeeds:
 			decide yes;
 		otherwise: 
-			increment the adjustment of SC;
-			[channel was eligible to start playing, just unlucky this go-round, so we can start tilting the scales]
+			if the adjustment of SC is 0, now the adjustment of SC is 1;
+			[	Channel was eligible to start playing, just unlucky this go-round,	]
+			[	so we start tilting the scales to make it more likely to play soon. 	]
 	now the current sample of SC is sound of null;
 	decide no.
 	
@@ -337,7 +449,7 @@ To decide what list of sound names is (L - a list of sound names) playable after
 	unless S is lenient or S is sound of null:
 		let temp be a list of sound names;
 		[	We need a temporary list here because modifying a list while	]
-		[	running through it makes Bad Things happen.				]
+		[	running through it makes Bad Things happen.	]
 		repeat with X running through L:
 			unless X follows S, add X to temp;
 		remove temp from L;
@@ -393,8 +505,8 @@ A glulx timed activity rule:
 	
 The first music playing rule:
 	if we won't play music, rule fails; 
-	repeat with MC running through music channels:
-		unless MC is silent and the adjustment of MC is 0, increment the adjustment of MC.
+	repeat with MC running through queued music channels:
+		increment the adjustment of MC.
 
 A music playing rule:
 	repeat with MC running through music channels:
@@ -422,9 +534,9 @@ To decide what list of sound names is the tracks above (MC - a music channel):
 	decide on temp.
 	
 To decide if (MC - a music channel) is on-beat:
-	[	the BGM channel starts playing immediately;									 	]
-	[	for other channels, the sample plays when it fits into the BGM's beat				]
-	[	(or, if it has no beat length specified, with the next BGM sample (including offset)).	]
+	[	the BGM channel starts playing immediately;	]
+	[	for other channels, the sample plays when it fits into the BGM's beat	]
+	[	(or, if it has no beat length specified, when the next BGM sample does (+ offset)).	]
 	if MC is the BGM channel, yes;
 	let O be beat offset of MC;
 	let BA be adjustment of the BGM channel;
@@ -496,7 +608,7 @@ The note ends there. You don't recognize the handwriting. But the second part ma
 
 Book One - The Intro
 
-Part 1 - Sub-Basement
+Part A - Sub-Basement
 
 Sub-Basement is a room. "Your search has brought you here, deep into the bowels of the Company. The floor echoes with every footstep. The walls are smooth, dark, cold. Water drips from old corroded pipes above. The door back up to the Main Levels stands shut to the west."
 
@@ -550,7 +662,7 @@ Some walls are a backdrop, described "Dark and cold to the touch. You can't iden
 
 Instead of doing something other than examining a backdrop, say "That's not important."
 	
-Part 2 - Filing Hall
+Part B - Filing Hall
 
 Filing Hall is east from entry checkpoint. "You stand along one wall of the Company records repository, with the way to the main complex back to the west. The expansive records stretch in every direction, massive lengths of shelving full of boxes[unless folders are located]. You know the file you seek will be found somewhere in the north quadrant -- but you need a precise location[end if]."
 
@@ -568,7 +680,7 @@ An MGM track selection rule when in Filing Hall:
 	now target of MGM channel is 0;
 	rule succeeds with result {sound of P1T2 Lead A, sound of P1T2 Lead C}.
 	
-Part 3 - Hardcopy Storage
+Part C- Hardcopy Storage
 
 Hardcopy Storage is north from Filing Hall. "Files, supply shelves and other stored physical materials stretch in all directions[if folders are not located]. But you have no idea where exactly to look to find the file you seek. If only there were an indexing machine..[end if]." Instead of going east in Hardcopy, try going southeast. Instead of going southwest in Hardcopy, try going south. North is Hardcopy. West is Hardcopy. Northwest is Hardcopy. Northeast is Hardcopy.
 
@@ -586,7 +698,7 @@ A MGM track selection rule when in Hardcopy Storage:
 	now target of MGM channel is 0;
 	rule succeeds with result {sound of P1T2 Lead B, sound of P1T3 Chords C, sound of P1T3 Chords B}.
 
-Part 4 - Leadhammer
+Part D - Leadhammer
 
 Leadhammer is a room with printed name "Hardcopy Storage, Leadhammer". "[one of]After a brief search in this dusty, poorly-lit, forgotten corner of the Archives, you've at last found the right spot. It's[or]This is[stopping] a dark, grimy alcove tucked away in the depths of Hardcopy Storage. If you didn't know to look for this exact shelf, you could have easily overlooked it." 
 
@@ -646,7 +758,7 @@ An M1M track selection rule when the folders are read and the location is Leadha
 	now target of M1M channel is 0;
 	rule succeeds with result {sound of P1T4 Rhythm B, sound of P1T4 Rhythm C}.
 
-Part 5 - Servo Port
+Part E - Servo Port
 
 Servo Port is south of Filing Hall. "From a small alcove here at the south end of the archives, the servos depart on their errands. The floor has been cleared for several feet around the servo shaft, in stark contrast to the rest of the repository, where the clutter stretches back to the north and northeast. There is a constant mechanical hum coming from the hallway south. To the east, a peculiar metal capsule stands open."
 
@@ -765,7 +877,7 @@ A MGM track selection rule when in Servo Port:
 	now target of MGM channel is 0;
 	rule succeeds with result {sound of P1T2 Lead C, sound of P1T3 Chords B, sound of P1T3 Chords D}.
 	
-Part 6 - Hydraulics Control
+Part F - Hydraulics Control
 
 Hydraulics Control is south from Servo Port. "The narrow passage to the north from which you entered terminates here: a wide, oval-shaped room. The view before you is dominated by a giant metallic pillar that drops from the ceiling to an enormously complex mechanism recessed into the floor. Spinning gears, rods, and thick wires fill nearly every open space here."
 
@@ -835,7 +947,7 @@ An M1M track selection rule when in Hydraulics Control:
 	now target of M1M channel is 8;
 	rule succeeds with result {sound of P1T4 Rhythm A, sound of P1T4 Rhythm D}.
 
-Part 7 - Containment Area
+Part G - Containment Area
 
 Containment Area is a room, east from Servo Port. "A small, cylindrical room of brushed smooth silver metal. Entirely spotless and brightly lit. Two air-sealed doors lead west and north back into the main part of the Filing Hall."
 
@@ -892,7 +1004,7 @@ An M1M track selection rule when in Containment Area:
 	now target of M1M channel is 0;
 	rule succeeds with result {sound of P1T4 Rhythm A, sound of P1T4 Rhythm B}.
 
-Part 8 - Dumb Terminals
+Part H - Dumb Terminals
  
 Dumb Terminals is north from Containment Area, east from Filing Hall, northeast from Servo Port, southeast from Hardcopy. "It seems this part of the Archives have been set aside for storing the ancient machines of the Company. Edifices the size of your living unit line the wall, some with chairs built in, some covered in dials, knobs, levers, switches...
 
@@ -939,7 +1051,7 @@ An ambient sound selection rule when in Dumb Terminals:
 	now target of M3S channel is 15;
 	rule succeeds with result {sound of metal taps, sound of metal knocks, sound of ticks noise, sound of loud ticks, sound of subdued echoes, sound of P1T4 Rhythm A, sound of P1T4 Rhythm B, sound of raygun, sound of mellotron}
 
-Part 9 - Power Supply
+Part I - Power Supply
 
 Power Supply is north of Dumb Terminals. "You are on a rickety catwalk running east and west, attached to a sheer cliff face. A hot wind buffets you from below, forcing you to hang onto the railing. To the east, the catwalk wends into a cleft in the rock. The Headquarters basement is back in through an access passageway to the south. 
 
@@ -968,7 +1080,7 @@ An ambient sound selection rule when in Outdoors:
 	now target of M3S channel is 31;
 	rule succeeds with result {sound of snapping creaking, sound of rattling pieces, sound of metal strain}
 	
-Part 10 - Lift Access
+Part J - Lift Access
 
 Lift Access is west from Power Supply. "The catwalk ends here at a corner of the cliff face, where a track has been built for an an access lift to run from the generators up to the main complex."
 
@@ -976,21 +1088,21 @@ The lift console is fixed in place, here. "But the lift is not here, and the con
 
 The lift track is scenery, here, described "A toothy diagonal line cut into the cliff face."
 
-Part 11 - Waste Handling
+Part K - Waste Handling
 
 Waste Handling is east from Power Supply. "You find yourself back within the Headquarters complex proper, or at least an adjoining -- and clearly associated -- cavern. You are walking along a narrow concrete walkway that runs along a river of sewage and waste products being readied for treatment. To the north, an access staircase leads out of the complex. [first time][paragraph break]But you nearly run straight into a sanitation worker as you round the corner.[only]"
 
 The sanitation worker is a person, here. "The sanitation worker is occupied with the waste flow." It is described "The worker apparently hasn't noticed you yet. It's hard to recognize through the hazmat suit. But[if the hazmat suit is worn] then again, so are you. You should have nothing to worry about, wearing one yourself[otherwise] you're in a very precarious position here[end if]."
 
 Instead of attacking the worker when the folders are not held:
-		say "You can't risk a general alarm. Not until you've found the file in the repository.";
+	say "You can't risk a general alarm. Not until you've found the file in the repository.";
 		
 Instead of attacking the worker for the first time:
 	say "The worker is certain to call for help. With escape so close, do you really want to risk a general alarm?";
 	
 Instead of saying yes in the presence of the worker, try attacking the worker.
 		
-Instead of attacking the worker:	
+Instead of attacking the worker:
 	remove worker from play;
 	say "The worker is taken completely by surprise, and falls into the effluent river, and is quickly swept away by the current. A few moments later, your fears are confirmed as a siren begins to sound. You hurry to the exit.";
 	try going north;
@@ -1019,7 +1131,7 @@ An ambient sound selection rule when in Waste Handling:
 	now target of M3S channel is 22;
 	rule succeeds with result {sound of drips, sound of water trickle, sound of rubbing plastic, sound of zipper, sound of shuffle step}
 
-Part 12 - Exit
+Part L - Exit
 
 Building Exit is north from Waste Handling.
 
@@ -1111,7 +1223,7 @@ Instead of jumping when in Outdoors:
 
 Book Two - The Chase
 
-Part 1 - Roadside
+Part A - Roadside
 
 Roadside is a room. "A dark dusty road."
 
@@ -1119,184 +1231,72 @@ West is Back to The Company. Instead of going to Back to the Company, say "You c
 
 Chapter 1 - Sound
 
-A BGM track selection rule when in Roadside:
-	now target of BGM channel is 40;
-	rule succeeds with result {sound of P2T3 Tom A1, sound of P2T3 Tom A2, sound of P2T3 Tom A3}.
-	
-An MGM track selection rule when in Roadside:
-	now target of MGM channel is 20;
-	now beat length of MGM channel is 12;
-	rule succeeds with result {sound of P2T1 Chord A, sound of P2T1 Chord B, sound of P2T1 Chord C}.
-	
-An M1M track selection rule when in Roadside:
-	now target of M1M channel is 8;
-	now beat length of M1M channel is 12;
-	rule succeeds with result {sound of P2T2 Git A1, sound of P2T2 Git A2, sound of P2T2 Git A3, sound of P2T2 Git B1, sound of P2T2 Git B2, sound of P2T2 Git B3, sound of P2T2 Git C1, sound of P2T2 Git C2, sound of P2T2 Git C3}.
-	
-sound of P2T2 Git A1 follows Sound of P2T2 Git C3.
-sound of P2T2 Git A1 follows Sound of P2T2 Git A3.
-sound of P2T2 Git A2 follows Sound of P2T2 Git A1.
-sound of P2T2 Git A3 follows Sound of P2T2 Git A2.
-sound of P2T2 Git B1 follows Sound of P2T2 Git A3.
-sound of P2T2 Git B1 follows Sound of P2T2 Git B3.
-sound of P2T2 Git B2 follows Sound of P2T2 Git B1.
-sound of P2T2 Git B3 follows Sound of P2T2 Git B2.
-sound of P2T2 Git C1 follows Sound of P2T2 Git B3.
-sound of P2T2 Git C1 follows Sound of P2T2 Git C3.
-sound of P2T2 Git C2 follows Sound of P2T2 Git C1.
-sound of P2T2 Git C3 follows Sound of P2T2 Git C2.
+Forestry is a region. Roadside is in Forestry.
 
-An ambient sound selection rule when in Roadside:
-	now target of M3S channel is 200;
-	rule succeeds with result {sound of P2T4 Noise}
+An ambient sound selection rule when in Forestry:
+	now target of M3S channel is 100;
+	rule succeeds with result {sound of wind noise, [sound of bird trees 1, sound of bird trees 2, sound of bird trees 3, ]sound of wind trees 2, sound of wind trees 3, sound of wind trees 4, sound of wind trees 5, sound of wind trees 6, sound of wind trees 7, sound of wind trees 8, sound of wind trees 9, sound of wind birch 2, sound of wind birch 3, sound of wind birch 4, sound of wind leaves, sound of airplane, sound of portbot}
 	
-Part 2 - Intersection
+Part B - Intersection
 
 Intersection is east of Roadside. "The road here splits. West to your old company building. East to a lake. North to the HQ."
-
-Chapter 1 - Sound
+Intersection is in Forestry.
 	
-Tension is a number that varies. Tension is 0.
-
-A BGM track selection rule when in Intersection and tension is positive:
-	now target of BGM channel is 0;
-	rule succeeds with result {sound of P2T1 Piano A1}.
-	
-An MGM track selection rule when in Intersection and tension is at least 2:
-	now target of MGM channel is 4 - tension;
-	rule succeeds with result {sound of P2T2 Epno A1, sound of P2T2 Epno A2}.
-	
-An M2M track selection rule when in Intersection and tension is at least 3 and (tension is at most 4 or M1M channel is silent):
-	now target of M2M channel is 6 - tension;
-	now beat length of M2M channel is 12;
-[	now beat offset of M2M channel is 3;]
-	now sound of P2T4 Drums A2 precedes nothing;
-	now sound of P2T4 Drums A3 precedes nothing;
-	rule succeeds with result {sound of P2T4 Drums A2, sound of P2T4 Drums A3}.
-	
-An M1M track selection rule when in Intersection and tension is at least 4:
-	now target of M1M channel is 7 - tension;
-	rule succeeds with result {sound of P2T3 Bass A1, sound of P2T3 Bass A2}.
-	
-An M2M track selection rule when in Intersection and tension is at least 5 and M1M channel is auditory:
-	now target of M2M channel is 0;
-	now beat length of M2M channel is 6;
-[	now beat offset of M2M channel is 3;]
-	now sound of P2T4 Drums A1 follows sound of P2T4 Drums A2;
-	now sound of P2T4 Drums A1 follows sound of P2T4 Drums A3;
-	now sound of P2T4 Drums A1 precedes sound of P2T4 Drums A2;
-	now sound of P2T4 Drums A1 precedes sound of P2T4 Drums A3;
-	rule succeeds with result {sound of P2T4 Drums A1, sound of P2T4 Drums A2, sound of P2T4 Drums A3}.
-
-An ambient sound selection rule when in Intersection:
-	now target of M3S channel is 200;
-	rule succeeds with result {sound of P2T4 Noise}
-	
-Part 3 - Lake Shore
+Part C - Lake Shore
 
 Lake Shore is north of  Intersection. "Waves here wash lazily over a rocky shore."
 
-Chapter 1 - Sound
+Chapter 1 - Sounds
 
-A BGM track selection rule when in Lake Shore:
-	now target of BGM channel is 0;
-	rule succeeds with result {sound of P2T2 synth A1, sound of P2T2 synth A2, sound of P2T2 synth A3, sound of P2T2 synth A4, sound of P2T2 synth A5, sound of P2T2 synth A6, sound of P2T2 synth A7, sound of P2T2 synth A8}.
-	
-An MGM track selection rule when in Lake Shore and tension is positive:
-	now target of MGM channel is 10 - tension;
-[	now beat offset of MGM channel is 3;]
-	rule succeeds with result {sound of P2T1 Rhodes A1, sound of P2T1 Rhodes A2, sound of P2T1 Rhodes A3, sound of P2T1 Rhodes A4, sound of P2T1 Rhodes A5, sound of P2T1 Rhodes A6, sound of P2T1 Rhodes A7, sound of P2T1 Rhodes A8}.
-	
-sound of P2T2 synth A1 allows sound of P2T1 Rhodes A1.
-sound of P2T2 synth A2 allows sound of P2T1 Rhodes A2.
-sound of P2T2 synth A3 allows sound of P2T1 Rhodes A3.
-sound of P2T2 synth A4 allows sound of P2T1 Rhodes A4.
-sound of P2T2 synth A5 allows sound of P2T1 Rhodes A5.
-sound of P2T2 synth A6 allows sound of P2T1 Rhodes A6.
-sound of P2T2 synth A7 allows sound of P2T1 Rhodes A7.
-sound of P2T2 synth A8 allows sound of P2T1 Rhodes A8.
+An ambient sound selection rule when in Lake Shore:
+	now target of M3S channel is 10;
+	rule succeeds with result {sound of bird lake 1, sound of  bird lake 2, sound of  bird lake 3, sound of  bird lake 4, sound of  bird lake 5, sound of  bird lake 6, sound of airplane, sound of portbot}
 
-An M1M track selection rule when in Lake Shore:
-	now target of MGM channel is 4;
-	rule succeeds with result {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}.
-	
-Part 4 - Secluded Cove
+Part D - Secluded Cove
 
 Secluded Cove is east of Lake Shore.
+Secluded Cove is in Forestry.
 
-Part 5 - Cabin
+Part E - Cabin
 
 Cabin is west of Lake Shore.
 
-Chapter 1 - Sound	
+Chapter 1 - Sound
 
-A BGM track selection rule when in Cabin:
-	now target of BGM channel is 0;
-	rule succeeds with result {sound of P2T2 bass A1, sound of P2T2 bass A2, sound of P2T2 bass A4}.
-	
-sound of P2T2 bass A2 follows sound of P2T2 bass A1.
-sound of P2T2 bass A1 follows sound of P2T2 bass A2.
-sound of P2T2 bass A4 follows sound of P2T2 bass A1.
-sound of P2T2 bass A1 follows sound of P2T2 bass A4.
+An ambient sound selection rule when in Cabin:
+	now target of M3S channel is 60;
+	rule succeeds with result {sound of cabin creak 1, sound of  cabin creak 2, sound of  cabin creak 3, sound of  cabin creak 4, sound of  cabin creak 5, sound of  cabin creak 6, sound of  cabin creak 7, sound of airplane, sound of portbot}
 
-An MGM track selection rule when in Cabin:
-	now target of MGM channel is 0;
-	rule succeeds with result {sound of P2T4 lead A1, sound of P2T4 lead A2, sound of P2T4 lead A3, sound of P2T4 lead A4}.
-
-sound of P2T4 lead A2 follows sound of P2T4 lead A1.
-sound of P2T4 lead A3 follows sound of P2T4 lead A2.
-sound of P2T4 lead A4 follows sound of P2T4 lead A3.
-sound of P2T4 lead A1 follows sound of P2T4 lead A4.
-sound of P2T2 bass A1 allows sound of P2T4 lead A1.
-sound of P2T2 bass A2 allows sound of P2T4 lead A2.
-sound of P2T2 bass A1 allows sound of P2T4 lead A3.
-sound of P2T2 bass A4 allows sound of P2T4 lead A4.
-	
-An M1M track selection rule when in Cabin:
-	now target of M1M channel is 8;
-	rule succeeds with result {sound of P2T1 keys A1, sound of P2T1 keys A2, sound of P2T1 keys A4}.
-	
-sound of P2T2 bass A1 allows sound of P2T1 keys A1.
-sound of P2T2 bass A2 allows sound of P2T1 keys A2.
-sound of P2T2 bass A1 allows sound of P2T1 keys A1.
-sound of P2T2 bass A4 allows sound of P2T1 keys A4.
-	
-An M2M track selection rule when in Cabin:
-	now target of M2M channel is 4;
-	rule succeeds with result {sound of P2T3 pad A1, sound of P2T3 pad A2, sound of P2T3 pad A4}.
-	
-sound of P2T2 bass A1 allows sound of P2T3 pad A1.
-sound of P2T2 bass A2 allows sound of P2T3 pad A2.
-sound of P2T2 bass A1 allows sound of P2T3 pad A1.
-sound of P2T2 bass A4 allows sound of P2T3 pad A4.
-
-Part 6 - Collection Station
+Part F - Collection Station
 
 Collection Station is south of Intersection.
 
 The collection structure is a scenery thing, here. Understand "building/station" as the structure. Instead of entering the structure, try going inside.
 
-Part 7 - Entry
+Part G - Entry
 
 Entryway is inside from Collection Station. "Dials cover the walls." The printed name is "Entry".
 
-Part 8 - Revision Room
+Part H - Revision Room
 
 Revision Room is east from Entryway.
 
-Part 9 - Overlook
+Part I - Overlook
 
 Overlook is south from Collection Station.
+Overlook is in Forestry.
 
 The HQ sign is fixed in place, here. "A sign head reads 'Headquarters'."
 
-Part 10 - Eerie Point
+Part J - Eerie Point
 
 Eerie Point is below Overlook.
+Eerie Point is in Forestry.
 
-Part 11 - HQ Way
+Part K - HQ Way
 
 HQ Way is east from Overlook.
+HQ Way is in Forestry.
 
 Instead of going to HQ Way, say "Plot stuff happens."
 
@@ -1319,7 +1319,7 @@ Book Two - Credits, etc
 After printing the banner text, say "Music and Sound Design by t.v.shit.[first time][line break][sound note][only]"
 
 To say sound note:
-	say "[italic type]This game is designed to be played with music and sound effects. For more details, type ABOUT[roman type]."
+	say "[italic type]This game is designed with music and sound effects. For more details, type ABOUT[roman type]."
 
 Requesting the about information is an action out of world, applying to nothing. Understand "about" and "credit" and "credits" as requesting the about information. Carry out requesting the about information: say "This is an experimental project, designed to be tightly integrated with a music system and sound effects. Playing without an interpreter capable of sound playback is not recommended. (Note: Some interpreters play sounds back at different volumes; adjust the volumes yourself using the commands below.)
 
@@ -1334,10 +1334,10 @@ Thanks to Ron Newcomb"
 Book Three - Audio Playback Controls
 
 Disabling sounds is an action out of world, applying to nothing. Understand the command "sounds" as something new. Understand "sounds off" as disabling sounds. Understand the commands "sound" and "sfx" and "effects" and "sound effects" as "sounds".
-Carry out disabling sounds: 
+Carry out disabling sounds:
 	stop the foreground sound;
 	stop the midground 3 sound;
-	we won't play sounds;
+	we won't play sounds.
 Report disabling sounds: 	say "Sound effects disabled."
 	
 Enabling sounds is an action out of world, applying to nothing. Understand "sounds on" as enabling sounds.
@@ -1417,6 +1417,8 @@ Carry out skipping ahead:
 	now the player is in Roadside;
 	now the file folders are carried by the player.
 	
+After looking for the first time: try the player skipping ahead.
+	
 Part 2 - Tension Control
 
 Adjusting tension is an action applying to one visible thing. Understand "tense [a direction]" as adjusting tension. Understand the command "tension" as "tense".
@@ -1427,15 +1429,292 @@ Carry out adjusting tension down:	 decrement tension.
 Report adjusting tension:	 say "Tension [tension]".
 
 Part 3 - Music Debug Notes
-	
+
 Every turn:
 	repeat with SC running through sound channels:
-		say "[SC]: [adjustment of SC] adj, [time remaining of SC] rem, [if SC is auditory]now=[current sample of SC][otherwise]was=[last played sample of SC][end if].";
+		say "[SC]: [adjustment of SC] adj, [time remaining of SC] rem, [target of SC] targ, [if SC is auditory]now=[current sample of SC][otherwise]was=[last played sample of SC][end if].";
 	showme potential track list;
+[	showme mello count;]
+
+Book Six - Scenes
+
+Part A - Exploration
+
+Exploration is a recurring scene. Exploration begins when the file folders are held and the player is in Roadside.
+
+Chapter 1 - Music
+
+Isolation is a number that varies. Isolation is 4.
+
+When exploration begins:
+	now target of BGM channel is 40 + (10 * isolation);
+	now target of MGM channel is 20 + (2 * isolation);
+	now target of M1M channel is 10 + isolation;
+
+A BGM track selection rule during Exploration:
+	now target of BGM channel is 40 + (10 * isolation);
+	rule succeeds with result {sound of P2T3 Tom A1, sound of P2T3 Tom A2, sound of P2T3 Tom A3}.
+	
+An MGM track selection rule during Exploration:
+	now target of MGM channel is 20 + (2 * isolation);
+	now beat length of MGM channel is 12;
+	rule succeeds with result {sound of P2T1 Chord A, sound of P2T1 Chord B, sound of P2T1 Chord C}.
+	
+An M1M track selection rule during Exploration:
+	now target of M1M channel is 10 + isolation;
+	now beat length of M1M channel is 12;
+	rule succeeds with result {sound of P2T2 Git A1, sound of P2T2 Git A2, sound of P2T2 Git A3, sound of P2T2 Git B1, sound of P2T2 Git B2, sound of P2T2 Git B3, sound of P2T2 Git C1, sound of P2T2 Git C2, sound of P2T2 Git C3}.
+	
+sound of P2T2 Git A1 follows sound of P2T2 Git C3 and sound of P2T2 Git A3.
+sound of P2T2 Git A2 follows sound of P2T2 Git A1.
+sound of P2T2 Git A3 follows sound of P2T2 Git A2.
+sound of P2T2 Git B1 follows sound of P2T2 Git A3 and sound of P2T2 Git B3.
+sound of P2T2 Git B2 follows sound of P2T2 Git B1.
+sound of P2T2 Git B3 follows sound of P2T2 Git B2.
+sound of P2T2 Git C1 follows sound of P2T2 Git B3 and sound of P2T2 Git C3.
+sound of P2T2 Git C2 follows sound of P2T2 Git C1.
+sound of P2T2 Git C3 follows sound of P2T2 Git C2.
+
+Part B - Danger
+
+Danger is a recurring scene.
+
+Chapter 1 - Music
+	
+Tension is a number that varies. Tension is 0.
+
+A BGM track selection rule when tension is positive and Danger is happening:
+	now target of BGM channel is 0;
+	rule succeeds with result {sound of P2T1 Piano A1}.
+	
+An MGM track selection rule when tension is at least 2 and Danger is happening:
+	now target of MGM channel is 4 - tension;
+	rule succeeds with result {sound of P2T2 Epno A1, sound of P2T2 Epno A2}.
+	
+An M2M track selection rule when tension is at least 3 and (tension is at most 4 or M1M channel is silent) and Danger is happening:
+	now target of M2M channel is 6 - tension;
+	now beat length of M2M channel is 12;
+[	now beat offset of M2M channel is 3;]
+	now sound of P2T4 Drums A2 precedes nothing;
+	now sound of P2T4 Drums A3 precedes nothing;
+	rule succeeds with result {sound of P2T4 Drums A2, sound of P2T4 Drums A3}.
+	
+An M1M track selection rule when tension is at least 4  and Danger is happening:
+	now target of M1M channel is 7 - tension;
+	rule succeeds with result {sound of P2T3 Bass A1, sound of P2T3 Bass A2}.
+	
+An M2M track selection rule when tension is at least 5 and M1M channel is auditory and Danger is happening:
+	now target of M2M channel is 0;
+	now beat length of M2M channel is 6;
+[	now beat offset of M2M channel is 3;]
+	now sound of P2T4 Drums A1 follows sound of P2T4 Drums A2;
+	now sound of P2T4 Drums A1 follows sound of P2T4 Drums A3;
+	now sound of P2T4 Drums A1 precedes sound of P2T4 Drums A2;
+	now sound of P2T4 Drums A1 precedes sound of P2T4 Drums A3;
+	rule succeeds with result {sound of P2T4 Drums A1, sound of P2T4 Drums A2, sound of P2T4 Drums A3}.
+	
+[Chapter 1 - Sound
+
+A BGM track selection rule when in Lake Shore:
+	now target of BGM channel is 0;
+	rule succeeds with result {sound of P2T2 synth A1, sound of P2T2 synth A2, sound of P2T2 synth A3, sound of P2T2 synth A4, sound of P2T2 synth A5, sound of P2T2 synth A6, sound of P2T2 synth A7, sound of P2T2 synth A8}.
+	
+An MGM track selection rule when in Lake Shore and tension is positive:
+	now target of MGM channel is 10 - tension;
+[	now beat offset of MGM channel is 3;]
+	rule succeeds with result {sound of P2T1 Rhodes A1, sound of P2T1 Rhodes A2, sound of P2T1 Rhodes A3, sound of P2T1 Rhodes A4, sound of P2T1 Rhodes A5, sound of P2T1 Rhodes A6, sound of P2T1 Rhodes A7, sound of P2T1 Rhodes A8}.
+	
+sound of P2T2 synth A1 allows sound of P2T1 Rhodes A1.
+sound of P2T2 synth A2 allows sound of P2T1 Rhodes A2.
+sound of P2T2 synth A3 allows sound of P2T1 Rhodes A3.
+sound of P2T2 synth A4 allows sound of P2T1 Rhodes A4.
+sound of P2T2 synth A5 allows sound of P2T1 Rhodes A5.
+sound of P2T2 synth A6 allows sound of P2T1 Rhodes A6.
+sound of P2T2 synth A7 allows sound of P2T1 Rhodes A7.
+sound of P2T2 synth A8 allows sound of P2T1 Rhodes A8.
+
+An M1M track selection rule when in Lake Shore:
+	now target of MGM channel is 4;
+	rule succeeds with result {sound of P2T3 drums A1, sound of P2T3 drums A2, sound of P2T3 drums A3}.]
+	
+Part C - Homely
+
+Homely is a recurring scene. Homely begins when the player is in Cabin. Homely ends when the player is not in Cabin. 
+Exploration ends when the player is in Cabin. Exploration begins when Homely ends.
+
+Chapter 1 - Music
+
+mello count is a number that varies. 
+
+When homely begins:
+	now mello count is 3; [start off the scene by playing music]
+	now target of BGM channel is 0;
+	now target of M2M channel is 0;
+	now target of MGM channel is 0; [need to clear the old regime's target values]
+
+A BGM track selection rule during Homely:
+	now target of BGM channel is 0;
+	increment mello count;
+	if mello count is 4, now mello count is 0;
+	if mello count is 0:
+		rule succeeds with result {sound of P2T1 mello A1, sound of P2T1 mello A6, sound of P2T1 mello A3a, sound of P2T1 mello A3b, sound of P2T1 mello A4, sound of P2T1 mello A5, sound of P2T1 mello A6};
+	let L be a list of sound names;
+	add the current sample of BGM to L;
+	rule succeeds with result L.
+	
+An M2M track selection rule during Homely:
+	now target of M2M channel is 4;
+	rule succeeds with result {sound of P2T2 synthpad A1a, sound of P2T2 synthpad A1b, sound of P2T2 synthpad A1c, sound of P2T2 synthpad A1d, sound of P2T2 synthpad A1a, sound of P2T2 synthpad A2b, sound of P2T2 synthpad A2c, sound of P2T2 synthpad A2d, sound of P2T2 synthpad A3a, sound of P2T2 synthpad A3b, sound of P2T2 synthpad A3c, sound of P2T2 synthpad A3d, sound of P2T2 synthpad A3e, sound of P2T2 synthpad A3f, sound of P2T2 synthpad A4a, sound of P2T2 synthpad A4b, sound of P2T2 synthpad A4c, sound of P2T2 synthpad A4d, sound of P2T2 synthpad A5a, sound of P2T2 synthpad A5b, sound of P2T2 synthpad A5c, sound of P2T2 synthpad A5d, sound of P2T2 synthpad A6a, sound of P2T2 synthpad A6b, sound of P2T2 synthpad A6c, sound of P2T2 synthpad A6d}
+		
+sound of P2T1 mello A1 allows
+	sound of P2T2 synthpad A1a and
+	sound of P2T2 synthpad A1b and 
+	sound of P2T2 synthpad A1c and 
+	sound of P2T2 synthpad A1d.
+sound of P2T1 mello A2 allows 
+	sound of P2T2 synthpad A2a and 
+	sound of P2T2 synthpad A2b and 
+	sound of P2T2 synthpad A2c and 
+	sound of P2T2 synthpad A2d.
+sound of P2T1 mello A3a allows 
+	sound of P2T2 synthpad A3a and 
+	sound of P2T2 synthpad A3c and 
+	sound of P2T2 synthpad A3d and 
+	sound of P2T2 synthpad A3f.
+sound of P2T1 mello A3b allows 
+	sound of P2T2 synthpad A3b and 
+	sound of P2T2 synthpad A3c and
+	sound of P2T2 synthpad A3e and 
+	sound of P2T2 synthpad A3f.
+sound of P2T1 mello A4 allows 
+	sound of P2T2 synthpad A4a and 
+	sound of P2T2 synthpad A4b and 
+	sound of P2T2 synthpad A4c and 
+	sound of P2T2 synthpad A4d.
+sound of P2T1 mello A5 allows 
+	sound of P2T2 synthpad A5a and 
+	sound of P2T2 synthpad A5b and 
+	sound of P2T2 synthpad A5c and 
+	sound of P2T2 synthpad A5d.
+sound of P2T1 mello A6 allows 
+	sound of P2T2 synthpad A6a and 
+	sound of P2T2 synthpad A6b and 
+	sound of P2T2 synthpad A6c and 
+	sound of P2T2 synthpad A6d.
+
+An MGM track selection rule during Homely:
+	now target of MGM channel is 0;
+	if mello count is 0, rule succeeds with result {sound of P2T3 drumkit A1, sound of P2T3 drumkit A2, sound of P2T3 drumkit A3, sound of P2T3 drumkit A4, sound of P2T3 drumkit B1, sound of P2T3 drumkit B2, sound of P2T3 drumkit B3, sound of P2T3 drumkit B4, sound of P2T3 drumkit B5, sound of P2T3 drumkit B6, sound of P2T3 drumkit B7, sound of P2T3 drumkit B8};
+	let L be a list of sound names;
+	add the current sample of MGM to L;
+	rule succeeds with result L.
+	
+sound of P2T1 mello A1 allows
+	sound of P2T3 drumkit B1 and 
+	sound of P2T3 drumkit B2 and 
+	sound of P2T3 drumkit B4 and 
+	sound of P2T3 drumkit B5 and 
+	sound of P2T3 drumkit B6 and 
+	sound of P2T3 drumkit A1 and 
+	sound of P2T3 drumkit A2 and 
+	sound of P2T3 drumkit A4.
+sound of P2T1 mello A2 allows 
+	sound of P2T3 drumkit B1 and 
+	sound of P2T3 drumkit B2 and 
+	sound of P2T3 drumkit B4 and 
+	sound of P2T3 drumkit B5 and 
+	sound of P2T3 drumkit B6 and 
+	sound of P2T3 drumkit B7 and 
+	sound of P2T3 drumkit B8 and 
+	sound of P2T3 drumkit A2 and 
+	sound of P2T3 drumkit A4.
+sound of P2T1 mello A3a allows 
+	sound of P2T3 drumkit B1 and 
+	sound of P2T3 drumkit B5 and 
+	sound of P2T3 drumkit B7 and 
+	sound of P2T3 drumkit A1 and 
+	sound of P2T3 drumkit A2.
+sound of P2T1 mello A3b allows 
+	sound of P2T3 drumkit B1 and 
+	sound of P2T3 drumkit B5 and 
+	sound of P2T3 drumkit B7 and 
+	sound of P2T3 drumkit A1 and 
+	sound of P2T3 drumkit A2.
+sound of P2T1 mello A4 allows 
+	sound of P2T3 drumkit B1 and 
+	sound of P2T3 drumkit B2 and 
+	sound of P2T3 drumkit B3 and 
+	sound of P2T3 drumkit B4 and 
+	sound of P2T3 drumkit B6 and 
+	sound of P2T3 drumkit B7 and 
+	sound of P2T3 drumkit B8 and 
+	sound of P2T3 drumkit A1 and 
+	sound of P2T3 drumkit A2 and 
+	sound of P2T3 drumkit A3 and 
+	sound of P2T3 drumkit A4.
+sound of P2T1 mello A5 allows
+	sound of P2T3 drumkit B1 and 
+	sound of P2T3 drumkit B2 and 
+	sound of P2T3 drumkit B5 and 
+	sound of P2T3 drumkit B8 and 
+	sound of P2T3 drumkit A1.
+sound of P2T1 mello A6 allows 
+	sound of P2T3 drumkit B2 and 
+	sound of P2T3 drumkit B4 and 
+	sound of P2T3 drumkit B5 and 
+	sound of P2T3 drumkit B8 and 
+	sound of P2T3 drumkit A1 and 
+	sound of P2T3 drumkit A2 and 
+	sound of P2T3 drumkit A4.
+	
+Part D - Endgame
+
+Endgame is a scene.
+
+Chapter 1 - Music
+
+A BGM track selection rule during Endgame:
+	now target of BGM channel is 0;
+	rule succeeds with result {sound of P2T2 bass A1, sound of P2T2 bass A2, sound of P2T2 bass A4}.
+	
+sound of P2T2 bass A2 follows sound of P2T2 bass A1.
+sound of P2T2 bass A1 follows sound of P2T2 bass A2.
+sound of P2T2 bass A4 follows sound of P2T2 bass A1.
+sound of P2T2 bass A1 follows sound of P2T2 bass A4.
+
+An MGM track selection rule during Endgame:
+	now target of MGM channel is 0;
+	rule succeeds with result {sound of P2T4 lead A1, sound of P2T4 lead A2, sound of P2T4 lead A3, sound of P2T4 lead A4}.
+
+sound of P2T4 lead A2 follows sound of P2T4 lead A1.
+sound of P2T4 lead A3 follows sound of P2T4 lead A2.
+sound of P2T4 lead A4 follows sound of P2T4 lead A3.
+sound of P2T4 lead A1 follows sound of P2T4 lead A4.
+sound of P2T2 bass A1 allows sound of P2T4 lead A1.
+sound of P2T2 bass A2 allows sound of P2T4 lead A2.
+sound of P2T2 bass A1 allows sound of P2T4 lead A3.
+sound of P2T2 bass A4 allows sound of P2T4 lead A4.
+	
+An M1M track selection rule during Endgame:
+	now target of M1M channel is 8;
+	rule succeeds with result {sound of P2T1 keys A1, sound of P2T1 keys A2, sound of P2T1 keys A4}.
+	
+sound of P2T2 bass A1 allows sound of P2T1 keys A1.
+sound of P2T2 bass A2 allows sound of P2T1 keys A2.
+sound of P2T2 bass A1 allows sound of P2T1 keys A1.
+sound of P2T2 bass A4 allows sound of P2T1 keys A4.
+	
+An M2M track selection rule during Endgame:
+	now target of M2M channel is 4;
+	rule succeeds with result {sound of P2T3 pad A1, sound of P2T3 pad A2, sound of P2T3 pad A4}.
+	
+sound of P2T2 bass A1 allows sound of P2T3 pad A1.
+sound of P2T2 bass A2 allows sound of P2T3 pad A2.
+sound of P2T2 bass A1 allows sound of P2T3 pad A1.
+sound of P2T2 bass A4 allows sound of P2T3 pad A4.
 	
 VOLUME THE LAST
 
 Test me with "sounds on / music on".
-Test more with "skipahead / e".
 Test tension with "test more / tense up / tense up / tense up / tense up / tense up".
-Test cabin with "test more / n / w".
+Test cabin with "e / n / w".
