@@ -74,9 +74,9 @@ sound of P1T4 Rhythm B is the file "Track 1\Layer 4 Rhythm\ridm b.ogg". sound of
 sound of P1T4 Rhythm C is the file "Track 1\Layer 4 Rhythm\ridm c.ogg". sound of P1T4 Rhythm C lasts 32.[echoing rattling constant]
 sound of P1T4 Rhythm D is the file "Track 1\Layer 4 Rhythm\ridm d.ogg". sound of P1T4 Rhythm D lasts 32.[wall of sound]
 
-Section 1b - chase
+Section 1b - Outside the Door
 
-[intense, kind of manic]
+[intense, kind of manic keyboard]
 sound of P2T1 Chord A is the file "t2 ogg\track 1 c64 chord\t1a1.ogg".  sound of P2T1 Chord A lasts 24.
 sound of P2T1 Chord B is the file "t2 ogg\track 1 c64 chord\t1b1.ogg".  sound of P2T1 Chord B lasts 24.
 sound of P2T1 Chord C is the file "t2 ogg\track 1 c64 chord\t1c1.ogg".  sound of P2T1 Chord C lasts 24.
@@ -97,7 +97,7 @@ sound of P2T3 Tom A1 is the file "t2 ogg\track 3 tom\t3a1.ogg".  sound of P2T3 T
 sound of P2T3 Tom A2 is the file "t2 ogg\track 3 tom\t3b1.ogg".  sound of P2T3 Tom A2 lasts 24.
 sound of P2T3 Tom A3 is the file "t2 ogg\track 3 tom\t3c1.ogg".  sound of P2T3 Tom A3 lasts 24.
 
-[--building tension--]
+Section 1b - building tension
 
 [spooky piano]
 sound of P2T1 Piano A1 is the file "bounces 2\Track 1 Piano 1a.ogg". sound of P2T1 Piano A1 lasts 12.
@@ -115,7 +115,7 @@ sound of P2T4 Drums A1 is the file "bounces 2\Track 4 Drums 1a.ogg". sound of P2
 sound of P2T4 Drums A2 is the file "bounces 2\Track 4 Drums 1b.ogg". sound of P2T4 Drums A2 lasts 3.
 sound of P2T4 Drums A3 is the file "bounces 2\Track 4 Drums 1c.ogg". sound of P2T4 Drums A3 lasts 3.
 
-[--coworker--]
+Section 1c- coworker (unused)
 
 [Rhodes]
 sound of P2T1 Rhodes A1 is the file "coworker\ch1a.ogg". sound of P2T1 Rhodes A1 lasts 9.
@@ -142,7 +142,7 @@ sound of P2T3 drums A1 is the file "coworker\ch3a.ogg". sound of P2T3 drums A1 l
 sound of P2T3 drums A2 is the file "coworker\ch3b.ogg". sound of P2T3 drums A2 lasts 9.
 sound of P2T3 drums A3 is the file "coworker\ch3c.ogg". sound of P2T3 drums A3 lasts 9.
 
-[--theme--]
+Section 1d - theme (adapted for confrontation)
 
 [synth toy keyboard]
 sound of P2T1 keys A1 is the file "p2 theme ogg\Keys A.ogg". sound of P2T1 keys A1 lasts 14.
@@ -165,59 +165,128 @@ sound of P2T4 lead A2 is the file "p2 theme ogg\Lead 2 B.ogg". sound of P2T4 lea
 sound of P2T4 lead A3 is the file "p2 theme ogg\Lead 2 C.ogg". sound of P2T4 lead A3 lasts 14.
 sound of P2T4 lead A4 is the file "p2 theme ogg\Lead 2 D.ogg". sound of P2T4 lead A4 lasts 14.
 
-[--cabin theme var2 - warm--]
+Section 1e - cabin - uncertain
+
+[old leftover - great for transitions]
+sound of perkloop is the file "\Theme June 23 ogg\drum + Perkloop\Perkloop.ogg". Sound of perkloop lasts 12.
 
 [guitar + piano combo]
-sound of P2T1 mello A1 is the file "Theme June 23 ogg\Mellotron\A.ogg". sound of P2T1 mello A1 lasts 11.
-sound of P2T1 mello A2 is the file "Theme June 23 ogg\Mellotron\B.ogg". sound of P2T1 mello A2 lasts 11.
-sound of P2T1 mello A3a is the file "Theme June 23 ogg\Mellotron\C a.ogg". sound of P2T1 mello A3a lasts 11.
-sound of P2T1 mello A3b is the file "Theme June 23 ogg\Mellotron\C b.ogg". sound of P2T1 mello A3b lasts 11.
-sound of P2T1 mello A4 is the file "Theme June 23 ogg\Mellotron\D.ogg". sound of P2T1 mello A4 lasts 11.
-sound of P2T1 mello A5 is the file "Theme June 23 ogg\Mellotron\E.ogg". sound of P2T1 mello A5 lasts 11.
-sound of P2T1 mello A6 is the file "Theme June 23 ogg\Mellotron\F.ogg". sound of P2T1 mello A6 lasts 11.
+sound of P2T1 mello A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Mello\mello B.ogg". sound of P2T1 mello A1 lasts 6.
+sound of P2T1 mello A2 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Mello\mello C.ogg". sound of P2T1 mello A2 lasts 6.
+sound of P2T1 mello A3 is the file "m1 ogg\Mellotron\D.ogg". sound of P2T1 mello A3 lasts 6.
+sound of P2T1 mello A4 is the file "m1 ogg\Mellotron\E.ogg". sound of P2T1 mello A4 lasts 6.
+sound of P2T1 mello A5 is the file "m1 ogg\Mellotron\F.ogg". sound of P2T1 mello A5 lasts 6.
+sound of P2T1 mello A6 is the file "m1 ogg\Mellotron\G.ogg". sound of P2T1 mello A6 lasts 6.
+sound of P2T1 mello A7 is the file "m1 ogg\Mellotron\H.ogg". sound of P2T1 mello A7 lasts 6.
+sound of P2T1 mello A8 is the file "m1 ogg\Mellotron\I.ogg". sound of P2T1 mello A8 lasts 6.
+
+[tense synth]
+sound of P2T2 synthpad A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad A.ogg". sound of P2T2 synthpad A1 lasts 12.
+sound of P2T2 synthpad A2 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad B.ogg". sound of P2T2 synthpad A2 lasts 12.
+sound of P2T2 synthpad A3 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad C.ogg". sound of P2T2 synthpad A3 lasts 12.
+sound of P2T2 synthpad A4 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad D.ogg". sound of P2T2 synthpad A4 lasts 6.
+sound of P2T2 synthpad A5 is the file "m1 ogg\Pad\E.ogg". sound of P2T2 Synthpad A5 lasts 6.
+sound of P2T2 synthpad A6 is the file "m1 ogg\Pad\F.ogg". sound of P2T2 Synthpad A6 lasts 6.
+sound of P2T2 synthpad A7 is the file "m1 ogg\Pad\G.ogg". sound of P2T2 Synthpad A7 lasts 9.
+sound of P2T2 synthpad A8 is the file "m1 ogg\Pad\H.ogg". sound of P2T2 Synthpad A8 lasts 6.
+
+[restrained jazzish percussion]
+sound of P2T3 brushkit A1 is the file "m1 ogg\Brushkit\A.ogg". sound of P2T3 brushkit A1 lasts 3.
+sound of P2T3 brushkit A2 is the file "m1 ogg\Brushkit\B.ogg". sound of P2T3 brushkit A2 lasts 6.
+sound of P2T3 brushkit A3 is the file "m1 ogg\Brushkit\C.ogg". sound of P2T3 brushkit A3 lasts 6.
+
+[low, melloish Rhodes]
+sound of P2T4 Rhodes A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes A.ogg". sound of P2T4 Rhodes A1 lasts 12.
+sound of P2T4 Rhodes A2 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes B.ogg". sound of P2T4 Rhodes A2 lasts 12.
+sound of P2T4 Rhodes A3 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes C.ogg". sound of P2T4 Rhodes A3 lasts 12.
+
+Section 1f - cabin - warm
+
+[guitar + piano combo]
+sound of P2T1 mello B1 is the file "Theme June 23 ogg\Mellotron\A.ogg". sound of P2T1 mello B1 lasts 11.
+sound of P2T1 mello B2 is the file "Theme June 23 ogg\Mellotron\B.ogg". sound of P2T1 mello B2 lasts 11.
+sound of P2T1 mello B3a is the file "Theme June 23 ogg\Mellotron\C a.ogg". sound of P2T1 mello B3a lasts 11.
+sound of P2T1 mello B3b is the file "Theme June 23 ogg\Mellotron\C b.ogg". sound of P2T1 mello B3b lasts 11.
+sound of P2T1 mello B4 is the file "Theme June 23 ogg\Mellotron\D.ogg". sound of P2T1 mello B4 lasts 11.
+sound of P2T1 mello B5 is the file "Theme June 23 ogg\Mellotron\E.ogg". sound of P2T1 mello B5 lasts 11.
+sound of P2T1 mello B6 is the file "Theme June 23 ogg\Mellotron\F.ogg". sound of P2T1 mello B6 lasts 11.
 
 [Vangelis/Toto 80s synth]
-sound of P2T2 synthpad A1a is the file "Theme June 23 ogg\synthpad\A a.ogg". sound of P2T2 synthpad A1a lasts 11.
-sound of P2T2 synthpad A1b is the file "Theme June 23 ogg\synthpad\A b.ogg". sound of P2T2 synthpad A1b lasts 11.
-sound of P2T2 synthpad A1c is the file "Theme June 23 ogg\synthpad\A c.ogg". sound of P2T2 synthpad A1c lasts 11.
-sound of P2T2 synthpad A1d is the file "Theme June 23 ogg\synthpad\A d.ogg". sound of P2T2 synthpad A1d lasts 11.
-sound of P2T2 synthpad A2a is the file "Theme June 23 ogg\synthpad\B a.ogg". sound of P2T2 synthpad A2a lasts 11.
-sound of P2T2 synthpad A2b is the file "Theme June 23 ogg\synthpad\B b.ogg". sound of P2T2 synthpad A2b lasts 11.
-sound of P2T2 synthpad A2c is the file "Theme June 23 ogg\synthpad\B c.ogg". sound of P2T2 synthpad A2c lasts 11.
-sound of P2T2 synthpad A2d is the file "Theme June 23 ogg\synthpad\B d.ogg". sound of P2T2 synthpad A2d lasts 11.
-sound of P2T2 synthpad A3a is the file "Theme June 23 ogg\synthpad\C a.ogg". sound of P2T2 synthpad A3a lasts 11.
-sound of P2T2 synthpad A3b is the file "Theme June 23 ogg\synthpad\C b.ogg". sound of P2T2 synthpad A3b lasts 11.
-sound of P2T2 synthpad A3c is the file "Theme June 23 ogg\synthpad\C c.ogg". sound of P2T2 synthpad A3c lasts 11.
-sound of P2T2 synthpad A3d is the file "Theme June 23 ogg\synthpad\C d.ogg". sound of P2T2 synthpad A3d lasts 11.
-sound of P2T2 synthpad A3e is the file "Theme June 23 ogg\synthpad\C e.ogg". sound of P2T2 synthpad A3e lasts 11.
-sound of P2T2 synthpad A3f is the file "Theme June 23 ogg\synthpad\C f.ogg". sound of P2T2 synthpad A3f lasts 11.
-sound of P2T2 synthpad A4a is the file "Theme June 23 ogg\synthpad\D a.ogg". sound of P2T2 synthpad A4a lasts 11.
-sound of P2T2 synthpad A4b is the file "Theme June 23 ogg\synthpad\D b.ogg". sound of P2T2 synthpad A4b lasts 11.
-sound of P2T2 synthpad A4c is the file "Theme June 23 ogg\synthpad\D c.ogg". sound of P2T2 synthpad A4c lasts 11.
-sound of P2T2 synthpad A4d is the file "Theme June 23 ogg\synthpad\D d.ogg". sound of P2T2 synthpad A4d lasts 11.
-sound of P2T2 synthpad A5a is the file "Theme June 23 ogg\synthpad\E a.ogg". sound of P2T2 synthpad A5a lasts 11.
-sound of P2T2 synthpad A5b is the file "Theme June 23 ogg\synthpad\E b.ogg". sound of P2T2 synthpad A5b lasts 11.
-sound of P2T2 synthpad A5c is the file "Theme June 23 ogg\synthpad\E c.ogg". sound of P2T2 synthpad A5c lasts 11.
-sound of P2T2 synthpad A5d is the file "Theme June 23 ogg\synthpad\E d.ogg". sound of P2T2 synthpad A5d lasts 11.
-sound of P2T2 synthpad A6a is the file "Theme June 23 ogg\synthpad\F a.ogg". sound of P2T2 synthpad A6a lasts 11.
-sound of P2T2 synthpad A6b is the file "Theme June 23 ogg\synthpad\F b.ogg". sound of P2T2 synthpad A6b lasts 11.
-sound of P2T2 synthpad A6c is the file "Theme June 23 ogg\synthpad\F c.ogg". sound of P2T2 synthpad A6c lasts 11.
-sound of P2T2 synthpad A6d is the file "Theme June 23 ogg\synthpad\F d.ogg". sound of P2T2 synthpad A6d lasts 11.
+sound of P2T2 synthpad B1a is the file "Theme June 23 ogg\synthpad\A a.ogg". sound of P2T2 synthpad B1a lasts 11.
+sound of P2T2 synthpad B1b is the file "Theme June 23 ogg\synthpad\A b.ogg". sound of P2T2 synthpad B1b lasts 11.
+sound of P2T2 synthpad B1c is the file "Theme June 23 ogg\synthpad\A c.ogg". sound of P2T2 synthpad B1c lasts 11.
+sound of P2T2 synthpad B1d is the file "Theme June 23 ogg\synthpad\A d.ogg". sound of P2T2 synthpad B1d lasts 11.
+sound of P2T2 synthpad B2a is the file "Theme June 23 ogg\synthpad\B a.ogg". sound of P2T2 synthpad B2a lasts 11.
+sound of P2T2 synthpad B2b is the file "Theme June 23 ogg\synthpad\B b.ogg". sound of P2T2 synthpad B2b lasts 11.
+sound of P2T2 synthpad B2c is the file "Theme June 23 ogg\synthpad\B c.ogg". sound of P2T2 synthpad B2c lasts 11.
+sound of P2T2 synthpad B2d is the file "Theme June 23 ogg\synthpad\B d.ogg". sound of P2T2 synthpad B2d lasts 11.
+sound of P2T2 synthpad B3a is the file "Theme June 23 ogg\synthpad\C a.ogg". sound of P2T2 synthpad B3a lasts 11.
+sound of P2T2 synthpad B3b is the file "Theme June 23 ogg\synthpad\C b.ogg". sound of P2T2 synthpad B3b lasts 11.
+sound of P2T2 synthpad B3c is the file "Theme June 23 ogg\synthpad\C c.ogg". sound of P2T2 synthpad B3c lasts 11.
+sound of P2T2 synthpad B3d is the file "Theme June 23 ogg\synthpad\C d.ogg". sound of P2T2 synthpad B3d lasts 11.
+sound of P2T2 synthpad B3e is the file "Theme June 23 ogg\synthpad\C e.ogg". sound of P2T2 synthpad B3e lasts 11.
+sound of P2T2 synthpad B3f is the file "Theme June 23 ogg\synthpad\C f.ogg". sound of P2T2 synthpad B3f lasts 11.
+sound of P2T2 synthpad B4a is the file "Theme June 23 ogg\synthpad\D a.ogg". sound of P2T2 synthpad B4a lasts 11.
+sound of P2T2 synthpad B4b is the file "Theme June 23 ogg\synthpad\D b.ogg". sound of P2T2 synthpad B4b lasts 11.
+sound of P2T2 synthpad B4c is the file "Theme June 23 ogg\synthpad\D c.ogg". sound of P2T2 synthpad B4c lasts 11.
+sound of P2T2 synthpad B4d is the file "Theme June 23 ogg\synthpad\D d.ogg". sound of P2T2 synthpad B4d lasts 11.
+sound of P2T2 synthpad B5a is the file "Theme June 23 ogg\synthpad\E a.ogg". sound of P2T2 synthpad B5a lasts 11.
+sound of P2T2 synthpad B5b is the file "Theme June 23 ogg\synthpad\E b.ogg". sound of P2T2 synthpad B5b lasts 11.
+sound of P2T2 synthpad B5c is the file "Theme June 23 ogg\synthpad\E c.ogg". sound of P2T2 synthpad B5c lasts 11.
+sound of P2T2 synthpad B5d is the file "Theme June 23 ogg\synthpad\E d.ogg". sound of P2T2 synthpad B5d lasts 11.
+sound of P2T2 synthpad B6a is the file "Theme June 23 ogg\synthpad\F a.ogg". sound of P2T2 synthpad B6a lasts 11.
+sound of P2T2 synthpad B6b is the file "Theme June 23 ogg\synthpad\F b.ogg". sound of P2T2 synthpad B6b lasts 11.
+sound of P2T2 synthpad B6c is the file "Theme June 23 ogg\synthpad\F c.ogg". sound of P2T2 synthpad B6c lasts 11.
+sound of P2T2 synthpad B6d is the file "Theme June 23 ogg\synthpad\F d.ogg". sound of P2T2 synthpad B6d lasts 11.
 
-[drum machine + Moonish vibrasynth]
-sound of P2T3 drumkit A1 is the file "Theme June 23 ogg\drum + perkloop\A.ogg". sound of P2T3 drumkit A1 lasts 11.
-sound of P2T3 drumkit A2 is the file "Theme June 23 ogg\drum + perkloop\hats synco.ogg". sound of P2T3 drumkit A2 lasts 11.
-sound of P2T3 drumkit A3 is the file "Theme June 23 ogg\drum + perkloop\no bass variant.ogg". sound of P2T3 drumkit A3 lasts 11.
-sound of P2T3 drumkit A4 is the file "Theme June 23 ogg\drum + perkloop\variation.ogg". sound of P2T3 drumkit A4 lasts 11.
+[drum machine + Moon-ish vibrasynth]
+sound of P2T3 drumkit B1b is the file "Theme June 23 ogg\drum + perkloop\A.ogg". sound of P2T3 drumkit B1b lasts 11.
+sound of P2T3 drumkit B2b is the file "Theme June 23 ogg\drum + perkloop\hats synco.ogg". sound of P2T3 drumkit B2b lasts 11.
+sound of P2T3 drumkit B3b is the file "Theme June 23 ogg\drum + perkloop\no bass variant.ogg". sound of P2T3 drumkit B3b lasts 11.
+sound of P2T3 drumkit B4b is the file "Theme June 23 ogg\drum + perkloop\variation.ogg". sound of P2T3 drumkit B4b lasts 11.
 [drum machine only]
-sound of P2T3 drumkit B1 is the file "Theme June 23 ogg\drumkit\A.ogg". sound of P2T3 drumkit B1 lasts 11.
-sound of P2T3 drumkit B2 is the file "Theme June 23 ogg\drumkit\hats synco.ogg". sound of P2T3 drumkit B2 lasts 11.
-sound of P2T3 drumkit B3 is the file "Theme June 23 ogg\drumkit\variant no bass.ogg". sound of P2T3 drumkit B3 lasts 11.
-sound of P2T3 drumkit B4 is the file "Theme June 23 ogg\drumkit\basic variant.ogg". sound of P2T3 drumkit B4 lasts 11.
-sound of P2T3 drumkit B5 is the file "Theme June 23 ogg\drumkit\ambient.ogg". sound of P2T3 drumkit B5 lasts 11.
-sound of P2T3 drumkit B6 is the file "Theme June 23 ogg\drumkit\hats ridim.ogg". sound of P2T3 drumkit B6 lasts 11.
-sound of P2T3 drumkit B7 is the file "Theme June 23 ogg\drumkit\tom big break.ogg". sound of P2T3 drumkit B7 lasts 11.
-sound of P2T3 drumkit B8 is the file "Theme June 23 ogg\drumkit\tom break.ogg". sound of P2T3 drumkit B8 lasts 11.
+sound of P2T3 drumkit B1a is the file "Theme June 23 ogg\drumkit\A.ogg". sound of P2T3 drumkit B1a lasts 11.
+sound of P2T3 drumkit B2a is the file "Theme June 23 ogg\drumkit\hats synco.ogg". sound of P2T3 drumkit B2a lasts 11.
+sound of P2T3 drumkit B3a is the file "Theme June 23 ogg\drumkit\variant no bass.ogg". sound of P2T3 drumkit B3a lasts 11.
+sound of P2T3 drumkit B4a is the file "Theme June 23 ogg\drumkit\basic variant.ogg". sound of P2T3 drumkit B4a lasts 11.
+sound of P2T3 drumkit B5a is the file "Theme June 23 ogg\drumkit\ambient.ogg". sound of P2T3 drumkit B5a lasts 11.
+sound of P2T3 drumkit B6a is the file "Theme June 23 ogg\drumkit\hats ridim.ogg". sound of P2T3 drumkit B6a lasts 11.
+sound of P2T3 drumkit B7a is the file "Theme June 23 ogg\drumkit\tom big break.ogg". sound of P2T3 drumkit B7a lasts 11.
+sound of P2T3 drumkit B8a is the file "Theme June 23 ogg\drumkit\tom break.ogg". sound of P2T3 drumkit B8a lasts 11.
+
+[Rhodes soloing courtesy Florian Blau]
+sound of P2T4 Rhodes B1 is the file "Rhodes Bladerunner\Rhodes A.ogg". sound of P2T4 Rhodes B1 lasts 15.
+sound of P2T4 Rhodes B2 is the file "Rhodes Bladerunner\Rhodes B.ogg". sound of P2T4 Rhodes B2 lasts 12.
+sound of P2T4 Rhodes B3 is the file "Rhodes Bladerunner\Rhodes C.ogg". sound of P2T4 Rhodes B3 lasts 24.
+sound of P2T4 Rhodes B4 is the file "Rhodes Bladerunner\Rhodes D-2.ogg". sound of P2T4 Rhodes B4 lasts 15.
+sound of P2T4 Rhodes B5 is the file "Rhodes Bladerunner\Rhodes E-2.ogg". sound of P2T4 Rhodes B5 lasts 7.
+sound of P2T4 Rhodes B6 is the file "Rhodes Bladerunner\Rhodes F.ogg". sound of P2T4 Rhodes B6 lasts 6.
+sound of P2T4 Rhodes B7 is the file "Rhodes Bladerunner\Rhodes G.ogg". sound of P2T4 Rhodes B7 lasts 6.
+sound of P2T4 Rhodes B8 is the file "Rhodes Bladerunner\Rhodes H.ogg". sound of P2T4 Rhodes B8 lasts 25.
+sound of P2T4 Rhodes B9 is the file "Rhodes Bladerunner\Rhodes I.ogg". sound of P2T4 Rhodes B9 lasts 25.
+
+Section ig - cabin - dangerous
+
+[guitar + piano combo]
+sound of P2T1 mello C1 is the file "CW Theme M3 ogg\Mellotron\m3 mello a.ogg". sound of P2T1 mello C1 lasts 12.
+sound of P2T1 mello C2 is the file "CW Theme M3 ogg\Mellotron\m3 mello b.ogg". sound of P2T1 mello C2 lasts 12.
+sound of P2T1 mello C3 is the file "CW Theme M3 ogg\Mellotron\m3 mello c faded.ogg". sound of P2T1 mello C3 lasts 12.
+
+[higher pitched synth]
+sound of P2T2 synthpad C1 is the file "CW Theme M3 ogg\Pad\m3 pad a faded.ogg". sound of P2T2 synthpad C1 lasts 12.
+sound of P2T2 synthpad C2 is the file "CW Theme M3 ogg\Pad\m3 pad B faded.ogg". sound of P2T2 synthpad C2 lasts 12.
+sound of P2T2 synthpad C3 is the file "CW Theme M3 ogg\Pad\m3 pad C.ogg". sound of P2T2 synthpad C3 lasts 12.
+sound of P2T2 synthpad C4 is the file "CW Theme M3 ogg\Pad\m3 pad D.ogg". sound of P2T2 synthpad C4 lasts 6.
+
+[nice drum loops]
+sound of P2T3 drumkit C1 is the file "CW Theme M3 ogg\Beat\beat hats toms.ogg". sound of P2T3 drumkit C1 lasts 6.
+sound of P2T3 drumkit C2 is the file "CW Theme M3 ogg\Beat\beat hats.ogg". sound of P2T3 drumkit C2 lasts 6.
+sound of P2T3 drumkit C3 is the file "CW Theme M3 ogg\Beat\beat toms.ogg". sound of P2T3 drumkit C3 lasts 6.
+sound of P2T3 drumkit C4 is the file "CW Theme M3 ogg\Beat\beat.ogg". sound of P2T3 drumkit C4 lasts 6.
+sound of P2T3 drumkit C5 is the file "CW Theme M3 ogg\Beat\toms.ogg". sound of P2T3 drumkit C5 lasts 6.
+
+[bass synth]
+sound of P2T4 Bass C1 is the file "CW Theme M3 ogg\Bass\bass a.ogg". sound of P2T4 Bass C1 lasts 6.
 
 Chapter 2 - Sound effects
 
@@ -230,7 +299,7 @@ sound of loud ticks is the file "noises\noise 2.ogg". sound of loud ticks lasts 
 sound of subdued echoes is the file "noises\noise 3.ogg". sound of subdued echoes lasts 16.[]
 
 sound of raygun is the file "fx cues\f1.ogg". sound of raygun lasts 8.[]
-sound of mellotron is the file "fx cues\f2.ogg". sound of mellotron lasts 8.[]
+sound of theremin is the file "fx cues\f2.ogg". sound of theremin lasts 8.[]
  
 sound of creak steps is the file "RECORDINGS\steps\step 1.ogg". sound of creak steps lasts 19.[]
 sound of snapping creaking is the file "RECORDINGS\steps\step 2.ogg". sound of snapping creaking lasts 39.[]
@@ -320,6 +389,17 @@ To set the glulx timer to (N - a number) ms:
 		
 To decide what number is (N - a number) squared:
 	decide on N times N.
+	
+To decide what number is maximum of (N - a number) and (comparator - a number):
+	if N is less than comparator, decide on comparator;
+	decide on N.
+	
+To decide if (N - a number) is between (A - a number) and (B - a number) inclusive:
+	if A is greater than B:
+		if N is at least B and N is at most A, yes;
+	otherwise:
+		if N is at least A and N is at most B, yes;
+	no.
 	 
 Part C - Music System
 
@@ -427,9 +507,9 @@ To potentially play a new sample on (SC - a sound channel):
 			if  the potential track list is empty:
 				now the last played sample of SC is sound of null;  [again, reset last played sample, for music-following purposes]
 			otherwise:
-				let the sound selection be a random entry from the potential track list except the last played sample of SC;
+				let the selected sound be a random entry from the potential track list except the last played sample of SC;
 				now the adjustment of SC is 0;
-				play the sound selection on SC;
+				play the selected sound on SC;
 				
 To decide if (SC - a sound channel) can start playing:
 	if time remaining of SC is positive, no;
@@ -584,7 +664,7 @@ To decide what list of sound names is (L - a list of sound names) possible for (
 	if SC is M3S channel, decide on L. [Ambience has no plays-only-during restrictions.]
 			
 To decide if (SC - a sound channel) is on-beat:
-	if SC is M3S channel, yes. [No synchronization necessary for ambient sounds]
+	if SC is M3S channel, yes. [No synchronization to worry about for ambient sounds]
 	
 Section 3c - incidental sounds
 
@@ -867,7 +947,7 @@ Chapter 2 - Sound
 	
 An ambient sound selection rule when in Servo Port:
 	now target of M3S channel is 31;
-	rule succeeds with result {sound of rattling pieces, sound of metal strain, sound of stacking, sound of ticks noise, sound of loud ticks, sound of subdued echoes, sound of P1T4 Rhythm A, sound of P1T4 Rhythm B, sound of raygun, sound of mellotron}.
+	rule succeeds with result {sound of rattling pieces, sound of metal strain, sound of stacking, sound of ticks noise, sound of loud ticks, sound of subdued echoes, sound of P1T4 Rhythm A, sound of P1T4 Rhythm B, sound of raygun, sound of theremin}.
 
 A BGM track selection rule when in Servo Port:
 	now target of BGM channel is 0;
@@ -926,8 +1006,10 @@ See you next week
 
 -G[Roman Type]'"
 
+Does the player mean examining the pail: it is likely. [disambiguate it from the held note]
+
 Instead of opening, taking the pail:
-	say "You're not hungry".
+	say "You're not hungry."
 	
 Chapter 1 - Sound
 	
@@ -1049,7 +1131,7 @@ A MGM track selection rule when in Dumb Terminals:
 
 An ambient sound selection rule when in Dumb Terminals:
 	now target of M3S channel is 15;
-	rule succeeds with result {sound of metal taps, sound of metal knocks, sound of ticks noise, sound of loud ticks, sound of subdued echoes, sound of P1T4 Rhythm A, sound of P1T4 Rhythm B, sound of raygun, sound of mellotron}
+	rule succeeds with result {sound of metal taps, sound of metal knocks, sound of ticks noise, sound of loud ticks, sound of subdued echoes, sound of P1T4 Rhythm A, sound of P1T4 Rhythm B, sound of raygun, sound of theremin}
 
 Part I - Power Supply
 
@@ -1147,7 +1229,7 @@ After going to Exit:
 	otherwise:
 		say "Alarms blare behind you as you descend the stairs, as quickly as possible. With luck you [italic type]might[roman type] be able to make it out of the complex and flag down some transportation before security arrives--";
 	interrupt all the sounds;
-	end the story finally saying "To be continued".
+	move the player to Roadside;
 	
 Chapter 1 - Sound
 	
@@ -1270,6 +1352,7 @@ An ambient sound selection rule when in Cabin:
 Part F - Collection Station
 
 Collection Station is south of Intersection.
+Collection Station is in Forestry.
 
 The collection structure is a scenery thing, here. Understand "building/station" as the structure. Instead of entering the structure, try going inside.
 
@@ -1304,7 +1387,9 @@ VOLUME III - THE PLOT
 
 Book One - Intro Scroll
 
-When play begins, say "'I'm worried,' she said. 
+When play begins, say "
+
+'I'm worried,' she said. 
 
 And 'You have to get out of here.'
 
@@ -1314,129 +1399,7 @@ You didn't listen, brushed her off. It's been two weeks since you've seen her.
 
 Since anyone has."
 
-Book Two - Credits, etc
-
-After printing the banner text, say "Music and Sound Design by t.v.shit.[first time][line break][sound note][only]"
-
-To say sound note:
-	say "[italic type]This game is designed with music and sound effects. For more details, type ABOUT[roman type]."
-
-Requesting the about information is an action out of world, applying to nothing. Understand "about" and "credit" and "credits" as requesting the about information. Carry out requesting the about information: say "This is an experimental project, designed to be tightly integrated with a music system and sound effects. Playing without an interpreter capable of sound playback is not recommended. (Note: Some interpreters play sounds back at different volumes; adjust the volumes yourself using the commands below.)
-
-Music and Sound Design by t.v.shit. www.stereosanctity.org 
-
-Type SOUNDS OFF or MUSIC OFF to disable sound effects or music, respectively; SOUNDS ON or MUSIC ON to re-enable one or the other; SOUNDS <number> or MUSIC <number> to change their volume; or simply SOUNDS or MUSIC to toggle playing either. Type VOLUME to see the current volume levels.
-
-Testers: Kelly Belz, Colin Djukic
-
-Thanks to Ron Newcomb"
-
-Book Three - Audio Playback Controls
-
-Disabling sounds is an action out of world, applying to nothing. Understand the command "sounds" as something new. Understand "sounds off" as disabling sounds. Understand the commands "sound" and "sfx" and "effects" and "sound effects" as "sounds".
-Carry out disabling sounds:
-	stop the foreground sound;
-	stop the midground 3 sound;
-	we won't play sounds.
-Report disabling sounds: 	say "Sound effects disabled."
-	
-Enabling sounds is an action out of world, applying to nothing. Understand "sounds on" as enabling sounds.
-Carry out enabling sounds:	we will play sounds.
-Report enabling sounds:	say "Sound effects enabled."
-	
-Toggling sounds is an action out of world, applying to nothing. Understand "sounds" as toggling sounds.
-Carry out toggling sounds: 
-	if we shouldn't play sounds, try enabling sounds instead;
-	otherwise try disabling sounds instead.
-	
-Disabling music is an action out of world, applying to nothing. Understand the command "music" as something new. Understand "music off" as disabling music.
-Carry out disabling music: 
-	stop the midground sound;
-	stop the midground 1 sound;
-	stop the midground 2 sound;
-	stop the background sound;
-	we won't play music;
-Report disabling music:
-	say "Music disabled."
-	
-Enabling music is an action out of world, applying to nothing. Understand "music on" as enabling music.
-Carry out enabling music:	we will play music.
-Report enabling music:	say "Music enabled."
-	
-Toggling music is an action out of world, applying to nothing. Understand "music" as toggling music.
-Carry out toggling music: 
-	if we wouldn't play music, try enabling music instead;
-	otherwise try disabling music instead.
-	
-Setting sounds volume to is an action out of world, applying to one value. Understand "sounds volume level [a number]" and "sounds volume/level [a number]" and "sounds [a number]" as setting sounds volume to. The setting sounds volume to action has a number called the prior sounds setting.
-Check setting sounds volume to:
-	if the number understood is less than 0 or the number understood is greater than 100:
-		instead say "The volume must be a number from 0 to 100.";
-	if the number understood is 0, try disabling sounds instead.
-Carry out setting sounds volume to:
-	if we wouldn't play sounds, we will play sounds;
-	now the prior sounds setting is the sounds volume;
-	change the sounds volume to the number understood;
-Report setting sounds volume to:
-	say "Sound effects volume changed from [the prior sounds setting] to [the number understood]."
-	
-Setting music volume to is an action out of world, applying to one value. Understand "music volume level [a number]" and "music volume/level [a number]" and "music [a number]" as setting music volume to. The setting music volume to action has a number called the prior music setting.
-Check setting music volume to:
-	if the number understood is less than 0 or the number understood is greater than 100:
-		instead say "The volume must be a number from 0 to 100.";
-	if the number understood is 0, try disabling music instead.
-Carry out setting music volume to:
-	if we wouldn't play music, we will play music;
-	now the prior music setting is the music volume;
-	change the music volume to the number understood.
-Report setting music volume to:
-	say "Music volume changed from [the prior music setting] to [the number understood]."
-	
-Requesting volume level is an action out of world, applying to nothing. Understand "volume level/levels" and "volume" and "level" and "levels" as requesting volume level.
-Carry out requesting volume level:
-	say "Music volume [music volume]. Sound effects volume [sounds volume]."
-	
-Book Four - Truth States as 'We' Commands (adapted from "The Parser" by Ron Newcomb)
-
-To decide if we still/should/need/must/have/will/-- (bool - a truth state): (- ({bool}) -).
-To decide if we can't/shouldn't/haven't/don't/won't/wouldn't (bool - a truth state): (- (~~({bool})) -).
-To decide if we do/can/have/should/will not (bool - a truth state): (- (~~({bool})) -).
-To we will/should/just/now/still/may/must/have (bool - a truth state) again/--: (- {bool} = true; -);
-To we no/do longer/not have/must/-- (bool - a truth state): (- {bool} = false; -).
-To we needn't/shouldn't/won't/haven't/can't (bool - a truth state): (- {bool} = false; -).
-To we will/should/may/must/have (bool - a truth state) if (c - a condition): (- {bool} = ({c}); -);
-To we will/should/may/must/have (bool - a truth state) unless (c - a condition): (- {bool} = (~~({c})); -);
-	
-Book Five - Testing Commands (not for release)
-
-Part 1 - Skipahead
-
-Skipping ahead is an action applying to nothing. Understand "skipahead" as skipping ahead.
-
-Carry out skipping ahead: 
-	now the player is in Roadside;
-	now the file folders are carried by the player.
-	
-After looking for the first time: try the player skipping ahead.
-	
-Part 2 - Tension Control
-
-Adjusting tension is an action applying to one visible thing. Understand "tense [a direction]" as adjusting tension. Understand the command "tension" as "tense".
-
-Carry out adjusting tension up:	 increment tension.
-Carry out adjusting tension down:	 decrement tension.
-
-Report adjusting tension:	 say "Tension [tension]".
-
-Part 3 - Music Debug Notes
-
-Every turn:
-	repeat with SC running through sound channels:
-		say "[SC]: [adjustment of SC] adj, [time remaining of SC] rem, [target of SC] targ, [if SC is auditory]now=[current sample of SC][otherwise]was=[last played sample of SC][end if].";
-	showme potential track list;
-[	showme mello count;]
-
-Book Six - Scenes
+Book Two - Scenes
 
 Part A - Exploration
 
@@ -1444,24 +1407,25 @@ Exploration is a recurring scene. Exploration begins when the file folders are h
 
 Chapter 1 - Music
 
-Isolation is a number that varies. Isolation is 4.
+Isolation is a number that varies. Isolation is 8.
 
 When exploration begins:
-	now target of BGM channel is 40 + (10 * isolation);
-	now target of MGM channel is 20 + (2 * isolation);
-	now target of M1M channel is 10 + isolation;
+	now target of BGM channel is 5 + (5 * isolation);
+	now target of MGM channel is 3 + (3 * isolation);
+	now target of M1M channel is 2 * isolation;
+	now cabin transition is 0; [just in case we somehow return to the cabin]
 
 A BGM track selection rule during Exploration:
-	now target of BGM channel is 40 + (10 * isolation);
-	rule succeeds with result {sound of P2T3 Tom A1, sound of P2T3 Tom A2, sound of P2T3 Tom A3}.
-	
-An MGM track selection rule during Exploration:
-	now target of MGM channel is 20 + (2 * isolation);
-	now beat length of MGM channel is 12;
+	now target of BGM channel is 5 + (5 * isolation);
 	rule succeeds with result {sound of P2T1 Chord A, sound of P2T1 Chord B, sound of P2T1 Chord C}.
-	
+		
+An MGM track selection rule during Exploration:
+	now target of MGM channel is 3 + (3 * isolation);
+	now beat length of MGM channel is 12;
+	rule succeeds with result {sound of P2T3 Tom A1, sound of P2T3 Tom A2, sound of P2T3 Tom A3}.
+		
 An M1M track selection rule during Exploration:
-	now target of M1M channel is 10 + isolation;
+	now target of M1M channel is 2 * isolation;
 	now beat length of M1M channel is 12;
 	rule succeeds with result {sound of P2T2 Git A1, sound of P2T2 Git A2, sound of P2T2 Git A3, sound of P2T2 Git B1, sound of P2T2 Git B2, sound of P2T2 Git B3, sound of P2T2 Git C1, sound of P2T2 Git C2, sound of P2T2 Git C3}.
 	
@@ -1542,130 +1506,276 @@ Part C - Homely
 Homely is a recurring scene. Homely begins when the player is in Cabin. Homely ends when the player is not in Cabin. 
 Exploration ends when the player is in Cabin. Exploration begins when Homely ends.
 
-Chapter 1 - Music
-
-mello count is a number that varies. 
+mello count is a number that varies. [mello plays the same sample 4 times in a row, in the main cabin theme]
+mello target is a number that varies. [how often to roll over mello count]
+cabin transition is a number that varies. [how far into cabin music from Outside the Door we have progressed]
+coworker optimism is a number that varies. [How much mood of Coworker's Theme has shifted towards helpful]
+coworker pessimism is a number that varies. [How much mood of Coworker's Theme has shifted towards threatening]
+[both o & p can be positive -- meaning player knows more (less uncertain) but signs are conflicting!]
 
 When homely begins:
-	now mello count is 3; [start off the scene by playing music]
+	now mello target is 0; 
+	now mello count is 0;
+	now cabin transition is -1; [start off the scene by playing a full set of new music]
+	now coworker optimism is 0;
+	now coworker pessimism is 0;
 	now target of BGM channel is 0;
-	now target of M2M channel is 0;
-	now target of MGM channel is 0; [need to clear the old regime's target values]
+	now target of MGM channel is 0;
+	now target of M1M channel is 0;
+	now target of M2M channel is 0; [need to clear the old regime's target values]
 
-A BGM track selection rule during Homely:
+Chapter 1 - Music
+
+Section 1a - Uncertain
+
+[
+[guitar + piano combo]
+sound of P2T1 mello A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Mello\mello A.ogg". sound of P2T1 mello A1 lasts 6.
+sound of P2T1 mello A3 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Mello\mello C.ogg". sound of P2T1 mello A3 lasts 7.
+sound of P2T1 mello A4 is the file "m1 ogg\Mellotron\D.ogg". sound of P2T1 mello A4 lasts 6.
+sound of P2T1 mello A5 is the file "m1 ogg\Mellotron\E.ogg". sound of P2T1 mello A5 lasts 6.
+sound of P2T1 mello A6 is the file "m1 ogg\Mellotron\F.ogg". sound of P2T1 mello A6 lasts 6.
+sound of P2T1 mello A7 is the file "m1 ogg\Mellotron\G.ogg". sound of P2T1 mello A7 lasts 6.
+sound of P2T1 mello A8 is the file "m1 ogg\Mellotron\H.ogg". sound of P2T1 mello A8 lasts 6.
+sound of P2T1 mello A9 is the file "m1 ogg\Mellotron\I.ogg". sound of P2T1 mello A8 lasts 6.
+
+[tense synth]
+sound of P2T2 synthpad A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad A.ogg". sound of P2T2 synthpad A1 lasts 12.
+sound of P2T2 synthpad A2 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad B.ogg". sound of P2T2 synthpad A2 lasts 12.
+sound of P2T2 synthpad A3 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad C.ogg". sound of P2T2 synthpad A3 lasts 12.
+sound of P2T2 synthpad A4 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Pad\pad D.ogg". sound of P2T2 synthpad A4 lasts 6.
+sound of P2T2 synthpad A5 is the file "m1 ogg\Pad\E.ogg". sound of P2T2 Synthpad A5 lasts 6.
+sound of P2T2 synthpad A6 is the file "m1 ogg\Pad\F.ogg". sound of P2T2 Synthpad A6 lasts 6.
+sound of P2T2 synthpad A7 is the file "m1 ogg\Pad\G.ogg". sound of P2T2 Synthpad A7 lasts 9.
+sound of P2T2 synthpad A8 is the file "m1 ogg\Pad\H.ogg". sound of P2T2 Synthpad A8 lasts 6.
+
+[manic incidental drumming]
+sound of P2T3 brushkit A1 is the file "m1 ogg\Brushkit\A.ogg". sound of P2T3 brushkit A1 lasts 6.
+sound of P2T3 brushkit A2 is the file "m1 ogg\Brushkit\B.ogg". sound of P2T3 brushkit A2 lasts 6.
+sound of P2T3 brushkit A3 is the file "m1 ogg\Brushkit\C.ogg". sound of P2T3 brushkit A3 lasts 6.
+
+[Low, melloish Rhodes]
+sound of P2T4 Rhodes A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes A.ogg". sound of P2T4 Rhodes A1 lasts 12.
+sound of P2T4 Rhodes A2 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes B.ogg". sound of P2T4 Rhodes A2 lasts 12.
+sound of P2T4 Rhodes A3 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes C.ogg". sound of P2T4 Rhodes A3 lasts 12.]
+
+[perkloop over Outside the Door... then drumkit... then Rhodes... then R+pad... then R+P+mello... then pad increases tone]
+	
+An M1M track selection rule when coworker optimism is 0 and cabin transition is at most 0 during Homely:
+	now target of M1M channel is 0;
+	rule succeeds with result {sound of P2T2 Git A1, sound of P2T2 Git A2, sound of P2T2 Git A3, sound of P2T2 Git B1, sound of P2T2 Git B2, sound of P2T2 Git B3, sound of P2T2 Git C1, sound of P2T2 Git C2, sound of P2T2 Git C3}.
+	
+An MGM track selection rule when coworker optimism is 0 during Homely:
+	now target of MGM channel is 0;
+	rule succeeds with result {sound of P2T3 Tom A1, sound of P2T3 Tom A2, sound of P2T3 Tom A3}.
+	
+A BGM track selection rule when coworker optimism is 0 and cabin transition is at most 2 during Homely:
+	increment cabin transition;
+	now target of BGM channel is 0;
+	rule succeeds with result {sound of P2T1 Chord A, sound of P2T1 Chord B, sound of P2T1 Chord C}.
+		
+An M1M track selection rule when coworker optimism is 0 and cabin transition is between 1 and 3 inclusive during Homely:
+	now target of M1M channel is 0;
+	now beat length of M1M channel is 12;
+	if cabin transition is 3:
+		rule succeeds with result {sound of P2T1 mello A1};
+	rule succeeds with result {sound of perkloop};
+
+An MGM track selection rule when coworker optimism is 0 and cabin transition is between 2 and 5 inclusive during Homely:
+	now target of MGM channel is 0;
+	now beat length of MGM channel is 3;
+	rule succeeds with result {sound of P2T3 brushkit A1}
+		
+An M2M track selection rule when coworker optimism is 0 and cabin transition is between 4 and 5 inclusive during Homely:
+	now target of M2M channel is 0;
+	now beat length of M2M channel is 6;
+	if cabin transition is 4:
+		rule succeeds with result {sound of P2T2 synthpad A1};
+	rule succeeds with result {sound of P2T2 synthpad A2}
+	
+A BGM track selection rule when coworker optimism is 0 and cabin transition is between 2 and 5 inclusive during Homely:
+	now mello target is 4;
+	now target of BGM channel is 0;
+	increment mello count;
+	if mello count is at least mello target, now mello count is 0;
+	if mello count is 0:
+		increment cabin transition;
+	if cabin transition is odd:
+		rule succeeds with result {sound of P2T1 mello A1};
+	rule succeeds with result {sound of P2T1 mello A2};
+	
+A BGM track selection rule when coworker optimism is 0 and cabin transition is at least 6 during Homely:
+	now mello target is 4;
+	now target of BGM channel is 0;
+	increment mello count;
+	if mello count is at least mello target, now mello count is 0;
+	if mello count is 0:
+		rule succeeds with result {sound of P2T1 mello A1, sound of P2T1 mello A2, sound of P2T1 mello A3, sound of P2T1 mello A4, sound of P2T1 mello A5, sound of P2T1 mello A6, sound of P2T1 mello A7, sound of P2T1 mello A8};
+	let L be a list of sound names;
+	add the current sample of BGM to L;
+	rule succeeds with result L;
+		
+An M2M track selection rule when coworker optimism is 0 and cabin transition is at least 6 during Homely:
+	now target of M2M channel is 0;
+	now beat length of M2M channel is 3;
+	rule succeeds with result {sound of P2T2 synthpad A1, sound of P2T2 synthpad A2, sound of P2T2 synthpad A3, sound of P2T2 synthpad A4, sound of P2T2 synthpad A5, sound of P2T2 synthpad A6, sound of P2T2 synthpad A7, sound of P2T2 synthpad A8}
+	
+An MGM track selection rule when coworker optimism is 0 and cabin transition is at least 6 during Homely:
+	now target of MGM channel is 0;
+	now beat length of MGM channel is 3;
+	if mello count is 0:
+		rule succeeds with result {sound of P2T3 brushkit A1, sound of P2T3 brushkit A2, sound of P2T3 brushkit A3};
+	let L be a list of sound names;
+	add the current sample of MGM to L;
+	rule succeeds with result L;
+
+Section 1b - Hopeful
+
+A BGM track selection rule when coworker optimism is positive during Homely:
 	now target of BGM channel is 0;
 	increment mello count;
 	if mello count is 4, now mello count is 0;
 	if mello count is 0:
-		rule succeeds with result {sound of P2T1 mello A1, sound of P2T1 mello A6, sound of P2T1 mello A3a, sound of P2T1 mello A3b, sound of P2T1 mello A4, sound of P2T1 mello A5, sound of P2T1 mello A6};
+		rule succeeds with result {sound of P2T1 mello B1, sound of P2T1 mello B2, sound of P2T1 mello B3a, sound of P2T1 mello B3b, sound of P2T1 mello B4, sound of P2T1 mello B5, sound of P2T1 mello B6};
 	let L be a list of sound names;
 	add the current sample of BGM to L;
 	rule succeeds with result L.
 	
-An M2M track selection rule during Homely:
+An M2M track selection rule when coworker optimism is positive during Homely:
 	now target of M2M channel is 4;
-	rule succeeds with result {sound of P2T2 synthpad A1a, sound of P2T2 synthpad A1b, sound of P2T2 synthpad A1c, sound of P2T2 synthpad A1d, sound of P2T2 synthpad A1a, sound of P2T2 synthpad A2b, sound of P2T2 synthpad A2c, sound of P2T2 synthpad A2d, sound of P2T2 synthpad A3a, sound of P2T2 synthpad A3b, sound of P2T2 synthpad A3c, sound of P2T2 synthpad A3d, sound of P2T2 synthpad A3e, sound of P2T2 synthpad A3f, sound of P2T2 synthpad A4a, sound of P2T2 synthpad A4b, sound of P2T2 synthpad A4c, sound of P2T2 synthpad A4d, sound of P2T2 synthpad A5a, sound of P2T2 synthpad A5b, sound of P2T2 synthpad A5c, sound of P2T2 synthpad A5d, sound of P2T2 synthpad A6a, sound of P2T2 synthpad A6b, sound of P2T2 synthpad A6c, sound of P2T2 synthpad A6d}
+	rule succeeds with result {sound of P2T2 synthpad B1a, sound of P2T2 synthpad B1b, sound of P2T2 synthpad B1c, sound of P2T2 synthpad B1d, sound of P2T2 synthpad B1a, sound of P2T2 synthpad B2b, sound of P2T2 synthpad B2c, sound of P2T2 synthpad B2d, sound of P2T2 synthpad B3a, sound of P2T2 synthpad B3b, sound of P2T2 synthpad B3c, sound of P2T2 synthpad B3d, sound of P2T2 synthpad B3e, sound of P2T2 synthpad B3f, sound of P2T2 synthpad B4a, sound of P2T2 synthpad B4b, sound of P2T2 synthpad B4c, sound of P2T2 synthpad B4d, sound of P2T2 synthpad B5a, sound of P2T2 synthpad B5b, sound of P2T2 synthpad B5c, sound of P2T2 synthpad B5d, sound of P2T2 synthpad B6a, sound of P2T2 synthpad B6b, sound of P2T2 synthpad B6c, sound of P2T2 synthpad B6d}
 		
-sound of P2T1 mello A1 allows
-	sound of P2T2 synthpad A1a and
-	sound of P2T2 synthpad A1b and 
-	sound of P2T2 synthpad A1c and 
-	sound of P2T2 synthpad A1d.
-sound of P2T1 mello A2 allows 
-	sound of P2T2 synthpad A2a and 
-	sound of P2T2 synthpad A2b and 
-	sound of P2T2 synthpad A2c and 
-	sound of P2T2 synthpad A2d.
-sound of P2T1 mello A3a allows 
-	sound of P2T2 synthpad A3a and 
-	sound of P2T2 synthpad A3c and 
-	sound of P2T2 synthpad A3d and 
-	sound of P2T2 synthpad A3f.
-sound of P2T1 mello A3b allows 
-	sound of P2T2 synthpad A3b and 
-	sound of P2T2 synthpad A3c and
-	sound of P2T2 synthpad A3e and 
-	sound of P2T2 synthpad A3f.
-sound of P2T1 mello A4 allows 
-	sound of P2T2 synthpad A4a and 
-	sound of P2T2 synthpad A4b and 
-	sound of P2T2 synthpad A4c and 
-	sound of P2T2 synthpad A4d.
-sound of P2T1 mello A5 allows 
-	sound of P2T2 synthpad A5a and 
-	sound of P2T2 synthpad A5b and 
-	sound of P2T2 synthpad A5c and 
-	sound of P2T2 synthpad A5d.
-sound of P2T1 mello A6 allows 
-	sound of P2T2 synthpad A6a and 
-	sound of P2T2 synthpad A6b and 
-	sound of P2T2 synthpad A6c and 
-	sound of P2T2 synthpad A6d.
+sound of P2T1 mello B1 allows
+	sound of P2T2 synthpad B1a and
+	sound of P2T2 synthpad B1b and 
+	sound of P2T2 synthpad B1c and 
+	sound of P2T2 synthpad B1d.
+sound of P2T1 mello B2 allows 
+	sound of P2T2 synthpad B2a and 
+	sound of P2T2 synthpad B2b and 
+	sound of P2T2 synthpad B2c and 
+	sound of P2T2 synthpad B2d.
+sound of P2T1 mello B3a allows 
+	sound of P2T2 synthpad B3a and 
+	sound of P2T2 synthpad B3c and 
+	sound of P2T2 synthpad B3d and 
+	sound of P2T2 synthpad B3f.
+sound of P2T1 mello B3b allows 
+	sound of P2T2 synthpad B3b and 
+	sound of P2T2 synthpad B3c and
+	sound of P2T2 synthpad B3e and 
+	sound of P2T2 synthpad B3f.
+sound of P2T1 mello B4 allows 
+	sound of P2T2 synthpad B4a and 
+	sound of P2T2 synthpad B4b and 
+	sound of P2T2 synthpad B4c and 
+	sound of P2T2 synthpad B4d.
+sound of P2T1 mello B5 allows 
+	sound of P2T2 synthpad B5a and 
+	sound of P2T2 synthpad B5b and 
+	sound of P2T2 synthpad B5c and 
+	sound of P2T2 synthpad B5d.
+sound of P2T1 mello B6 allows 
+	sound of P2T2 synthpad B6a and 
+	sound of P2T2 synthpad B6b and 
+	sound of P2T2 synthpad B6c and 
+	sound of P2T2 synthpad B6d.
 
-An MGM track selection rule during Homely:
-	now target of MGM channel is 0;
-	if mello count is 0, rule succeeds with result {sound of P2T3 drumkit A1, sound of P2T3 drumkit A2, sound of P2T3 drumkit A3, sound of P2T3 drumkit A4, sound of P2T3 drumkit B1, sound of P2T3 drumkit B2, sound of P2T3 drumkit B3, sound of P2T3 drumkit B4, sound of P2T3 drumkit B5, sound of P2T3 drumkit B6, sound of P2T3 drumkit B7, sound of P2T3 drumkit B8};
+An MGM track selection rule when coworker optimism is positive during Homely:
+	now target of MGM channel is 4;
+	if mello count is 0, rule succeeds with result {sound of P2T3 drumkit B1b, sound of P2T3 drumkit B2b, sound of P2T3 drumkit B3b, sound of P2T3 drumkit B4b, sound of P2T3 drumkit B1a, sound of P2T3 drumkit B2a, sound of P2T3 drumkit B3a, sound of P2T3 drumkit B4a, sound of P2T3 drumkit B5a, sound of P2T3 drumkit B6a, sound of P2T3 drumkit B7a, sound of P2T3 drumkit B8a};
 	let L be a list of sound names;
 	add the current sample of MGM to L;
 	rule succeeds with result L.
 	
-sound of P2T1 mello A1 allows
-	sound of P2T3 drumkit B1 and 
-	sound of P2T3 drumkit B2 and 
-	sound of P2T3 drumkit B4 and 
-	sound of P2T3 drumkit B5 and 
-	sound of P2T3 drumkit B6 and 
-	sound of P2T3 drumkit A1 and 
-	sound of P2T3 drumkit A2 and 
-	sound of P2T3 drumkit A4.
-sound of P2T1 mello A2 allows 
-	sound of P2T3 drumkit B1 and 
-	sound of P2T3 drumkit B2 and 
-	sound of P2T3 drumkit B4 and 
-	sound of P2T3 drumkit B5 and 
-	sound of P2T3 drumkit B6 and 
-	sound of P2T3 drumkit B7 and 
-	sound of P2T3 drumkit B8 and 
-	sound of P2T3 drumkit A2 and 
-	sound of P2T3 drumkit A4.
-sound of P2T1 mello A3a allows 
-	sound of P2T3 drumkit B1 and 
-	sound of P2T3 drumkit B5 and 
-	sound of P2T3 drumkit B7 and 
-	sound of P2T3 drumkit A1 and 
-	sound of P2T3 drumkit A2.
-sound of P2T1 mello A3b allows 
-	sound of P2T3 drumkit B1 and 
-	sound of P2T3 drumkit B5 and 
-	sound of P2T3 drumkit B7 and 
-	sound of P2T3 drumkit A1 and 
-	sound of P2T3 drumkit A2.
-sound of P2T1 mello A4 allows 
-	sound of P2T3 drumkit B1 and 
-	sound of P2T3 drumkit B2 and 
-	sound of P2T3 drumkit B3 and 
-	sound of P2T3 drumkit B4 and 
-	sound of P2T3 drumkit B6 and 
-	sound of P2T3 drumkit B7 and 
-	sound of P2T3 drumkit B8 and 
-	sound of P2T3 drumkit A1 and 
-	sound of P2T3 drumkit A2 and 
-	sound of P2T3 drumkit A3 and 
-	sound of P2T3 drumkit A4.
-sound of P2T1 mello A5 allows
-	sound of P2T3 drumkit B1 and 
-	sound of P2T3 drumkit B2 and 
-	sound of P2T3 drumkit B5 and 
-	sound of P2T3 drumkit B8 and 
-	sound of P2T3 drumkit A1.
-sound of P2T1 mello A6 allows 
-	sound of P2T3 drumkit B2 and 
-	sound of P2T3 drumkit B4 and 
-	sound of P2T3 drumkit B5 and 
-	sound of P2T3 drumkit B8 and 
-	sound of P2T3 drumkit A1 and 
-	sound of P2T3 drumkit A2 and 
-	sound of P2T3 drumkit A4.
+sound of P2T1 mello B1 allows
+	sound of P2T3 drumkit B1a and 
+	sound of P2T3 drumkit B2a and 
+	sound of P2T3 drumkit B4a and 
+	sound of P2T3 drumkit B5a and 
+	sound of P2T3 drumkit B6a and 
+	sound of P2T3 drumkit B1b and 
+	sound of P2T3 drumkit B2b and 
+	sound of P2T3 drumkit B4b.
+sound of P2T1 mello B2 allows 
+	sound of P2T3 drumkit B1a and 
+	sound of P2T3 drumkit B2a and 
+	sound of P2T3 drumkit B4a and 
+	sound of P2T3 drumkit B5a and 
+	sound of P2T3 drumkit B6a and 
+	sound of P2T3 drumkit B7a and 
+	sound of P2T3 drumkit B8a and 
+	sound of P2T3 drumkit B2b and 
+	sound of P2T3 drumkit B4b.
+sound of P2T1 mello B3a allows 
+	sound of P2T3 drumkit B1a and 
+	sound of P2T3 drumkit B5a and 
+	sound of P2T3 drumkit B7a and 
+	sound of P2T3 drumkit B1b and 
+	sound of P2T3 drumkit B2b.
+sound of P2T1 mello B3b allows 
+	sound of P2T3 drumkit B1a and 
+	sound of P2T3 drumkit B5a and 
+	sound of P2T3 drumkit B7a and 
+	sound of P2T3 drumkit B1b and 
+	sound of P2T3 drumkit B2b.
+sound of P2T1 mello B4 allows 
+	sound of P2T3 drumkit B1a and 
+	sound of P2T3 drumkit B2a and 
+	sound of P2T3 drumkit B3a and 
+	sound of P2T3 drumkit B4a and 
+	sound of P2T3 drumkit B6a and 
+	sound of P2T3 drumkit B7a and 
+	sound of P2T3 drumkit B8a and 
+	sound of P2T3 drumkit B1b and 
+	sound of P2T3 drumkit B2b and 
+	sound of P2T3 drumkit B3b and 
+	sound of P2T3 drumkit B4b.
+sound of P2T1 mello B5 allows
+	sound of P2T3 drumkit B1a and 
+	sound of P2T3 drumkit B2a and 
+	sound of P2T3 drumkit B5a and 
+	sound of P2T3 drumkit B8a and 
+	sound of P2T3 drumkit B1b.
+sound of P2T1 mello B6 allows 
+	sound of P2T3 drumkit B2a and 
+	sound of P2T3 drumkit B4a and 
+	sound of P2T3 drumkit B5a and 
+	sound of P2T3 drumkit B8a and 
+	sound of P2T3 drumkit B1b and 
+	sound of P2T3 drumkit B2b and 
+	sound of P2T3 drumkit B4b.
+	
+An M1M track selection rule when coworker optimism is positive during Homely:
+	now target of M1M channel is 16;
+	rule succeeds with result {sound of P2T4 Rhodes B1, sound of P2T4 Rhodes B2, sound of P2T4 Rhodes B3, sound of P2T4 Rhodes B4, sound of P2T4 Rhodes B5, sound of P2T4 Rhodes B6, sound of P2T4 Rhodes B7, sound of P2T4 Rhodes B8, sound of P2T4 Rhodes B9};
+	
+Section 1c - Dangerous
+
+[--cabin theme var3 - dangerous--]
+[
+[guitar + piano combo]
+sound of P2T1 mello C1 is the file "CW Theme M3 ogg\Mellotron\m3 mello a.ogg". sound of P2T1 mello C1 lasts 12.
+sound of P2T1 mello C2 is the file "CW Theme M3 ogg\Mellotron\m3 mello b.ogg". sound of P2T1 mello C2 lasts 12.
+sound of P2T1 mello C3 is the file "CW Theme M3 ogg\Mellotron\m3 mello c faded.ogg". sound of P2T1 mello C3 lasts 12.
+
+[higher pitched synth]
+sound of P2T2 synthpad C1 is the file "CW Theme M3 ogg\Pad\m3 pad a faded.ogg". sound of P2T2 synthpad C1 lasts 12.
+sound of P2T2 synthpad C2 is the file "CW Theme M3 ogg\Pad\m3 pad B faded.ogg". sound of P2T2 synthpad C2 lasts 12.
+sound of P2T2 synthpad C3 is the file "CW Theme M3 ogg\Pad\m3 pad C.ogg". sound of P2T2 synthpad C3 lasts 12.
+sound of P2T2 synthpad C4 is the file "CW Theme M3 ogg\Pad\m3 pad D.ogg". sound of P2T2 synthpad C4 lasts 6.
+
+[nice drum loops]
+sound of P2T3 drumkit C1 is the file "CW Theme M3 ogg\Beat\beat hats toms.ogg". sound of P2T3 drumkit C1 lasts 6.
+sound of P2T3 drumkit C2 is the file "CW Theme M3 ogg\Beat\beat hats.ogg". sound of P2T3 drumkit C2 lasts 6.
+sound of P2T3 drumkit C3 is the file "CW Theme M3 ogg\Beat\beat toms.ogg". sound of P2T3 drumkit C3 lasts 6.
+sound of P2T3 drumkit C4 is the file "CW Theme M3 ogg\Beat\beat.ogg". sound of P2T3 drumkit C4 lasts 6.
+sound of P2T3 drumkit C5 is the file "CW Theme M3 ogg\Beat\toms.ogg". sound of P2T3 drumkit C5 lasts 6.
+
+[bass synth]
+sound of P2T4 Bass C1 is the file "CW Theme M3 ogg\Bass\bass a.ogg". sound of P2T4 Bass C1 lasts 6.]
+
+
 	
 Part D - Endgame
 
@@ -1713,8 +1823,156 @@ sound of P2T2 bass A2 allows sound of P2T3 pad A2.
 sound of P2T2 bass A1 allows sound of P2T3 pad A1.
 sound of P2T2 bass A4 allows sound of P2T3 pad A4.
 	
+VOLUME IV - BEHIND THE SCENES WORKINGS
+
+Book One - Credits, etc
+
+After printing the banner text, say "Music and Sound Design by ZORK FREE ARTS LAB[first time][line break][sound note][only]"
+
+To say sound note:
+	say "[italic type]This game is designed with music and sound effects. For more details, type ABOUT[roman type]."
+
+Requesting the about information is an action out of world, applying to nothing. Understand "about" and "credit" and "credits" as requesting the about information. Carry out requesting the about information: say "This is an experimental project, designed to be tightly integrated with a music system and sound effects. Playing without an interpreter capable of sound playback is not recommended. (Note: Some interpreters play sounds back at different volumes; adjust the volumes yourself using the commands below.)
+
+Music and Sound Design by ZORK FREE ARTS LAB. www.stereosanctity.org 
+Coworker's Theme features Rhodes played by Florian Blau.
+
+Type SOUNDS OFF or MUSIC OFF to disable sound effects or music, respectively; SOUNDS ON or MUSIC ON to re-enable one or the other; SOUNDS <number> or MUSIC <number> to change their volume; or simply SOUNDS or MUSIC to toggle playing either. Type VOLUME to see the current volume levels.
+
+Testers: Kelly Belz, Colin Djukic
+
+Thanks to Ron Newcomb"
+
+Book Two - Audio Playback Controls
+
+Disabling sounds is an action out of world, applying to nothing. Understand the command "sounds" as something new. Understand "sounds off" as disabling sounds. Understand the commands "sound" and "sfx" and "effects" and "sound effects" as "sounds".
+Carry out disabling sounds:
+	stop the foreground sound;
+	stop the midground 3 sound;
+	we won't play sounds.
+Report disabling sounds: 	say "Sound effects disabled."
+	
+Enabling sounds is an action out of world, applying to nothing. Understand "sounds on" as enabling sounds.
+Carry out enabling sounds:	we will play sounds.
+Report enabling sounds:	say "Sound effects enabled."
+	
+Toggling sounds is an action out of world, applying to nothing. Understand "sounds" as toggling sounds.
+Carry out toggling sounds: 
+	if we shouldn't play sounds, try enabling sounds instead;
+	otherwise try disabling sounds instead.
+	
+Disabling music is an action out of world, applying to nothing. Understand the command "music" as something new. Understand "music off" as disabling music.
+Carry out disabling music: 
+	stop the midground sound;
+	stop the midground 1 sound;
+	stop the midground 2 sound;
+	stop the background sound;
+	we won't play music;
+Report disabling music:
+	say "Music disabled."
+	
+Enabling music is an action out of world, applying to nothing. Understand "music on" as enabling music.
+Carry out enabling music:	we will play music.
+Report enabling music:	say "Music enabled."
+	
+Toggling music is an action out of world, applying to nothing. Understand "music" as toggling music.
+Carry out toggling music: 
+	if we wouldn't play music, try enabling music instead;
+	otherwise try disabling music instead.
+	
+Setting sounds volume to is an action out of world, applying to one value. Understand "sounds volume level [a number]" and "sounds volume/level [a number]" and "sounds [a number]" as setting sounds volume to. The setting sounds volume to action has a number called the prior sounds setting.
+Check setting sounds volume to:
+	if the number understood is less than 0 or the number understood is greater than 100:
+		instead say "The volume must be a number from 0 to 100.";
+	if the number understood is 0, try disabling sounds instead.
+Carry out setting sounds volume to:
+	if we wouldn't play sounds, we will play sounds;
+	now the prior sounds setting is the sounds volume;
+	change the sounds volume to the number understood;
+Report setting sounds volume to:
+	say "Sound effects volume changed from [the prior sounds setting] to [the number understood]."
+	
+Setting music volume to is an action out of world, applying to one value. Understand "music volume level [a number]" and "music volume/level [a number]" and "music [a number]" as setting music volume to. The setting music volume to action has a number called the prior music setting.
+Check setting music volume to:
+	if the number understood is less than 0 or the number understood is greater than 100:
+		instead say "The volume must be a number from 0 to 100.";
+	if the number understood is 0, try disabling music instead.
+Carry out setting music volume to:
+	if we wouldn't play music, we will play music;
+	now the prior music setting is the music volume;
+	change the music volume to the number understood.
+Report setting music volume to:
+	say "Music volume changed from [the prior music setting] to [the number understood]."
+	
+Requesting volume level is an action out of world, applying to nothing. Understand "volume level/levels" and "volume" and "level" and "levels" as requesting volume level.
+Carry out requesting volume level:
+	say "Music volume [music volume]. Sound effects volume [sounds volume]."
+	
+Book Three - Truth States as 'We' Commands (adapted from "The Parser" by Ron Newcomb)
+
+To decide if we still/should/need/must/have/will/-- (bool - a truth state): (- ({bool}) -).
+To decide if we can't/shouldn't/haven't/don't/won't/wouldn't (bool - a truth state): (- (~~({bool})) -).
+To decide if we do/can/have/should/will not (bool - a truth state): (- (~~({bool})) -).
+To we will/should/just/now/still/may/must/have (bool - a truth state) again/--: (- {bool} = true; -);
+To we no/do longer/not have/must/-- (bool - a truth state): (- {bool} = false; -).
+To we needn't/shouldn't/won't/haven't/can't (bool - a truth state): (- {bool} = false; -).
+To we will/should/may/must/have (bool - a truth state) if (c - a condition): (- {bool} = ({c}); -);
+To we will/should/may/must/have (bool - a truth state) unless (c - a condition): (- {bool} = (~~({c})); -);
+	
+Book Four - Testing Commands (not for release)
+
+Part A - Skipahead
+
+Skipping ahead is an action applying to nothing. Understand "skipahead" as skipping ahead.
+
+Carry out skipping ahead: 
+	now the player is in Roadside;
+	now the file folders are carried by the player.
+	
+After looking for the first time: try the player skipping ahead.
+	
+Part B - Mood Control
+
+Chapter 1 - Tension
+
+Adjusting tension is an action applying to one visible thing. Understand "tense [a direction]" as adjusting tension. Understand the command "tension" as "tense".
+
+Carry out adjusting tension up:	 increment tension.
+Carry out adjusting tension down:	 decrement tension.
+
+Report adjusting tension:			 showme tension.
+
+Chapter 2 - Isolation
+
+Adjusting isolation is an action applying to one visible thing. Understand "isolate [a direction]" as adjusting isolation. Understand the command "isolation" as "isolate".
+
+Carry out adjusting isolation up:	 increment isolation.
+Carry out adjusting isolation down:	 decrement isolation.
+
+Report adjusting isolation:			 showme isolation.
+
+Chapter 3 - Homeliness
+
+Instead of jumping during Homely:
+	increment coworker optimism;
+	showme coworker optimism.
+	
+Instead of searching the player during Homely:
+	increment coworker pessimism;
+	showme coworker pessimism.
+
+Part C - Music Debugging Notes
+
+Every turn:
+	repeat with SC running through sound channels:
+		say "[SC]: [adjustment of SC] adj, [time remaining of SC] rem, [target of SC] targ, [if SC is auditory]now=[current sample of SC][otherwise]was=[last played sample of SC][end if].";
+	showme potential track list;
+	if Homely is happening:
+		showme cabin transition;
+		showme mello count;
+
 VOLUME THE LAST
 
 Test me with "sounds on / music on".
-Test tension with "test more / tense up / tense up / tense up / tense up / tense up".
+Test tension with "e / tense up / tense up / tense up / tense up / tense up".
 Test cabin with "e / n / w".
