@@ -19,9 +19,7 @@ First when play begins:
 		
 VOLUME I - ENHANCEMENTS
 
-Book One - Niceties
-
-Part A - Listiness
+Book One - Listiness
 
 To decide which K is a random entry from (L - list of values of kind K) but/except not/for/-- (J - a K):
 	sort L in random order;
@@ -31,25 +29,29 @@ To decide which K is a random entry from (L - list of values of kind K) but/exce
 	[	happy side effect: when length = 1, J will be selected again; no special-case code required	]
 	decide on entry 1 in L.
 	
-Part B - Descriptions
+Book Two - Descriptions
 
 The verb to be described implies the description property.
 
-Book Two - Audio
+VOLUME II - Audio
 
 A sound name has a number called the length. The verb to last (it lasts, they last, it lasted, it is lasting) implies the length property.
 
-Part A - Audio Definitions
+Book I - Audio Definitions
 
 sound of null is the file "". sound of null lasts 0.
 
-Chapter 1 - Music
+Part A - Music
 
-Section 1a - intro
+Chapter 1 - Intro
+
+Section 1a - misc
 
 sound of credits intro is the file "gated\gated revsnap2.ogg". sound of credits intro lasts 16.[]
 sound of credits music is the file "campfire below\campfire below edit.ogg". sound of credits music lasts 65.[]
 sound of deep loop is the file "musicloops\loop 2.ogg". sound of deep loop lasts 16.[]
+
+Section 1b - locational
 
 sound of rhythms 1 is the file "rhythmic patterns\p1 rtm.ogg". sound of rhythms 1 lasts 16.[]
 sound of rhythms 2 is the file "rhythmic patterns\p2 rtm.ogg". sound of rhythms 2 lasts 16.[]
@@ -74,7 +76,7 @@ sound of P1T4 Rhythm B is the file "Track 1\Layer 4 Rhythm\ridm b.ogg". sound of
 sound of P1T4 Rhythm C is the file "Track 1\Layer 4 Rhythm\ridm c.ogg". sound of P1T4 Rhythm C lasts 32.[echoing rattling constant]
 sound of P1T4 Rhythm D is the file "Track 1\Layer 4 Rhythm\ridm d.ogg". sound of P1T4 Rhythm D lasts 32.[wall of sound]
 
-Section 1b - Outside the Door
+Chapter 2 - Outside the door
 
 [intense, kind of manic keyboard]
 sound of P2T1 Chord A is the file "t2 ogg\track 1 c64 chord\t1a1.ogg".  sound of P2T1 Chord A lasts 24.
@@ -97,7 +99,7 @@ sound of P2T3 Tom A1 is the file "t2 ogg\track 3 tom\t3a1.ogg".  sound of P2T3 T
 sound of P2T3 Tom A2 is the file "t2 ogg\track 3 tom\t3b1.ogg".  sound of P2T3 Tom A2 lasts 24.
 sound of P2T3 Tom A3 is the file "t2 ogg\track 3 tom\t3c1.ogg".  sound of P2T3 Tom A3 lasts 24.
 
-Section 1b - building tension
+Chapter 3 - Building tension
 
 [spooky piano]
 sound of P2T1 Piano A1 is the file "bounces 2\Track 1 Piano 1a.ogg". sound of P2T1 Piano A1 lasts 12.
@@ -115,7 +117,7 @@ sound of P2T4 Drums A1 is the file "bounces 2\Track 4 Drums 1a.ogg". sound of P2
 sound of P2T4 Drums A2 is the file "bounces 2\Track 4 Drums 1b.ogg". sound of P2T4 Drums A2 lasts 3.
 sound of P2T4 Drums A3 is the file "bounces 2\Track 4 Drums 1c.ogg". sound of P2T4 Drums A3 lasts 3.
 
-Section 1c- coworker (unused)
+Chapter 4 - Coworker (unused)
 
 [Rhodes]
 sound of P2T1 Rhodes A1 is the file "coworker\ch1a.ogg". sound of P2T1 Rhodes A1 lasts 9.
@@ -142,7 +144,7 @@ sound of P2T3 drums A1 is the file "coworker\ch3a.ogg". sound of P2T3 drums A1 l
 sound of P2T3 drums A2 is the file "coworker\ch3b.ogg". sound of P2T3 drums A2 lasts 9.
 sound of P2T3 drums A3 is the file "coworker\ch3c.ogg". sound of P2T3 drums A3 lasts 9.
 
-Section 1d - theme (adapted for confrontation)
+Chapter 5 - Theme (adapted into Confrontation)
 
 [synth toy keyboard]
 sound of P2T1 keys A1 is the file "p2 theme ogg\Keys A.ogg". sound of P2T1 keys A1 lasts 14.
@@ -165,10 +167,12 @@ sound of P2T4 lead A2 is the file "p2 theme ogg\Lead 2 B.ogg". sound of P2T4 lea
 sound of P2T4 lead A3 is the file "p2 theme ogg\Lead 2 C.ogg". sound of P2T4 lead A3 lasts 14.
 sound of P2T4 lead A4 is the file "p2 theme ogg\Lead 2 D.ogg". sound of P2T4 lead A4 lasts 14.
 
-Section 1e - cabin - uncertain
+Chapter 6 - Coworker's theme
 
-[old leftover - great for transitions]
+[old leftover - good for transitions]
 sound of perkloop is the file "\Theme June 23 ogg\drum + Perkloop\Perkloop.ogg". Sound of perkloop lasts 12.
+
+Section 6a - cabin - uncertain
 
 [guitar + piano combo]
 sound of P2T1 mello A1 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Mello\mello B.ogg". sound of P2T1 mello A1 lasts 6.
@@ -200,7 +204,7 @@ sound of P2T4 Rhodes A1 is the file "coworker mood 1 basic tracks july 11\Cowork
 sound of P2T4 Rhodes A2 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes B.ogg". sound of P2T4 Rhodes A2 lasts 12.
 sound of P2T4 Rhodes A3 is the file "coworker mood 1 basic tracks july 11\Coworker 1 Rhodes\rhodes C.ogg". sound of P2T4 Rhodes A3 lasts 12.
 
-Section 1f - cabin - warm
+Section 6b - cabin - warm
 
 [guitar + piano combo]
 sound of P2T1 mello B1 is the file "Theme June 23 ogg\Mellotron\A.ogg". sound of P2T1 mello B1 lasts 11.
@@ -265,7 +269,9 @@ sound of P2T4 Rhodes B7 is the file "Rhodes Bladerunner\Rhodes G.ogg". sound of 
 sound of P2T4 Rhodes B8 is the file "Rhodes Bladerunner\Rhodes H.ogg". sound of P2T4 Rhodes B8 lasts 25.
 sound of P2T4 Rhodes B9 is the file "Rhodes Bladerunner\Rhodes I.ogg". sound of P2T4 Rhodes B9 lasts 25.
 
-Section ig - cabin - dangerous
+Section 6c - cabin - dangerous 
+
+[TODO add newuns!]
 
 [guitar + piano combo]
 sound of P2T1 mello C1 is the file "CW Theme M3 ogg\Mellotron\m3 mello a.ogg". sound of P2T1 mello C1 lasts 12.
@@ -288,9 +294,93 @@ sound of P2T3 drumkit C5 is the file "CW Theme M3 ogg\Beat\toms.ogg". sound of P
 [bass synth]
 sound of P2T4 Bass C1 is the file "CW Theme M3 ogg\Bass\bass a.ogg". sound of P2T4 Bass C1 lasts 6.
 
-Chapter 2 - Sound effects
+Chapter 7 - Final confrontation
 
-Section 2a - intro
+[tech, radio static-ish]
+sound of P2Ta noise 1 is the file "Confrontation ogg\Noise Synth\A.ogg". sound of P2Ta noise 1 lasts 8.
+sound of P2Ta noise 2 is the file "Confrontation ogg\Noise Synth\B.ogg". sound of P2Ta noise 2 lasts 12.
+
+Section 7a - confront - tense, sneaking
+
+[electric bass and fuzzy synth bass]
+sound of P2T1 Bass A1 is the file "Confrontation ogg\Bass\58 Ebass A.ogg". sound of P2T1 Bass A1 lasts 16.
+sound of P2T1 Bass A2 is the file "Confrontation ogg\Bass\58 Ebass B.ogg". sound of P2T1 Bass A2 lasts 16.
+sound of P2T1 Bass A3 is the file "Confrontation ogg\Bass\58 Ebass C.ogg". sound of P2T1 Bass A3 lasts 16.
+sound of P2T1 Bass A4 is the file "Confrontation ogg\Bass\58 synbass A.ogg". sound of P2T1 Bass A4 lasts 16.
+sound of P2T1 Bass A5 is the file "Confrontation ogg\Bass\58 Ebass A + synbass A.ogg". sound of P2T1 Bass A5 lasts 16.
+sound of P2T1 Bass A6 is the file "Confrontation ogg\Bass\58 synbass B + Ebass C.ogg". sound of P2T1 Bass A6 lasts 16.
+sound of P2T1 Bass A7 is the file "Confrontation ogg\Bass\58 synbass B.ogg". sound of P2T1 Bass A7 lasts 9.
+
+[thick bass synth]
+sound of P2T2 Arp A1 is the file "Confrontation ogg\Arp\58 A.ogg". sound of P2T2 Arp A1 lasts 16.
+sound of P2T2 Arp A2 is the file "Confrontation ogg\Arp\58 A.ogg". sound of P2T2 Arp A2 lasts 16.
+
+[heartbeats etc]
+sound of P2T3 Beat A1 is the file "Confrontation ogg\Beat\58 Heartbeat Ch Oh.ogg". sound of P2T3 Beat A1 lasts 16.
+sound of P2T3 Beat A2 is the file "Confrontation ogg\Beat\58 Heartbeat Hats.ogg". sound of P2T3 Beat A2 lasts 16.
+sound of P2T3 Beat A3 is the file "Confrontation ogg\Beat\58 Heartbeat.ogg". sound of P2T3 Beat A3 lasts 16.
+sound of P2T3 Beat A4 is the file "Confrontation ogg\Beat\58 tension 2.ogg". sound of P2T3 Beat A4 lasts 4.
+sound of P2T3 Beat A5 is the file "Confrontation ogg\Beat\58 tension.ogg". sound of P2T3 Beat A5 lasts 4.
+
+[clockwork toy]
+sound of P2T4 Toy A1 is the file "Confrontation ogg\Clockwork\58 A.ogg". sound of P1T4 Toy A1 lasts 16.
+sound of P2T4 Toy A2 is the file "Confrontation ogg\Clockwork\58 B.ogg". sound of P1T4 Toy A2 lasts 16.
+sound of P2T4 Toy A3 is the file "Confrontation ogg\Clockwork\58 C.ogg". sound of P1T4 Toy A3 lasts 16.
+
+[bizarre interest fadout synth]
+sound of P2T4 Pad A1 is the file "Confrontation ogg\Pad\58 A.ogg". sound of P1T4 Pad A1 lasts 8.
+sound of P2T4 Pad A2 is the file "Confrontation ogg\Pad\58 B.ogg". sound of P1T4 Pad A2 lasts 8.
+sound of P2T4 Pad A3 is the file "Confrontation ogg\Pad\58 C.ogg". sound of P1T4 Pad A3 lasts 12.
+
+Section 7b - confront - intense
+
+[bit dissonant synth]
+sound of P2T1 Bass B1 is the file "Confrontation ogg\Bass\62 A.ogg". sound of P2T1 Bass lasts 7.
+sound of P2T1 Bass B2 is the file "Confrontation ogg\Bass\62 B.ogg". sound of P2T2 Bass lasts 7.
+
+[Tron-ish arpeggios]
+sound of P2T2 Arp B1 is the file "Confrontation ogg\Arp\62 A.ogg". sound of P2T2 Arp B1 lasts 15.
+sound of P2T2 Arp B2 is the file "Confrontation ogg\Arp\62 B.ogg". sound of P2T2 Arp B2 lasts 15.
+
+[quick beats]
+sound of P2T3 Beat B1 is the file "Confrontation ogg\Beat\62 run 2.ogg". sound of P2T3 Beat B1 lasts 3.
+sound of P2T3 Beat B2 is the file "Confrontation ogg\Beat\62 run.ogg". sound of P2T3 Beat B2 lasts 3.
+sound of P2T3 Beat B3 is the file "Confrontation ogg\Beat\62 tension 2.ogg". sound of P2T3 Beat B3 lasts 3.
+
+[synthy choir]
+sound of P2T4 Choir B1 is the file "Confrontation ogg\Choir\62 A.ogg". sound of P2T4 Choir B1 lasts 15.
+sound of P2T4 Choir B2 is the file "Confrontation ogg\Choir\62 B.ogg". sound of P2T4 Choir B2 lasts 15.
+
+[anticipatory Rhodes]
+sound of P2T4 Rhodes B1 is the file "Confrontation ogg\Rhodes\62 A.ogg". sound of P2T4 Rhodes B1 lasts 15.
+sound of P2T4 Rhodes B2 is the file "Confrontation ogg\Rhodes\62 B.ogg". sound of P2T4 Rhodes B2 lasts 15.
+sound of P2T4 Rhodes B3 is the file "Confrontation ogg\Rhodes\62 C.ogg". sound of P2T4 Rhodes B3 lasts 15.
+
+Section 7c - confront - finality
+
+[deep fuzzy synth]
+sound of P2T1 Bass C1 is the file "Confrontation ogg\Bass\65 E.ogg". sound of P2T1 Bass lasts 14.
+sound of P2T1 Bass C2 is the file "Confrontation ogg\Bass\65 F.ogg". sound of P2T2 Bass lasts 14.
+
+[50s scifi theremin]
+sound of P2T2 Lead C1 is the file "Confrontation ogg\Lead\65 >.ogg". sound of P2T2 Lead C1 lasts 14.
+sound of P2T2 Lead C2 is the file "Confrontation ogg\Lead\65 F.ogg". sound of P2T2 Lead C2 lasts 14.
+
+[increasingly militaristic]
+sound of P2T3 Beat C1 is the file "Confrontation ogg\Drums\toms.ogg". sound of P2T3 Beat C1 lasts 14.
+sound of P2T3 Beat C2 is the file "Confrontation ogg\Drums\909.ogg". sound of P2T3 Beat C2 lasts 14.
+sound of P2T3 Beat C3 is the file "Confrontation ogg\Drums\Marching.ogg". sound of P2T3 Beat C3 lasts 14.
+sound of P2T3 Beat C4 is the file "Confrontation ogg\Drums\909 marching.ogg". sound of P2T3 Beat C4 lasts 14.
+
+[ascending clockwork]
+sound of P2T4 Toy C1 is the file "Confrontation ogg\Clockwork\65 E.ogg". sound of P2T4 Toy C1 lasts 14.
+
+[faster double fadeout synth]
+sound of P2T4 Pad C1 is the file "Confrontation ogg\Pad\E.ogg". sound of P2T4 Pad C1 lasts 14.
+
+Part B - Sound effects
+
+Chapter 1 - Intro
 
 sound of drips is the file "gated\drips.ogg". sound of drips lasts 16.[]
  
@@ -331,9 +421,10 @@ sound of clicking is the file "RECORDINGS\materials\plastic 1.ogg". sound of cli
 sound of metal rolling is the file "RECORDINGS\materials\rolling 1.ogg". sound of metal rolling lasts 40.[]
 sound of ribbed rolling is the file "RECORDINGS\materials\rolling 2.ogg". sound of ribbed rolling lasts 24.[]
 
-Section 2b - ambiance
+Chapter 2 - ambiance
 
-[--wind--]
+Section 2a - wind
+
 sound of wind noise is the file "t2 ogg\track 4 noise\t4a1.ogg". sound of wind noise lasts 24.
 sound of bird trees 1 is the file "ambient sounds\trees wind\17383__homejrande__wind-trees1.ogg". sound of bird trees 1 lasts 8.
 sound of bird trees 2 is the file "ambient sounds\trees wind\17383__homejrande__wind-trees5.ogg". sound of bird trees 2 lasts 5.
@@ -351,7 +442,8 @@ sound of wind birch 3 is the file "ambient sounds\trees wind\131032__klankbeeld_
 sound of wind birch 4 is the file "ambient sounds\trees wind\131032__klankbeeld__wind-in-tree-white-birch-04.ogg". sound of wind birch 4 lasts 24.
 sound of wind leaves is the file "ambient sounds\trees wind\159606__klangfabrik__windinleaves1.ogg". sound of wind leaves lasts 10.
 
-[--lake--]
+Section 2b - lake
+
 sound of bird lake 1 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren1.ogg". sound of bird lake 1 lasts 17.
 sound of bird lake 2 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren2.ogg". sound of bird lake 2 lasts 17.
 sound of bird lake 3 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren3.ogg". sound of bird lake 3 lasts 20.
@@ -359,11 +451,13 @@ sound of bird lake 4 is the file "ambient sounds\lake\156525__owl__lake-waves-hj
 sound of bird lake 5 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren5.ogg". sound of bird lake 5 lasts 21.
 sound of bird lake 6 is the file "ambient sounds\lake\156525__owl__lake-waves-hjalmaren6.ogg". sound of bird lake 6 lasts 14.
 
-[--aircraft--]
-sound of airplane is the file "ambient sounds\avionics\74361__zolopher__airplane-pass.ogg". sound of airplane lasts 37.
-sound of portbot is the file "ambient sounds\avionics\176307__portbot__5.ogg". sound of portbot lasts 20.
+Section 2c - planes
 
-[--cabin--]
+sound of airplane is the file "ambient sounds\avionics\74361__zolopher__airplane-pass.ogg". sound of airplane lasts 37.
+sound of craft is the file "ambient sounds\avionics\176307__portbot__5.ogg". sound of craft lasts 20.
+
+Section 2d - cabin
+
 sound of cabin creak 1 is the file "ambient sounds\cabin\177779__dheming__wood-creak-021.ogg". sound of cabin creak 1 lasts 6.
 sound of cabin creak 2 is the file "ambient sounds\cabin\177779__dheming__wood-creak-022.ogg". sound of cabin creak 2 lasts 6.
 sound of cabin creak 3 is the file "ambient sounds\cabin\177779__dheming__wood-creak-023.ogg". sound of cabin creak 3 lasts 5.
@@ -372,14 +466,16 @@ sound of cabin creak 5 is the file "ambient sounds\cabin\177779__dheming__wood-c
 sound of cabin creak 6 is the file "ambient sounds\cabin\177779__dheming__wood-creak-026.ogg". sound of cabin creak 6 lasts 5.
 sound of cabin creak 7 is the file "ambient sounds\cabin\177779__dheming__wood-creak-027.ogg". sound of cabin creak 7 lasts 5.
 
-Section 2c - incidentals
+Chapter 3 - Incidental effects
 
-[--siren--]
+Chapter 3a - sirens
+
 sound of siren 1 is the file "ambient sounds\siren\72688__djscrizzle__550at-3x1m1b.ogg". sound of siren 1 lasts 25.
 sound of siren 2 is the file "ambient sounds\siren\72688__djscrizzle__550at-3x1m2b.ogg". sound of siren 2 lasts 16.
 sound of siren 3 is the file "ambient sounds\siren\72688__djscrizzle__550at-3x1m3b.ogg". sound of siren 3 lasts 19.
 
-[--hovercraft--]
+Chapter 3b - hovercraft
+
 sound of hover arrive is the file "ambient sounds\avionics\124009__setuniman__airplane-fly-by-m-23-c3.ogg". sound of hover arrive lasts 30.
 
 Part B - Basic Sound Functions
@@ -1317,7 +1413,7 @@ Forestry is a region. Roadside is in Forestry.
 
 An ambient sound selection rule when in Forestry:
 	now target of M3S channel is 100;
-	rule succeeds with result {sound of wind noise, [sound of bird trees 1, sound of bird trees 2, sound of bird trees 3, ]sound of wind trees 2, sound of wind trees 3, sound of wind trees 4, sound of wind trees 5, sound of wind trees 6, sound of wind trees 7, sound of wind trees 8, sound of wind trees 9, sound of wind birch 2, sound of wind birch 3, sound of wind birch 4, sound of wind leaves, sound of airplane, sound of portbot}
+	rule succeeds with result {sound of wind noise, [sound of bird trees 1, sound of bird trees 2, sound of bird trees 3, ]sound of wind trees 2, sound of wind trees 3, sound of wind trees 4, sound of wind trees 5, sound of wind trees 6, sound of wind trees 7, sound of wind trees 8, sound of wind trees 9, sound of wind birch 2, sound of wind birch 3, sound of wind birch 4, sound of wind leaves, sound of airplane, sound of craft}
 	
 Part B - Intersection
 
@@ -1332,7 +1428,7 @@ Chapter 1 - Sounds
 
 An ambient sound selection rule when in Lake Shore:
 	now target of M3S channel is 10;
-	rule succeeds with result {sound of bird lake 1, sound of  bird lake 2, sound of  bird lake 3, sound of  bird lake 4, sound of  bird lake 5, sound of  bird lake 6, sound of airplane, sound of portbot}
+	rule succeeds with result {sound of bird lake 1, sound of  bird lake 2, sound of  bird lake 3, sound of  bird lake 4, sound of  bird lake 5, sound of  bird lake 6, sound of airplane, sound of craft}
 
 Part D - Secluded Cove
 
@@ -1347,7 +1443,7 @@ Chapter 1 - Sound
 
 An ambient sound selection rule when in Cabin:
 	now target of M3S channel is 60;
-	rule succeeds with result {sound of cabin creak 1, sound of  cabin creak 2, sound of  cabin creak 3, sound of  cabin creak 4, sound of  cabin creak 5, sound of  cabin creak 6, sound of  cabin creak 7, sound of airplane, sound of portbot}
+	rule succeeds with result {sound of cabin creak 1, sound of  cabin creak 2, sound of  cabin creak 3, sound of  cabin creak 4, sound of  cabin creak 5, sound of  cabin creak 6, sound of  cabin creak 7, sound of airplane, sound of craft}
 
 Part F - Collection Station
 
@@ -1574,11 +1670,9 @@ A BGM track selection rule when coworker optimism is 0 and cabin transition is a
 	now target of BGM channel is 0;
 	rule succeeds with result {sound of P2T1 Chord A, sound of P2T1 Chord B, sound of P2T1 Chord C}.
 		
-An M1M track selection rule when coworker optimism is 0 and cabin transition is between 1 and 3 inclusive during Homely:
+An M1M track selection rule when coworker optimism is 0 and cabin transition is between 1 and 2 inclusive during Homely:
 	now target of M1M channel is 0;
 	now beat length of M1M channel is 12;
-	if cabin transition is 3:
-		rule succeeds with result {sound of P2T1 mello A1};
 	rule succeeds with result {sound of perkloop};
 
 An MGM track selection rule when coworker optimism is 0 and cabin transition is between 2 and 5 inclusive during Homely:
@@ -1836,6 +1930,7 @@ Requesting the about information is an action out of world, applying to nothing.
 
 Music and Sound Design by ZORK FREE ARTS LAB. www.stereosanctity.org 
 Coworker's Theme features Rhodes played by Florian Blau.
+Sounds from freesound.org by homejrande, klangfabrik, klankbeeld, hjalmaren, zolopher, portbot, dheming, djscrizzle, setuniman.
 
 Type SOUNDS OFF or MUSIC OFF to disable sound effects or music, respectively; SOUNDS ON or MUSIC ON to re-enable one or the other; SOUNDS <number> or MUSIC <number> to change their volume; or simply SOUNDS or MUSIC to toggle playing either. Type VOLUME to see the current volume levels.
 
